@@ -86,186 +86,186 @@ Check the Frequently Asked Questions section for more details.
 
 <!-- <!-- MarkdownTOC depth=3 autolink=true -->
 
-- [Introduction][introduction]
-- [Main goals of this challenge][user-content-main-goals-of-this-challenge]
-    - [Obtain perfect amounts of all missable items!][user-content-obtain-perfect-amounts-of-all-missable-items]
-    - [Obtain maximum amounts of all missable unique items!][user-content-obtain-maximum-amounts-of-all-missable-unique-items]
-    - [Loot all missable chests and search all missable field icons!][user-content-loot-all-missable-chests-and-search-all-missable-field-icons]
-    - [Obtain all missable key items!][user-content-obtain-all-missable-key-items]
-    - [Keep your party at Lv 1 in order to achieve max stats later!][user-content-keep-your-party-at-lv-1-in-order-to-achieve-max-stats-later]
-    - [Deliver and read all missable Mognet letters!][user-content-deliver-and-read-all-missable-mognet-letters]
-    - [Buy all of Stiltzkin's special offers!][user-content-buy-all-of-stiltzkins-special-offers]
-    - [Defeat all the Treno weapon shop monsters!][user-content-defeat-all-the-treno-weapon-shop-monsters]
-- [The problem of max stats][user-content-the-problem-of-max-stats]
-- [Using this guide][user-content-using-this-guide]
-    - [Skip all dialogues!][user-content-skip-all-dialogues]
-    - [Skip all ATEs!][user-content-skip-all-ates]
-    - [Skip all FMVs!][user-content-skip-all-fmvs]
-    - [Optimize your system settings!][user-content-optimize-your-system-settings]
-    - [Manage your saves wisely!][user-content-manage-your-saves-wisely]
-    - [Learn to abuse, erm, take advantage of the battle system!][user-content-learn-to-abuse-erm-take-advantage-of-the-battle-system]
-    - [Practice, practice, practice!][user-content-practice-practice-practice]
-    - [Patience, patience, patience!][user-content-patience-patience-patience]
-    - [Master the art of the soft reset!][user-content-master-the-art-of-the-soft-reset]
-        - [Current save location &rarr; Next save location][user-content-current-save-location-rarr-next-save-location]
-- [Video assistance][user-content-video-assistance]
-- [Walkthrough][user-content-walkthrough]
-    - [Disc 1 - Good luck, and happy trails!][user-content-disc-1---good-luck-and-happy-trails]
-        - [New game &rarr; Alexandria Steeple][user-content-new-game-rarr-alexandria-steeple]
-        - [Alexandria Steeple &rarr; Alexandria Castle Guardhouse][user-content-alexandria-steeple-rarr-alexandria-castle-guardhouse]
-        - [Alexandria Castle Guardhouse &rarr; Prima Vista Crash Site][user-content-alexandria-castle-guardhouse-rarr-prima-vista-crash-site]
-        - [Prima Vista Crash Site &rarr; Evil Forest Spring][user-content-prima-vista-crash-site-rarr-evil-forest-spring]
-        - [Evil Forest &rarr; Gunitas Basin][user-content-evil-forest-rarr-gunitas-basin]
-        - [Gunitas Basin &rarr; Ice Cavern Cave][user-content-gunitas-basin-rarr-ice-cavern-cave]
-        - [Ice Cavern Cave &rarr; Dali Storage Area][user-content-ice-cavern-cave-rarr-dali-storage-area]
-        - [Dali Storage Area &rarr; Lindblum Inn][user-content-dali-storage-area-rarr-lindblum-inn]
-        - [Lindblum Inn &rarr; Lindblum Castle Guest Room][user-content-lindblum-inn-rarr-lindblum-castle-guest-room]
-        - [Lindblum Castle Guest Room &rarr; Lindblum Dragon's Gate][user-content-lindblum-castle-guest-room-rarr-lindblum-dragons-gate]
-        - [Lindblum Dragon's Gate &rarr; Eunorus Plains][user-content-lindblum-dragons-gate-rarr-eunorus-plains]
-        - [Eunorus Plains &rarr; Daines-Horse Basin][user-content-eunorus-plains-rarr-daines-horse-basin]
-        - [Oak Staff detour][user-content-oak-staff-detour]
-        - [Daines-Horse Basin &rarr; Start of Disc 2][user-content-daines-horse-basin-rarr-start-of-disc-2]
-    - [Disc 2 - Congratulations! You've finished Disc 1!][user-content-disc-2---congratulations-youve-finished-disc-1]
-        - [Start of Disc 2 &rarr; Bentini Heights][user-content-start-of-disc-2-rarr-bentini-heights]
-        - [Bentini Heights &rarr; Gargan Roo][user-content-bentini-heights-rarr-gargan-roo]
-        - [Gargan Roo &rarr; Cleyra's Trunk][user-content-gargan-roo-rarr-cleyras-trunk]
-        - [Cleyra's Trunk &rarr; Cleyra Inn][user-content-cleyras-trunk-rarr-cleyra-inn]
-        - [Cleyra Inn &rarr; Cleyra Sandpit][user-content-cleyra-inn-rarr-cleyra-sandpit]
-        - [Cleyra Sandpit &rarr; Red Rose Cabin][user-content-cleyra-sandpit-rarr-red-rose-cabin]
-        - [Red Rose Cabin &rarr; Alexandria Chapel][user-content-red-rose-cabin-rarr-alexandria-chapel]
-        - [Alexandra Rescue][user-content-alexandra-rescue]
-        - [Alexandria Chapel &rarr; Eunorus Plains][user-content-alexandria-chapel-rarr-eunorus-plains]
-        - [Eunorus Plains &rarr; Fossil Roo Cavern][user-content-eunorus-plains-rarr-fossil-roo-cavern]
-        - [Fossil Roo Cavern &rarr; Magdalene Forest][user-content-fossil-roo-cavern-rarr-magdalene-forest]
-        - [Magdalene Forest &rarr; Conde Petie][user-content-magdalene-forest-rarr-conde-petie]
-        - [Conde Petie &rarr; Lucid Plains][user-content-conde-petie-rarr-lucid-plains]
-        - [Lucid Plains &rarr; Iifa Tree Roots][user-content-lucid-plains-rarr-iifa-tree-roots]
-        - [Iifa Tree Roots &rarr; Lucid Plains][user-content-iifa-tree-roots-rarr-lucid-plains]
-        - [Lucid Plains &rarr; Pualei Plains][user-content-lucid-plains-rarr-pualei-plains]
-        - [Pualei Plains &rarr; Start of Disc 3][user-content-pualei-plains-rarr-start-of-disc-3]
-    - [Disc 3 - Congratulations! You've finished Disc 2!][user-content-disc-3---congratulations-youve-finished-disc-2]
-        - [Start of Disc 3 &rarr; Bentini Heights][user-content-start-of-disc-3-rarr-bentini-heights]
-        - [Dali detour][user-content-dali-detour]
-        - [Bentini Heights &rarr; Lindblum Castle Guest Room][user-content-bentini-heights-rarr-lindblum-castle-guest-room]
-        - [Lindblum Castle Guest Room &rarr; Treno Knight's House][user-content-lindblum-castle-guest-room-rarr-treno-knights-house]
-        - [Treno Knight's House &rarr; Kiera Desert][user-content-treno-knights-house-rarr-kiera-desert]
-        - [Kiera Desert &rarr; Desert Palace Rack][user-content-kiera-desert-rarr-desert-palace-rack]
-        - [Desert Palace Rack &rarr; Gulug Mountains][user-content-desert-palace-rack-rarr-gulug-mountains]
-        - [Gulug Mountains &rarr; Lindblum Castle Guest Room][user-content-gulug-mountains-rarr-lindblum-castle-guest-room]
-        - [Lindblum Caste Guest Room &rarr; Ipsen's Castle][user-content-lindblum-caste-guest-room-rarr-ipsens-castle]
-        - [Ipsen's Castle &rarr; Blairsurpass Plains][user-content-ipsens-castle-rarr-blairsurpass-plains]
-        - [Blairsurpass Plains &rarr; Bran Bal Storage][user-content-blairsurpass-plains-rarr-bran-bal-storage]
-        - [Bran Bal &rarr; Pandemonium Hall][user-content-bran-bal-rarr-pandemonium-hall]
-        - [Pandemonium Hall &rarr; Start of Disc 4][user-content-pandemonium-hall-rarr-start-of-disc-4]
-    - [Disc 4 - Congratulations! You've finished Disc 3!][user-content-disc-4---congratulations-youve-finished-disc-3]
-        - [Start of Disc 4 &rarr; Memoria Entrance][user-content-start-of-disc-4-rarr-memoria-entrance]
-        - [The Fire Chaos: Maliris][user-content-the-fire-chaos-maliris]
-        - [The Wind Chaos: Tiamat][user-content-the-wind-chaos-tiamat]
-        - [The Water Chaos: Kraken][user-content-the-water-chaos-kraken]
-        - [The Earth Chaos: Lich][user-content-the-earth-chaos-lich]
-- [Leftovers][user-content-leftovers]
-    - [Chocobo Hot&Cold][user-content-chocobo-hotcold]
-    - [Maxing Gil][user-content-maxing-gil]
-    - [Maxing stats & experience][user-content-maxing-stats--experience]
-    - [Tetra Master][user-content-tetra-master]
-    - [Side-quests][user-content-side-quests]
-    - [Maxing out your inventory][user-content-maxing-out-your-inventory]
-    - [Miscellaneous][user-content-miscellaneous]
-- [Perfect stats][user-content-perfect-stats]
-    - [Zidane][user-content-zidane]
-    - [Garnet][user-content-garnet]
-    - [Vivi][user-content-vivi]
-    - [Steiner][user-content-steiner]
-    - [Freya][user-content-freya]
-    - [Quina][user-content-quina]
-    - [Eiko][user-content-eiko]
-    - [Amarant][user-content-amarant]
-- [Treasure locations][user-content-treasure-locations]
-    - [Alexandria][user-content-alexandria]
-        - [Disc 1: Town][user-content-disc-1-town]
-        - [Disc 1: Castle][user-content-disc-1-castle]
-        - [Disc 2: Castle][user-content-disc-2-castle]
-        - [Disc 3: Town][user-content-disc-3-town]
-        - [Disc 3: Town \(After Destruction\)][user-content-disc-3-town-after-destruction]
-        - [Disc 4: Town][user-content-disc-4-town]
-    - [Prima Vista][user-content-prima-vista]
-        - [Start of Game][user-content-start-of-game]
-        - [Crash Site][user-content-crash-site]
-    - [Ice Cavern][user-content-ice-cavern]
-    - [Dali][user-content-dali]
-        - [Disc 1/2/3/4: Town][user-content-disc-1234-town]
-        - [Disc 2: Town][user-content-disc-2-town]
-        - [Disc 3: Town][user-content-disc-3-town-1]
-        - [Underground][user-content-underground]
-    - [Observatory Mountain][user-content-observatory-mountain]
-    - [Lindblum][user-content-lindblum]
-        - [Disc 1][user-content-disc-1]
-        - [Disc 2][user-content-disc-2]
-        - [Disc 3][user-content-disc-3]
-        - [Disc 4][user-content-disc-4]
-    - [Qu's Marsh][user-content-qus-marsh]
-    - [South Gate][user-content-south-gate]
-        - [Bohden Arch][user-content-bohden-arch]
-        - [Bohden Gate][user-content-bohden-gate]
-        - [Treno Arch][user-content-treno-arch]
-        - [Dali Gate-Treno Gate][user-content-dali-gate-treno-gate]
-    - [Gizamaluke's Grotto][user-content-gizamalukes-grotto]
-    - [North Gate][user-content-north-gate]
-        - [Melda Arch][user-content-melda-arch]
-        - [Burmecia Arch][user-content-burmecia-arch]
-    - [Burmecia][user-content-burmecia]
-    - [Summit Station][user-content-summit-station]
-    - [Quan's Dwelling][user-content-quans-dwelling]
-    - [Treno][user-content-treno]
-    - [Gargan Roo][user-content-gargan-roo]
-    - [Cleyra's Trunk][user-content-cleyras-trunk]
-    - [Cleyra Settlement][user-content-cleyra-settlement]
-    - [Pinnacle Rocks][user-content-pinnacle-rocks]
-    - [Fossil Roo][user-content-fossil-roo]
-    - [Conde Petie][user-content-conde-petie]
-    - [Black Mage Village][user-content-black-mage-village]
-    - [Conde Petie Mountain Path][user-content-conde-petie-mountain-path]
-    - [Madain Sari][user-content-madain-sari]
-    - [Iifa Tree][user-content-iifa-tree]
-    - [Oeilvert][user-content-oeilvert]
-    - [Desert Palace][user-content-desert-palace]
-    - [Esto Gaza][user-content-esto-gaza]
-    - [Mount Gulug][user-content-mount-gulug]
-    - [Hilda Garde 3][user-content-hilda-garde-3]
-    - [Daguerreo][user-content-daguerreo]
-    - [Ipsen's Castle][user-content-ipsens-castle]
-    - [Terra][user-content-terra]
-    - [Bran Bal][user-content-bran-bal]
-    - [Pandemonium][user-content-pandemonium]
-    - [Invincible][user-content-invincible]
-    - [Mognet Central][user-content-mognet-central]
-    - [Chocobo's Paradise][user-content-chocobos-paradise]
-    - [Chocobo's Air Garden][user-content-chocobos-air-garden]
-    - [Memoria][user-content-memoria]
-- [Frequently Asked Questions][user-content-frequently-asked-questions]
-    - [Is this challenge possible? How can you do all this in 12 hours?!][user-content-is-this-challenge-possible-how-can-you-do-all-this-in-12-hours]
-    - [All of this for a lackluster ultimate weapon?][user-content-all-of-this-for-a-lackluster-ultimate-weapon]
-    - [Can I complete this challenge on the PAL version of FFIX?][user-content-can-i-complete-this-challenge-on-the-pal-version-of-ffix]
-    - [Is it possible to get the Excalibur II by overflowing the timer?][user-content-is-it-possible-to-get-the-excalibur-ii-by-overflowing-the-timer]
-    - [How long does this challenge take overall in real life?][user-content-how-long-does-this-challenge-take-overall-in-real-life]
-    - [Is there any way to reduce the number of random encounters?][user-content-is-there-any-way-to-reduce-the-number-of-random-encounters]
-    - [Can't Vivi or Amarant also absorb Tantarian's EXP?][user-content-cant-vivi-or-amarant-also-absorb-tantarians-exp]
-    - [Is there really no way to avoid the EXP in Pandemonium?][user-content-is-there-really-no-way-to-avoid-the-exp-in-pandemonium]
-    - [What should be done with the Marcus/Eiko glitch?][user-content-what-should-be-done-with-the-marcuseiko-glitch]
-    - [I can't keep up with the target times. What am I doing wrong?][user-content-i-cant-keep-up-with-the-target-times-what-am-i-doing-wrong]
-- [Credits][user-content-credits]
-- [Version History][user-content-version-history]
-    - [Version 1][user-content-version-1]
-    - [Version 2][user-content-version-2]
-    - [Version 3][user-content-version-3]
-    - [Version 4][user-content-version-4]
-    - [Version 5][user-content-version-5]
-    - [Version 6][user-content-version-6]
-    - [Version 7][user-content-version-7]
-    - [Version 8][user-content-version-8]
-    - [Version 9][user-content-version-9]
-    - [Version X][user-content-version-x]
-- [Copyright][user-content-copyright]
+- [Introduction](#user-content-introduction)
+- [Main goals of this challenge](#user-content-main-goals-of-this-challenge)
+    - [Obtain perfect amounts of all missable items!](#user-content-obtain-perfect-amounts-of-all-missable-items)
+    - [Obtain maximum amounts of all missable unique items!](#user-content-obtain-maximum-amounts-of-all-missable-unique-items)
+    - [Loot all missable chests and search all missable field icons!](#user-content-loot-all-missable-chests-and-search-all-missable-field-icons)
+    - [Obtain all missable key items!](#user-content-obtain-all-missable-key-items)
+    - [Keep your party at Lv 1 in order to achieve max stats later!](#user-content-keep-your-party-at-lv-1-in-order-to-achieve-max-stats-later)
+    - [Deliver and read all missable Mognet letters!](#user-content-deliver-and-read-all-missable-mognet-letters)
+    - [Buy all of Stiltzkin's special offers!](#user-content-buy-all-of-stiltzkins-special-offers)
+    - [Defeat all the Treno weapon shop monsters!](#user-content-defeat-all-the-treno-weapon-shop-monsters)
+- [The problem of max stats](#user-content-the-problem-of-max-stats)
+- [Using this guide](#user-content-using-this-guide)
+    - [Skip all dialogues!](#user-content-skip-all-dialogues)
+    - [Skip all ATEs!](#user-content-skip-all-ates)
+    - [Skip all FMVs!](#user-content-skip-all-fmvs)
+    - [Optimize your system settings!](#user-content-optimize-your-system-settings)
+    - [Manage your saves wisely!](#user-content-manage-your-saves-wisely)
+    - [Learn to abuse, erm, take advantage of the battle system!](#user-content-learn-to-abuse-erm-take-advantage-of-the-battle-system)
+    - [Practice, practice, practice!](#user-content-practice-practice-practice)
+    - [Patience, patience, patience!](#user-content-patience-patience-patience)
+    - [Master the art of the soft reset!](#user-content-master-the-art-of-the-soft-reset)
+        - [Current save location &rarr; Next save location](#user-content-current-save-location-rarr-next-save-location)
+- [Video assistance](#user-content-video-assistance)
+- [Walkthrough](#user-content-walkthrough)
+    - [Disc 1 - Good luck, and happy trails!](#user-content-disc-1---good-luck-and-happy-trails)
+        - [New game &rarr; Alexandria Steeple](#user-content-new-game-rarr-alexandria-steeple)
+        - [Alexandria Steeple &rarr; Alexandria Castle Guardhouse](#user-content-alexandria-steeple-rarr-alexandria-castle-guardhouse)
+        - [Alexandria Castle Guardhouse &rarr; Prima Vista Crash Site](#user-content-alexandria-castle-guardhouse-rarr-prima-vista-crash-site)
+        - [Prima Vista Crash Site &rarr; Evil Forest Spring](#user-content-prima-vista-crash-site-rarr-evil-forest-spring)
+        - [Evil Forest &rarr; Gunitas Basin](#user-content-evil-forest-rarr-gunitas-basin)
+        - [Gunitas Basin &rarr; Ice Cavern Cave](#user-content-gunitas-basin-rarr-ice-cavern-cave)
+        - [Ice Cavern Cave &rarr; Dali Storage Area](#user-content-ice-cavern-cave-rarr-dali-storage-area)
+        - [Dali Storage Area &rarr; Lindblum Inn](#user-content-dali-storage-area-rarr-lindblum-inn)
+        - [Lindblum Inn &rarr; Lindblum Castle Guest Room](#user-content-lindblum-inn-rarr-lindblum-castle-guest-room)
+        - [Lindblum Castle Guest Room &rarr; Lindblum Dragon's Gate](#user-content-lindblum-castle-guest-room-rarr-lindblum-dragons-gate)
+        - [Lindblum Dragon's Gate &rarr; Eunorus Plains](#user-content-lindblum-dragons-gate-rarr-eunorus-plains)
+        - [Eunorus Plains &rarr; Daines-Horse Basin](#user-content-eunorus-plains-rarr-daines-horse-basin)
+        - [Oak Staff detour](#user-content-oak-staff-detour)
+        - [Daines-Horse Basin &rarr; Start of Disc 2](#user-content-daines-horse-basin-rarr-start-of-disc-2)
+    - [Disc 2 - Congratulations! You've finished Disc 1!](#user-content-disc-2---congratulations-youve-finished-disc-1)
+        - [Start of Disc 2 &rarr; Bentini Heights](#user-content-start-of-disc-2-rarr-bentini-heights)
+        - [Bentini Heights &rarr; Gargan Roo](#user-content-bentini-heights-rarr-gargan-roo)
+        - [Gargan Roo &rarr; Cleyra's Trunk](#user-content-gargan-roo-rarr-cleyras-trunk)
+        - [Cleyra's Trunk &rarr; Cleyra Inn](#user-content-cleyras-trunk-rarr-cleyra-inn)
+        - [Cleyra Inn &rarr; Cleyra Sandpit](#user-content-cleyra-inn-rarr-cleyra-sandpit)
+        - [Cleyra Sandpit &rarr; Red Rose Cabin](#user-content-cleyra-sandpit-rarr-red-rose-cabin)
+        - [Red Rose Cabin &rarr; Alexandria Chapel](#user-content-red-rose-cabin-rarr-alexandria-chapel)
+        - [Alexandra Rescue](#user-content-alexandra-rescue)
+        - [Alexandria Chapel &rarr; Eunorus Plains](#user-content-alexandria-chapel-rarr-eunorus-plains)
+        - [Eunorus Plains &rarr; Fossil Roo Cavern](#user-content-eunorus-plains-rarr-fossil-roo-cavern)
+        - [Fossil Roo Cavern &rarr; Magdalene Forest](#user-content-fossil-roo-cavern-rarr-magdalene-forest)
+        - [Magdalene Forest &rarr; Conde Petie](#user-content-magdalene-forest-rarr-conde-petie)
+        - [Conde Petie &rarr; Lucid Plains](#user-content-conde-petie-rarr-lucid-plains)
+        - [Lucid Plains &rarr; Iifa Tree Roots](#user-content-lucid-plains-rarr-iifa-tree-roots)
+        - [Iifa Tree Roots &rarr; Lucid Plains](#user-content-iifa-tree-roots-rarr-lucid-plains)
+        - [Lucid Plains &rarr; Pualei Plains](#user-content-lucid-plains-rarr-pualei-plains)
+        - [Pualei Plains &rarr; Start of Disc 3](#user-content-pualei-plains-rarr-start-of-disc-3)
+    - [Disc 3 - Congratulations! You've finished Disc 2!](#user-content-disc-3---congratulations-youve-finished-disc-2)
+        - [Start of Disc 3 &rarr; Bentini Heights](#user-content-start-of-disc-3-rarr-bentini-heights)
+        - [Dali detour](#user-content-dali-detour)
+        - [Bentini Heights &rarr; Lindblum Castle Guest Room](#user-content-bentini-heights-rarr-lindblum-castle-guest-room)
+        - [Lindblum Castle Guest Room &rarr; Treno Knight's House](#user-content-lindblum-castle-guest-room-rarr-treno-knights-house)
+        - [Treno Knight's House &rarr; Kiera Desert](#user-content-treno-knights-house-rarr-kiera-desert)
+        - [Kiera Desert &rarr; Desert Palace Rack](#user-content-kiera-desert-rarr-desert-palace-rack)
+        - [Desert Palace Rack &rarr; Gulug Mountains](#user-content-desert-palace-rack-rarr-gulug-mountains)
+        - [Gulug Mountains &rarr; Lindblum Castle Guest Room](#user-content-gulug-mountains-rarr-lindblum-castle-guest-room)
+        - [Lindblum Caste Guest Room &rarr; Ipsen's Castle](#user-content-lindblum-caste-guest-room-rarr-ipsens-castle)
+        - [Ipsen's Castle &rarr; Blairsurpass Plains](#user-content-ipsens-castle-rarr-blairsurpass-plains)
+        - [Blairsurpass Plains &rarr; Bran Bal Storage](#user-content-blairsurpass-plains-rarr-bran-bal-storage)
+        - [Bran Bal &rarr; Pandemonium Hall](#user-content-bran-bal-rarr-pandemonium-hall)
+        - [Pandemonium Hall &rarr; Start of Disc 4](#user-content-pandemonium-hall-rarr-start-of-disc-4)
+    - [Disc 4 - Congratulations! You've finished Disc 3!](#user-content-disc-4---congratulations-youve-finished-disc-3)
+        - [Start of Disc 4 &rarr; Memoria Entrance](#user-content-start-of-disc-4-rarr-memoria-entrance)
+        - [The Fire Chaos: Maliris](#user-content-the-fire-chaos-maliris)
+        - [The Wind Chaos: Tiamat](#user-content-the-wind-chaos-tiamat)
+        - [The Water Chaos: Kraken](#user-content-the-water-chaos-kraken)
+        - [The Earth Chaos: Lich](#user-content-the-earth-chaos-lich)
+- [Leftovers](#user-content-leftovers)
+    - [Chocobo Hot&Cold](#user-content-chocobo-hotcold)
+    - [Maxing Gil](#user-content-maxing-gil)
+    - [Maxing stats & experience](#user-content-maxing-stats--experience)
+    - [Tetra Master](#user-content-tetra-master)
+    - [Side-quests](#user-content-side-quests)
+    - [Maxing out your inventory](#user-content-maxing-out-your-inventory)
+    - [Miscellaneous](#user-content-miscellaneous)
+- [Perfect stats](#user-content-perfect-stats)
+    - [Zidane](#user-content-zidane)
+    - [Garnet](#user-content-garnet)
+    - [Vivi](#user-content-vivi)
+    - [Steiner](#user-content-steiner)
+    - [Freya](#user-content-freya)
+    - [Quina](#user-content-quina)
+    - [Eiko](#user-content-eiko)
+    - [Amarant](#user-content-amarant)
+- [Treasure locations](#user-content-treasure-locations)
+    - [Alexandria](#user-content-alexandria)
+        - [Disc 1: Town](#user-content-disc-1-town)
+        - [Disc 1: Castle](#user-content-disc-1-castle)
+        - [Disc 2: Castle](#user-content-disc-2-castle)
+        - [Disc 3: Town](#user-content-disc-3-town)
+        - [Disc 3: Town \(After Destruction\)](#user-content-disc-3-town-after-destruction)
+        - [Disc 4: Town](#user-content-disc-4-town)
+    - [Prima Vista](#user-content-prima-vista)
+        - [Start of Game](#user-content-start-of-game)
+        - [Crash Site](#user-content-crash-site)
+    - [Ice Cavern](#user-content-ice-cavern)
+    - [Dali](#user-content-dali)
+        - [Disc 1/2/3/4: Town](#user-content-disc-1234-town)
+        - [Disc 2: Town](#user-content-disc-2-town)
+        - [Disc 3: Town](#user-content-disc-3-town-1)
+        - [Underground](#user-content-underground)
+    - [Observatory Mountain](#user-content-observatory-mountain)
+    - [Lindblum](#user-content-lindblum)
+        - [Disc 1](#user-content-disc-1)
+        - [Disc 2](#user-content-disc-2)
+        - [Disc 3](#user-content-disc-3)
+        - [Disc 4](#user-content-disc-4)
+    - [Qu's Marsh](#user-content-qus-marsh)
+    - [South Gate](#user-content-south-gate)
+        - [Bohden Arch](#user-content-bohden-arch)
+        - [Bohden Gate](#user-content-bohden-gate)
+        - [Treno Arch](#user-content-treno-arch)
+        - [Dali Gate-Treno Gate](#user-content-dali-gate-treno-gate)
+    - [Gizamaluke's Grotto](#user-content-gizamalukes-grotto)
+    - [North Gate](#user-content-north-gate)
+        - [Melda Arch](#user-content-melda-arch)
+        - [Burmecia Arch](#user-content-burmecia-arch)
+    - [Burmecia](#user-content-burmecia)
+    - [Summit Station](#user-content-summit-station)
+    - [Quan's Dwelling](#user-content-quans-dwelling)
+    - [Treno](#user-content-treno)
+    - [Gargan Roo](#user-content-gargan-roo)
+    - [Cleyra's Trunk](#user-content-cleyras-trunk)
+    - [Cleyra Settlement](#user-content-cleyra-settlement)
+    - [Pinnacle Rocks](#user-content-pinnacle-rocks)
+    - [Fossil Roo](#user-content-fossil-roo)
+    - [Conde Petie](#user-content-conde-petie)
+    - [Black Mage Village](#user-content-black-mage-village)
+    - [Conde Petie Mountain Path](#user-content-conde-petie-mountain-path)
+    - [Madain Sari](#user-content-madain-sari)
+    - [Iifa Tree](#user-content-iifa-tree)
+    - [Oeilvert](#user-content-oeilvert)
+    - [Desert Palace](#user-content-desert-palace)
+    - [Esto Gaza](#user-content-esto-gaza)
+    - [Mount Gulug](#user-content-mount-gulug)
+    - [Hilda Garde 3](#user-content-hilda-garde-3)
+    - [Daguerreo](#user-content-daguerreo)
+    - [Ipsen's Castle](#user-content-ipsens-castle)
+    - [Terra](#user-content-terra)
+    - [Bran Bal](#user-content-bran-bal)
+    - [Pandemonium](#user-content-pandemonium)
+    - [Invincible](#user-content-invincible)
+    - [Mognet Central](#user-content-mognet-central)
+    - [Chocobo's Paradise](#user-content-chocobos-paradise)
+    - [Chocobo's Air Garden](#user-content-chocobos-air-garden)
+    - [Memoria](#user-content-memoria)
+- [Frequently Asked Questions](#user-content-frequently-asked-questions)
+    - [Is this challenge possible? How can you do all this in 12 hours?!](#user-content-is-this-challenge-possible-how-can-you-do-all-this-in-12-hours)
+    - [All of this for a lackluster ultimate weapon?](#user-content-all-of-this-for-a-lackluster-ultimate-weapon)
+    - [Can I complete this challenge on the PAL version of FFIX?](#user-content-can-i-complete-this-challenge-on-the-pal-version-of-ffix)
+    - [Is it possible to get the Excalibur II by overflowing the timer?](#user-content-is-it-possible-to-get-the-excalibur-ii-by-overflowing-the-timer)
+    - [How long does this challenge take overall in real life?](#user-content-how-long-does-this-challenge-take-overall-in-real-life)
+    - [Is there any way to reduce the number of random encounters?](#user-content-is-there-any-way-to-reduce-the-number-of-random-encounters)
+    - [Can't Vivi or Amarant also absorb Tantarian's EXP?](#user-content-cant-vivi-or-amarant-also-absorb-tantarians-exp)
+    - [Is there really no way to avoid the EXP in Pandemonium?](#user-content-is-there-really-no-way-to-avoid-the-exp-in-pandemonium)
+    - [What should be done with the Marcus/Eiko glitch?](#user-content-what-should-be-done-with-the-marcuseiko-glitch)
+    - [I can't keep up with the target times. What am I doing wrong?](#user-content-i-cant-keep-up-with-the-target-times-what-am-i-doing-wrong)
+- [Credits](#user-content-credits)
+- [Version History](#user-content-version-history)
+    - [Version 1](#user-content-version-1)
+    - [Version 2](#user-content-version-2)
+    - [Version 3](#user-content-version-3)
+    - [Version 4](#user-content-version-4)
+    - [Version 5](#user-content-version-5)
+    - [Version 6](#user-content-version-6)
+    - [Version 7](#user-content-version-7)
+    - [Version 8](#user-content-version-8)
+    - [Version 9](#user-content-version-9)
+    - [Version X](#user-content-version-x)
+- [Copyright](#user-content-copyright)
 
 <!-- /MarkdownTOC -->
 
