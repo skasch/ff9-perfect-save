@@ -271,7 +271,7 @@ Check the Frequently Asked Questions section for more details.
 
 # Introduction
 
-> Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution; it represents the wise choice of many alternatives
+> Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution; it represents the wise choice of many alternatives.
 >  *a mysterious* William A. Foster
 
 The Excalibur II Perfect Game is the ultimate attempt at completing a perfect save file in Final Fantasy IX. Contrary to initial impressions, the Excalibur II - obtainable in Memoria only within 12 hours of starting the game - and a completionist playthrough are not mutually exclusive.
@@ -308,11 +308,11 @@ Therefore, this guide includes all goals which you may want in your perfect save
 
 ## Obtain perfect amounts of all missable items!
 
-**What is a *missable item*?**
+##### What is a *missable item*?
 
 A missable item is an item which can no longer be purchased on Disc 4, for example because the shop selling it has changed its inventory or because it is no longer accessible. Once you reach Disc 4, you're left with whatever amount you brought before, if any, and any amount you may find/have found from chests or field icons.
 
-**What is the *perfect amount* to have?**
+##### What is the *perfect amount* to have?
 
 The general consensus is that this is the highest non-arbitrary amount which can be gotten under the constraints of this challenge, i.e. the 12-hour time limit during which you need to reach Disc 4 and are therefore cut off from all the sources of the missable items.
 
@@ -320,7 +320,7 @@ Specifically, this means *numbers which can be equipped + 1 copy for your invent
 
 The only amount higher than the minimum which still has some meaningful (i.e. non-arbitrary) use is the above-mentioned *number of users + 1 copy for your inventory*. This also avoids the problem of maximum amounts of (missable) synthesized items with missable inputs, the most notorious being Javelin + Silver Gloves = Save the Queen, where all 3 are missable and thus you can't have 99 of all 3 simultaneously.
 
-**So which items are missable and how many do I need?**
+##### So which items are missable and how many do I need?
 
 There are 31 items which can no longer be purchased on Disc 4. Of these, 9 are used as synthesis inputs, making another 8 items potentially missable. And 2 of these are needed for further synthesis combinations, which adds 2 more to the count, for a grand total of 41 missable non-unique items in FFIX.
 
@@ -384,15 +384,15 @@ Characters table
 
 ## Obtain maximum amounts of all missable unique items!
 
-**What is a *unique item*?**
+##### What is a *unique item*?
 
 A unique item is an item which is available in a finite quantity no matter how long you play o what you do. Most cannot be bought, and if they can, then only in a limited amount. Naturally, we will want all of these unique copies in our perfect save, and so we'll need to acquire all of the missable ones on the way to the Excalibur II.
 
-**Why not perfect amounts?**
+##### Why not perfect amounts?
 
 With the exception of one very notable case, there is little reason to differentiate between maximum and perfect amounts with regard to unique items because all the maximums are less than the perfect amount (or equal in the case of the Blood Sword).
 
-**So what's the *very notable* exception?**
+##### So what's the *very notable* exception?
 
 Promist Ring. It can be won from the Auction House as long as you don't have any in your inventory. This means you can get a total of 9 copies from the Auction House (equip one on each character and buy 1 more) However, 1 more copy is found in the Desert Palace. So if you buy all 9 from the Auction House before heading to the Desert Palace, you can have a total of 10.
 
@@ -406,7 +406,7 @@ Another way of looking at it is that Promist Ring is a special case because:
 
 However, the 10th copy is both missable and unique! If you don't get 10 on Disc 3 then there is no way to have 10 on Disc 4. And if you sell the 10th copy at any time (even on Disc 3), it's gone forever. Therefore you can treat the 10th copy as a missable unique item, and the 9 others as the requirement for acquiring and keeping it.
 
-**OK, so what are all the unique items and where/how do I get them?**
+##### OK, so what are all the unique items and where/how do I get them?
 
 The following table lists all the missable unique items, their maximum quantities and where to get all the copies. Non-missable unique items, such as ultimate weapons and items such as Hammer, are not included since they're not really relevant to the main challenge.
 
@@ -427,7 +427,7 @@ The following table lists all the missable unique items, their maximum quantitie
 | Ruby | 2 | Received when breaking the seal on the Iifa Tree<br/>Included in Stiltzkin's Alexandria deal (Disc 4) |
 | Moonstone | 3 | Reward for impressing all 100 nobles<br/>Conde Petie Mountain Path colored stones puzzle<br/>Included in Stiltzkin's Alexandria deal (Disc 4) |
 
-##### Notes
+###### Notes
 
 Some unique items can be synthesized using other unique items. The quantities provided are maximum quantities without synthesis.
 
@@ -547,19 +547,19 @@ Stats are a gray area in FFIX. The problem is that unlike with unique items or s
 
 Everyone is capable of reaching 50 Spirit, but no one achieve the max in the other 3 stats, except Zidane, who can reach 50 Speed. They are all limited by the choice of stat-raising equipment available in the game, which isn't good enough to reach the max in any stat besides Spirit.
 
-**So the how can you get *max* stats?**
+##### So the how can you get *max* stats?
 
 Stats, and even individual stat points, are unique in exactly the same way as unique items. The perfect result is therefore not the highest possible to be comprehended by the game, which would be 99 (or 50), but rather the highest attainable in normal gameplay. After that, what is the point of considering 99 to be the maximum amount of Pumice Piece when you can't get any more than 3? It's the same for stats.
 
-**OK, so let's just reach whatever maximum is possible!**
+##### OK, so let's just reach whatever maximum is possible!
 
-Unfortunately, the real issue here is that it is impossible to achieve all of a character's highest stats SIMULTANEOUSLY. Simply put, you effectively forfeit points in 1 or more stats in order to raise another; you can **never** raise any stat without neglecting to raise another as much as possible.
+Unfortunately, the real issue here is that it is impossible to achieve all of a character's highest stats **simultaneously**. Simply put, you effectively forfeit points in 1 or more stats in order to raise another; you can **never** raise any stat without neglecting to raise another as much as possible.
 
 For example, using the Robe of Lords will give each stat 1 bonus point, but that means you forfeit giving Magic 2 points with the White Robe, or Spirit 3 with the Dark Gear, and so on, depending on what equipment a character can use. That is why no character can have their highest rating in all stats at once. This in turn means that there is no universal set of highest stats for any character; each player can allocate stat points differently.
 
 Consult [letao's Perfect Stats Guide](https://letao.is-a-geek.net/ff9stats/) for a more in-depth explanation of the mechanics behind the game's stat system, as well as a calculator for finding optimal leveling strategies.
 
-**Alright, then what are my choices?**
+##### Alright, then what are my choices?
 
 There are basically two approaches: **Ordered**, and **Combined**.
 
@@ -579,13 +579,13 @@ Finally, SPD is pretty much ignored completely unless it is gotten for free alon
 
 There are three different paths within **Ordered**, depending on how you choose to distribute forced EXP: **Path A**, **Path B** and **Path C**.
 
-**You also mentioned *Combined*?**
+##### You also mentioned *Combined*?
 
 The **Combined** approach simply maximizes the combined total of all four stats. This lets you get more stat points in total, but their distribution may not be optimal in practical terms. However, since your party can beat everything in the game even at Lv 1, practical terms don't have much of a meaning to begin with, so with this approach you can max stats in a more literal sense.
 
 One thing to note is that each character's max combined stat total can be distributed in various ways without lowering the total. This means that you can still order your combined stats according to the ordered approach, albeit to a very limited extent. Likewise, you could shift the total towards STR for more HP, or MAG for more MP.
 
-**I don't really like *maxing* stats if they don't hit a cap, though…**
+##### I don't really like *maxing* stats if they don't hit a cap, though…
 
 I feel your pain. Luckily, you've still got two options: **Lv 1**, and **Base**.
 
@@ -598,7 +598,7 @@ This means you can stop playing the low-level game much sooner. Steiner can gain
 Technically, the lowest stats are gotten if characters join at Lv 99, because they do not get the free boosts which are normally awarded upon leveling from EXP. However, only half of your team joins at an average Lv, and it would require leveling almost everyone to Lv 99 before everyone joins. That's not possible during this challenge, and it would lead to very lop-sided stats between the first half of your party, and the other one.
 
 
-**What was that about forced/unavoidable EXP?**
+##### What was that about forced/unavoidable EXP?
 
 Yeah, unfortunately it's impossible to completely avoid all EXP and reach Disc 4 with everyone at Lv 1, in prime condition for stat maxing. On the way, you need to get past Amdusias, Abadon, Shell Dragon, as well as Tantarian if you choose to fight him.
 
@@ -606,13 +606,13 @@ There is no way to avoid the EXP from the three Pandemonium battles. Luckily, Fr
 
 Tantarian also awards EXP which you can't avoid if you fight him. Although you can choose to skip this battle, it's not worth it. Your stats will end up below the max due to Abadon anyway, so skipping Tantarian just means that on top of that you also miss the final copy of the Running Shoes and won't have defeated all optional bosses.
 
-**So how do you distribute the EXP from Tantarian and Abadon?**
+##### So how do you distribute the EXP from Tantarian and Abadon?
 
 Tantarian's EXP is absorbed either by Zidane or Freya, since they always lose fewer points than Vivi and Amarant. Which of the two is chosen depends on the stat path you follow.
 
 Abadon's EXP can be taken by either Zidane or Quina. Steiner is not an option because he would lose considerably more points.
 
-**What about final/ultimate equipment?**
+##### What about final/ultimate equipment?
 
 The max stat strategies in this guide assume you remove all equipment from your characters and give them their weakest weapon once finished leveling. This allows you to completely fill up your item list and display your party's natural max stats.
 
@@ -620,7 +620,7 @@ Taking final equipment into account is a problem because most of it gives a boos
 
 You can also consult [monkeyslinger's blog](http://ffixexiipgfinalequip.blogspot.com/), where he details his run through the game following the **Ordered** version with final equipment and BAL Quina.
 
-**…this is getting pretty complicated!**
+##### …this is getting pretty complicated!
 
 Right - so here's an overview of your 6 choices, each with main ideas, pros, and cons. The stat numbers indicate the effect on the character compared to their theoretical perfect stat set if there were no problems like forced EXP, not having necessary equipment when it's needed, etc.
 
@@ -628,7 +628,7 @@ So: pick your poison :)
 
 ---
 
-#### Ordered - Path A | 7 out of 8 characters perfect
+#### Ordered - Path A: 7 out of 8 characters perfect
 
 Zidane absorbs the EXP from both Tantarian and Abadon.
 
@@ -640,7 +640,7 @@ Zidane absorbs the EXP from both Tantarian and Abadon.
 
 ---
 
-#### Ordered - Path B | Net overall stat damage: zero!
+#### Ordered - Path B: Net overall stat damage: zero!
 
 Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
@@ -653,7 +653,7 @@ Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
 ---
 
-#### Ordered - Path C | Net primary stat damage: zero!
+#### Ordered - Path C: Net primary stat damage: zero!
 
 Freya absorbs the EXP from Tantarian and Quina the EXP from Abadon.
 
@@ -665,13 +665,13 @@ Freya absorbs the EXP from Tantarian and Quina the EXP from Abadon.
 |------|------|
 | No loss to primary stats of any character!<br/>The only **Ordered** path with a perfect Lv 99 Zidane<br/>Most in line with **Ordered** stat priorities | Loss of 2/3 secondary stat points<br/>2 characters sub-optimal, only 6 of 8 perfect<br/>Quina must be either STR or BAL<br/>STR Quina version very hard during the challenge<br/>BAL Quina version even harder |
 
-##### Notes
+###### Notes
 
 The stat difference for Quina refer to the two different totals: the STR Quina loses 1 MAG compared to the perfect STR Quina, and the BAL Quina loses 1 MAG but gains 1 SPD compared to perfect BAL Quina.
 
 ---
 
-#### Combined stats | The highest overall stats - period
+#### Combined stats: The highest overall stats - period
 
 Freya absorbs the EXP from Tantarian, Abadon is harmless.
 
@@ -683,7 +683,7 @@ Freya absorbs the EXP from Tantarian, Abadon is harmless.
 
 ---
 
-#### Lv 1 Path | Elite Lv 1 Novelty!
+#### Lv 1 Path: Elite Lv 1 Novelty!
 
 Zidane absorbs all of the game's forced EXP.
 
@@ -694,13 +694,13 @@ Zidane absorbs all of the game's forced EXP.
 |------|------|
 | 7 out of 8 characters in pristine Lv 1 condition<br/>Zidane heroically takes the hit for everyone else :)<br/>Easy to secure within the 12-hour time limit | Party will be kind of lob-sided - then again, Zidane is the lead<br/>Lvs not maxed out, something left unfinished in your save file |
 
-##### Notes
+###### Notes
 
 As with Quina in **Path C**, these stat changes refer to different totals: perfect **Ordered** and perfect **Combined** stats, respectively.
 
 ---
 
-#### Base stats | 100% perfectly minimal
+#### Base stats: 100% perfectly minimal
 
 You laugh at the face of forced EXP!
 
@@ -712,13 +712,13 @@ You laugh at the face of forced EXP!
 
 ---
 
-**Can I choose later?**
+##### Can I choose later?
 
 It's possible to put off the decision until you reach Tantarian at the start of Disc 3. Keep in mind that **Path C** and **Combined** are very tight when it comes to the target times, so if you want to keep those options open, then you'll need to play very aggressively up to that point. That would end up being a waste of effort if you decide to take one of the other paths, which allow for more slack in game time.
 
 SO the option of delaying the decision is there, but it's in your interest to settle on a stat path from the start.
 
-**How are these 6 paths handled in a single playthrough?**
+##### How are these 6 paths handled in a single playthrough?
 
 The target times and walkthrough are based on **Path A**, **Path B** and **Lv 1**. They form the basis of the playthrough. **Path C** and **Combined** need to complete some extra tasks on top of this, and these detours are outlined in path-specific boxes. They include the extra time needed and extra Gil spent, when applicable.
 
@@ -750,7 +750,7 @@ Provided you powerplay during the entire challenge, it is actually possible to a
 
 Yup, more skipping! As with ATEs, it's also possible to complete the challenge without skipping any of the FMVs - they *only* take 35 minutes so it's not even that difficult, provided you make some sacrifices or powerplay. It's even possible to combine this with watching all the ATEs, but you'd need to skip other more tangible parts of the perfect save. In any case, though, I don't think it's worth it and would recommend just skipping them.
 
-**Ok, but how do I skip them?**
+##### Ok, but how do I skip them?
 
 | Platform | Method |
 |----------|--------|
@@ -760,7 +760,7 @@ Yup, more skipping! As with ATEs, it's also possible to complete the challenge w
 | PS3 | As far as I know, it is not possible to skip FMVs on the PS3. I don't have one myself, but I have been told that neither the physical disc version nor the PSN version can be forced to skip the FMV. |
 | Emulator | Once the FMV starts to play, press Esc, then File > Change Disc > ISO.<br/>Select another disc ISO or just a blank text document, and click OK.<br/>The moment the game loads back up, immediately press Esc and change back to the correct disc. You need to be quick, otherwise the game will hang. |
 
-**Hum, there's quite a delay after skipping FMVs…**
+##### Hum, there's quite a delay after skipping FMVs…
 
 You should employ the so-called **pause trick** to reduce the amount of time you lose through FMVs even further, explanation courtesy of Louis1980:
 
@@ -2293,7 +2293,7 @@ Alright, so let's get started!
 
 ### Alexandra Rescue
 
-##### Notes
+###### Notes
 
 This is one of the most difficult parts of this challenge, so come armed with plenty of patience. Although your survival still depends on some luck, the strategies and equipment here maximize your chances of survival, so the difficult thing will be getting through this segment quickly, rather than at all. If there's any circuit where you can cut yourself some slack, then this one is definitely a major candidate.
 
@@ -2512,7 +2512,7 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 
 **Target time**: 04:55:41 (+12:20) **Target Gil**: 45,725 **Encounters**: 5
 
-##### Notes
+###### Notes
 
 If you are running very late and don't anticipate yourself making up any time in future circuits, then you may want to consider skipping the Elixir in Fossil Roo. This is most definitely a sacrifice on your part, but if you can live with having missed 1 treasure, then this is the best opportunity to save time in the entire game when you consider what you have to consider what you have to sacrifice; you'll save around 7 minutes at the cost of a common Elixir. However, the target times assume that you pick it up.
 
@@ -4065,7 +4065,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | Orichalcon<br/>Bandana<br/>-<br/>Gaia Gear<br/>Reflect Ring | Holy Lance<br/>Mythril Helm<br/>Venetia Shield<br/>Minerva's Plate<br/>Barette | Kaiser Knuckles<br/>-<br/>-<br/>-<br/>- | Silver Fork<br/>Holy Miter<br/>N-Kai Armlet<br/>Robe of Lords<br/>Rebirth Ring |
 | Auto-Reflect<br/>Bird Killer | Distract<br/>MP Attack<br/>Bird Killer | | Auto-Life |
 
-##### Notes
+###### Notes
 
 If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green Beret, his Reflect Ring with the second Rebirth Ring, and activate Auto-Life instead of Auto-Reflect.
 
@@ -4076,7 +4076,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 | Orichalcon<br/>Bandana<br/>-<br/>Gaia Gear<br/>Reflect Ring | Holy Lance<br/>Lamia's Tiara<br/>Venetia Shield<br/>Minerva's Plate<br/>Dark Matter | Kaiser Knuckles<br/>-<br/>-<br/>-<br/>- | Silver Fork<br/>-<br/>-<br/>-<br/>Rebirth Ring |
 | Auto-Reflect<br/>Bird Killer | Distract<br/>MP Attack<br/>Bird Killer | | Auto-Life |
 
-##### Notes
+###### Notes
 
 If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green Beret, his Reflect Ring with the second Rebirth Ring, and activate Auto-Life instead of Auto-Reflect.
 
@@ -4973,7 +4973,7 @@ Eiko is clearly a mage-type character and will be focusing on her Magic stat. Sh
 | 24 | Magic Racket | Holy Miter | Magic Armlet | Minerva's Plate | Dark Matter |
 | 52 | Magic Racket | Holy Miter | Magic Armlet | Robe of Lords | Pearl Rouge |
 
-##### Notes
+###### Notes
 
 These results assume that Marcus stayed at Lv 1 while he was in the party. If he gained any Lvs, especially with stat-raising equipment, then some of Eiko's stats may be higher. If you leveled Marcus then it is in your interest to use another set-up, as this one may no longer be optimal. You can use letao's calculator for this.
 
@@ -5083,7 +5083,7 @@ An **F** indicates that this is a field icon treasure, a **C** means the item is
 | 2,680 Gil | **\*** | **F** | In Ruby's theater; on the bottom right |
 | 3,927 Gil | | **F** | Behind the right overlook of the dock near the Square |
 
-##### Notes
+###### Notes
 
 The Goblin, Fang and Ironite Cards can also be gotten on Disc 1, but the Shiva and Ramuh Cards can be gotten only on Disc 3.
 
@@ -5118,7 +5118,7 @@ The Goblin, Fang and Ironite Cards can also be gotten on Disc 1, but the Shiva a
 | Superslick | **\*** | **R** | Given to you by Ruby after delivering every letter |
 | 10 Gil | **\*** | **R** | Gotten for skipping 20 consecutive times |
 
-##### Notes
+###### Notes
 
 The prizes received for jumping rope can also be gotten on Disc 1.
 
@@ -5255,7 +5255,7 @@ The prizes received for jumping rope can also be gotten on Disc 1.
 | 993 Gil | | **C** | In the Tantalus playhouse |
 | 3,000 Gil | | **R** | Given to you by Cid |
 
-##### Notes
+###### Notes
 
 The Ore found on Disc 2 in Artist Michael's Studio is **not** the same one which you find on Disc 1; it is another one. If you pick up the one on Disc 1, then the chest will refill and hold another Ore on Disc 2.
 
@@ -5366,7 +5366,7 @@ The Ore found on Disc 2 in Artist Michael's Studio is **not** the same one which
 | Germinas Boots | | **C** | On the top balcony inside the left residence |
 | Cancer | **\*** | **F** | Behind the overturned cart in the Suburb |
 
-##### Notes
+###### Notes
 
 There are some fake chests in Burmecia. Getting near one throws you into a battle with a Mimic enemy and the chest will disappear. It's up to you whether you want to keep these *chests* or not. Personally, I would choose to leave them.
 
@@ -5633,7 +5633,7 @@ There are some fake chests in Burmecia. Getting near one throws you into a battl
 | Capricorn | **\*** | **F** | In the water to the right of the entrance |
 | Rank S Medal | **\*** | **R** | Awarded by the Four-Armed Man for reaching Rank S |
 
-##### Notes 
+###### Notes 
 
 You can get only 1 of the 2 cards.
 
