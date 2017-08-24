@@ -1892,7 +1892,7 @@ Alright, so let's get started!
 > 
 > * You need to win the Magician Robe, Madain's Ring, and Reflect Ring.
 > * Although it's possible for all three to appear in a single auction, it's very rare, and then you still need to win them at a reasonable price, so I suggest you plan two auctions and save in between.
-> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 10,000, 10,000 and 15,000 Gil, respectively! So make sure you win them at lower prices, obviously.
+> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 8,000, 10,000 and 15,000 Gil, respectively! So make sure you win them at lower prices, obviously.
 > * The table below shows the price ranges for the items as listed in the Ultimania, as well as their resell values; you should aim to win the items at no more than the average price, and for the items you don't need or have already won, bid the average value to hopefully push the auction to its final stages faster.
 > * The Mini-Cid has a narrow price range, so bidding 2,000 to 2,400 should finish the auction fast without you actually buying the item. You should avoid buying it because it's the easiest item to skip and you will have to do this many times when buying all the Promist Ring later on Disc 3.
 > * Keep in mind that only the total Gil spent matters, so you can spend a bit more on some items if you get others much cheaper. It total, you should aim to spend no more than around 65,000 Gil (including the key items which you should sell for a profit).
@@ -1900,7 +1900,7 @@ Alright, so let's get started!
 > 
 > | Round | Item | Price range | Average | Selling Value |
 > |-------|------|:-----------:|:-------:|:-------------:|
-> | 1 | Mini-Cid<br/>Griffin's Heart<br/>Magician Robe | 1,500-4,500<br/>3,000-9,000<br/>3,500-10,500 | 3,000<br/>6,000<br/>7,000 | 0<br/>10,000<br/>4,000 |
+> | 1 | Mini-Cid<br/>Griffin's Heart<br/>Magician Robe | 1,500-4,500<br/>3,000-9,000<br/>3,500-10,500 | 3,000<br/>6,000<br/>7,000 | 0<br/>8,000<br/>4,000 |
 > | 2 | Doga's Artifact<br/>Fairy Earrings | 4,000-12,000<br/>4,000-12,000 | 8,000<br/>8,000 | 10,000<br/>3,000 |
 > | 3 | Une's Mirror<br/>Madain's Ring | 6,000-18,000<br/>3,500-10,500 | 12,000<br/>7,000 | 15,000<br/>3,750 |
 > | 4 | Reflect Ring<br/>Pearl Rouge | 6,000-18,000<br/>7,000-21,000 | 12,000<br/>14,000 | 3,500<br/>2,000 |
@@ -5001,43 +5001,72 @@ Amarant is similar to Zidane, except that he has more Level Ups available at the
 
 The following is a list of the locations of all treasures in FFIX, in case you can't find some of them. They are listed by the area in which they appear and then in categorical order; medicinal items are listed first, followed by equipment, gems, cards, key items and finally Gil. The areas are listed in the order in which you first visit them.
 
-An **F** indicates that this is a field icon treasure, a **C** means the item is found in a chest and an **R** means it is received as a reward or by other means. An **\*** indicates that this treasure **can** be picked up on Disc 4 after obtaining the Excalibur II. Some location names are taken directly from the **location** bar on the bottom of the menu screen, so check it when looking for a treasure.
+An **F** indicates that this is a field icon treasure, a **C** means the item is found in a chest and an **R** means it is received as a reward or by other means. An **\*** indicates that this treasure **can** be picked up on Disc 4 after obtaining the Excalibur II. Finally, a **@** on the map indicates a save point (a moogle, most of the time). Some location names are taken directly from the **location** bar on the bottom of the menu screen, so check it when looking for a treasure.
 
 ## Alexandria
 
 ### Disc 1: Town
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Potion | | **F** | To the left of the spot where you first control Vivi |
-| Potion | | **F** | By the table with 2 chairs in the Residence |
-| Potion | | **F** | To the left of the Heroine Statue |
-| Potion | | **F** | On the upper l eft of the Main Street |
-| Potion | | **F** | In the pub; to the far right |
-| Potion | | **F** | In the Steeple; to the far right |
-| Ether | | **F** | In the Synthesis Shop; to the far right |
-| Eye Drops | | **F** | In the far left of the Residence next to the Steeple |
-| Remedy | | **F** | In the weapon shop; to the far right of the counter |
-| Phoenix Pinion | | **F** | Top left of the Main Square, next to the inn |
-| Tent | | **F** | In the Steeple; to the left of the entrance |
-| Goblin Card | | **F** | On the bottom left of the screen with the pub |
-| Goblin Card | | **R** | Given to you by the Ticketmaster |
-| Fang Card | | **F** | In the shelf on the upper floor of the Residence |
-| Fang Card | | **R** | Given to you by the Ticketmaster |
-| Skeleton Card | | **R** | Given to you by the Ticketmaster |
-| Flan Card | | **F** | In the pub; to the right of the leftmost table |
-| Lizard Man Card | | **F** | Far behind the Heroine Statue |
-| Zombie Card | | **F** | On the bottom left of the screen with the statue |
-| Bomb Card | | **R** | Speak to Tom once more after finding his cat, Mittens |
-| Sahagin Card | | **F** | On the steps of a house to the left of the statue |
-| 3 Gil | | **F** | Top floor of the Residence next to the Steeple |
-| 9 Gil | | **F** | Near the bed on the bottom floor of the Residence |
-| 27 Gil | | **F** | In the pub; to the far left |
-| 29 Gil | | **F** | In a nest on the rooftops |
-| 33 Gil | | **F** | To the bottom right of the screen with the pub |
-| 38 Gil | | **F** | In the Item Shop; near the bottom of the screen |
-| 63 Gil | | **F** | In a nest on the rooftops |
-| 92 Gil | | **F** | In a nest on the rooftops |
+```
+        To Alexandria
+    ┌──┐   Castle       ┌─────┐
+    │T │    ┌╨┐         └╥───╥┘ 
+    └┐ │    │ │         ┌╨┐ ┌╨┐ ┌──┐
+  ┌──┘ └──┐ │ └──┐      └╥┘ └─┘ │A │
+  └┐ ┌─┐ ┌┘ └─┐ ┌┘       ║   ┌──┘  └─┐ ┌──┐ 
+┌──┘ └─┘ └────┘ │        ╚═══╡       ╞═╡ 9│
+│ ┌───────────┐ │            │       │ └─╥┘
+│ └───┐       └─┘       ╔════╡  DFG  │ ┌─╨┐
+│ ┌─┐ └───┐             ║    │       ╞═╡ 7│
+│ │ └─┐ ┌─┘ ┌─┐        ┌╨┐   └───╥───┘ └──┘
+│ │   │ │   │ └┐       │ │      ┌╨┐ ┌─┐ ┌─────┐
+│ │   │ │   │ S│       └╥┘      │ ╞═╡R│ │OH  5│
+│ │   │ └───┘ ┌┘        ║ ┌─┐   │ │ └─┘ └──╥──┘
+│ │   └───────┘         ╚═╡ │   └╥┘      ┌─╨─┐
+│ └────────────┐    ┌───┐ │ │    ╚═══════╡   ╞══╗
+│P┌─────────┐ ┌┘    │8 M╞═╡ │            │C Q│ ┌╨┐
+└─┘         └╥┘     └───┘ │ │            └───┘ │4│  ┌─┐
+   Rooftops  ╚═══════╗    │ │                  │ │ ┌┘E└┐
+                  ┌──╨──┐ │ │                  │1╞═╡N 2│
+                  │B @ 6│ │ │    Alexandria    └╥┘ └───┘
+                  └──╥──┘ │ │                   ║ ┌─────┐
+                     ╚════╡ │                   ║ │L I  │
+                     ┌────┘ │                   ╚═╡  3  │
+                     │K     │                     │J    │
+                     └──────┘                     └─────┘
+```
+
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Potion | | **F** | 1 | To the left of the spot where you first control Vivi |
+| Potion | | **F** | 2 | By the table with 2 chairs in the Residence |
+| Potion | | **F** | 3 | To the left of the Heroine Statue |
+| Potion | | **F** | 4 | On the upper left of the Main Street |
+| Potion | | **F** | 5 | In the pub; to the far right |
+| Potion | | **F** | 6 | In the Steeple; to the far right |
+| Ether | | **F** | 7 | In the Synthesis Shop; to the far right |
+| Eye Drops | | **F** | 8 | In the far left of the Residence next to the Steeple |
+| Remedy | | **F** | 9 | In the weapon shop; to the far right of the counter |
+| Phoenix Pinion | | **F** | A | Top left of the Main Square, next to the inn |
+| Tent | | **F** | B | In the Steeple; to the left of the entrance |
+| Goblin Card | | **F** | C | On the bottom left of the screen with the pub |
+| Goblin Card | | **R** | D | Given to you by the Ticketmaster |
+| Fang Card | | **F** | E | In the shelf on the upper floor of the Residence |
+| Fang Card | | **R** | F | Given to you by the Ticketmaster |
+| Skeleton Card | | **R** | G | Given to you by the Ticketmaster |
+| Flan Card | | **F** | H | In the pub; to the right of the leftmost table |
+| Lizard Man Card | | **F** | I | Far behind the Heroine Statue |
+| Zombie Card | | **F** | J | On the bottom left of the screen with the statue |
+| Bomb Card | | **R** | K | Speak to Tom once more after finding his cat, Mittens |
+| Sahagin Card | | **F** | L | On the steps of a house to the left of the statue |
+| 3 Gil | | **F** | M | Top floor of the Residence next to the Steeple |
+| 9 Gil | | **F** | N | Near the bed on the bottom floor of the Residence |
+| 27 Gil | | **F** | O | In the pub; to the far left |
+| 29 Gil | | **F** | P | In a nest on the rooftops |
+| 33 Gil | | **F** | Q | To the bottom right of the screen with the pub |
+| 38 Gil | | **F** | R | In the Item Shop; near the bottom of the screen |
+| 63 Gil | | **F** | S | In a nest on the rooftops |
+| 92 Gil | | **F** | T | In a nest on the rooftops |
 
 ### Disc 1: Castle
 
@@ -5135,59 +5164,160 @@ The prizes received for jumping rope can also be gotten on Disc 1.
 
 ### Crash Site
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Potion | | **C** | In the Meeting Room; on the bottom behind the shelves |
-| Ether | | **C** | In Vivi's room |
-| Ether | | **C** | Near the bottom of the Hallway outside Steiner's room |
-| Ether | | **C** | In Steiner's room |
-| Phoenix Down | | **F** | Near the bodies outside the wrechage |
-| Leather Hat | | **C** | In the Hallway with the exit of the Prima Vista |
-| Rubber Helm | | **F** | In the back of the Cargo Room |
-| Wrist | | **C** | In the Hallway; on the far left |
-| Bronze Gloves | | **C** | On the Prima Vista Bridge; on the far right |
-| 116 Gil | | **F** | In Vivi's room, on top of the bunkbed |
+```
+         ╔══════╗   ┌──┐
+         ║ ┌──┐ ║  ┌┘7 └┐ ┌──┐
+         ║ │ 9│ ╚══╡    ╞═╡1 │
+┌──┐ ┌─┐ ║ └╥─┘    └───╥┘ └──┘
+│4 ╞═╡ ╞═╝ ┌╨┐  ┌───┐ ┌╨──┐
+└──┘ │ │ ┌─┘ └┐ │2 A│ │  6│
+     │3╞═╡8   ╞═╡   │ └──╥┘
+     └─┘ └────┘ └───┘  ┌─╨┐
+                       │5 │
+                       │@ │
+                       └─╥┘
+                   To Evil Forest
+```
+
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Potion | | **C** | 1 | In the Meeting Room; on the bottom behind the shelves |
+| Ether | | **C** | 2 | In Vivi's room |
+| Ether | | **C** | 3 | Near the bottom of the Hallway outside Steiner's room |
+| Ether | | **C** | 4 | In Steiner's room |
+| Phoenix Down | | **F** | 5 | Near the bodies outside the wrechage |
+| Leather Hat | | **C** | 6 | In the Hallway with the exit of the Prima Vista |
+| Rubber Helm | | **F** | 7 | In the back of the Cargo Room |
+| Wrist | | **C** | 8 | In the Hallway; on the far left |
+| Bronze Gloves | | **C** | 9 | On the Prima Vista Bridge; on the far right |
+| 116 Gil | | **F** | A | In Vivi's room, on top of the bunkbed |
 
 ## Ice Cavern
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Potion | | **C** | In the second screen; at the end of the bottom path |
-| Potion | | **C** | In the Icicle Field; on the ice column |
-| Ether | | **C**| In the second screen; behind the ice wall to the right |
-| Elixir | | **C** | In the Icicle Field; behind the ice wall in the back |
-| Phoenix Down | | **C** | In the fourth screen; on the right |
-| Tent | | **C** | In the first screen; on the ledge |
-| Mage Masher | | **C** | In the Icicle Field; on the bottom right of the screen |
-| Leather Wrist | | **C** | In the fourth screen; on a parth behind an ice wall |
+```
+ To Nolrich Heights
+        ┌╨┐
+        └╥┘
+      ┌──╨┐
+      │ ┌─┘
+      │ └─┐
+      └──╥┘
+        ┌╨┐
+        │ │
+        │ │
+        └╥┘
+        ┌╨───┐
+    ┌─┐ │ ┌┐ │
+    │@│ │ │└─┘
+    └╥┘ └╥┘
+    ┌╨┐ ┌╨┐
+    │ └─┘ │
+    └──╥──┘
+      ┌╨┐
+┌────┐│ └──┐
+│ ┌┐&││ ┌┐ │
+│ ││ └┘ └┘ │
+│ │└──┐ ┌──┘
+│ │   │ └──┐
+│ │   │ ┌┐5│
+│8│   │ └┘ │
+└─┘   │ ┌──┘
+      └╥┘
+      ┌╨┐
+      │ └──┐
+      │ ┌┐ │
+  ┌───┘ └┘ │
+  │4& ┌──┐ └┐ 
+  └─┐ │  └┐ │┌─┐
+    │ │┌──┘ └┘2│
+    │ ││ ┌┐&┌──┘┌─┐
+    │ └┘ ││ └───┘7│
+    └──┐ │└───────┘
+       └╥┘
+       ┌╨┐
+  ┌────│ │──┐
+  │ ┌──│ │┐ │┌─┐
+  │1│┌─┘ ││ ││3│
+  └─┘│ ┌─┘│ ││&│
+   ┌─┘ └──┘ └┘ │
+   └╥──────────┘
+ ┌──╨─┐
+ │    │
+ │ ┌┐ │
+ │ └┘ │
+┌┘-┌┐ │
+│6 ││ │
+└┐-└┘ │
+ └─╥──┘
+To Gunitas Basin
+```
+
+###### Notes
+
+A **&** indicates the location of an ice wall or pillar. Please note that you must take the Potion (2) before interacting with the pillar to get the Mage Masher (7).
+
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Potion | | **C** | 1 | In the second screen; at the end of the bottom path |
+| Potion | | **C** | 2 | In the Icicle Field; on the ice column |
+| Ether | | **C**| 3 | In the second screen; behind the ice wall to the right |
+| Elixir | | **C** | 4 | In the Icicle Field; behind the ice wall in the back |
+| Phoenix Down | | **C** | 5 | In the fourth screen; on the right |
+| Tent | | **C** | 6 | In the first screen; on the ledge |
+| Mage Masher | | **C** | 7 | In the Icicle Field; on the bottom right of the screen |
+| Leather Wrist | | **C** | 8 | In the fourth screen; on a parth behind an ice wall |
 
 ## Dali
 
+```
+┌─┐                  ┌─────┐ 
+│6│ ┌─┐   ┌───┐┌───┐ │5    ╞ To Nolrich Heights
+│ └─┘7│ ╔═╡ BA││   │ │     │
+└─╥───┘ ║ └───┘└─╥─┘ └─┐ ┌─┘
+  ║  ┌──╨┐ ┌─────╨──┐  └╥┘
+  ║  │3  ╞═╡        ╞═══╝
+  ╚══╡  &│ │  ┌─────┘
+     └─╥─┘ │  │
+     ┌─╨─┐ │  │ ┌─────┐
+     │  8│ │  │ │     │
+     │9  ╞═╡  │ │1   2│
+     └───┘ │4 │ └──╥──┘
+      ┌──┐ └┐ │ ┌──╨┐
+      │  ╞══╡ ╞═╡@  │
+      └──┘  │ │ └───┘
+            └╥┘
+     To Nolrich Heights
+```
+
+###### Notes
+
+The **&** represents the location of the stash to the Dali Underground.
+
 ### Disc 1/2/3/4: Town
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Potion | **\*** | **C** | In the Dali inn; in the far left of the room |
-| Antidote | **\*** | **C** | In the Dali inn; in the far right of the room |
-| Aries | **\*** | **F** | In the Windmill; in the rear of the bottom floor |
-| 120 Gil | **\*** | **F** | On the Village Road; next to the big wheel |
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Potion | **\*** | **C** | 1 | In the Dali inn; in the far left of the room |
+| Antidote | **\*** | **C** | 2 | In the Dali inn; in the far right of the room |
+| Aries | **\*** | **F** | 3 | In the Windmill; in the rear of the bottom floor |
+| 120 Gil | **\*** | **F** | 4 | On the Village Road; next to the big wheel |
 
 ### Disc 2: Town
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Elixir | | **C** | In the Fields; between the rows of crops |
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Elixir | | **C** | 5 | In the Fields; between the rows of crops |
 
 ### Disc 3: Town
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Elixir | | **C** | In the Windmill; on the upper level |
-| Cachusha | | **C** | In the Windmill; on the upper level |
-| Mini-Brahne | **\*** | **F** | Search the desk in the Mayor's House |
-| Mayor's Key | | **F** | Search the heater in the Mayor's House |
-| Burman Coffee | | **C** | Search the chest in the Chcobo Pen a second time |
-| 30,000 Gil | | **C** | In the Chocobo Pen; on the far right |
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Elixir | | **C** | 6 | In the Windmill; on the upper level |
+| Cachusha | | **C** | 7 | In the Windmill; on the upper level |
+| Mini-Brahne | **\*** | **F** | 8 | Search the desk in the Mayor's House |
+| Mayor's Key | | **F** | 9 | Search the heater in the Mayor's House |
+| Burman Coffee | | **C** | A | Search the chest in the Chcobo Pen a second time |
+| 30,000 Gil | | **C** | B | In the Chocobo Pen; on the far right |
 
 ### Underground
 
@@ -5442,7 +5572,7 @@ There are some fake chests in Burmecia. Getting near one throws you into a battl
 | Elixir | | **C** | At the end of the right path from the fork |
 | Phoenix Down | | **C** | In the first screen inside the trunk |
 | Remedy | | **C** | To the right of the area after the bridge |
-| Gysahl Greens | **C** | Behind the ladder leading to the Cleyra settlement |
+| Gysahl Greens | | **C** | Behind the ladder leading to the Cleyra settlement |
 | Tent | | **C** | To the far right of Monev |
 | Flame Staff | | **C** | In the area directly preceding the wooden bridge |
 | Ice Staff | | **C** | Behind the tree in the flooding chamber |
