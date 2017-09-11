@@ -108,7 +108,7 @@ Check the Frequently Asked Questions section for more details.
         - [Current save location &rarr; Next save location](#user-content-current-save-location--next-save-location)
 - [Video assistance](#user-content-video-assistance)
 - [Walkthrough](#user-content-walkthrough)
-    - [Disc 1 - Good luck, and happy trails!](#user-content-disc-1---good-luck-and-happy-trails)
+    - [Disc 1 &ndash; Good luck, and happy trails!](#user-content-disc-1--good-luck-and-happy-trails)
         - [New game &rarr; Alexandria Steeple](#user-content-new-game--alexandria-steeple)
         - [Alexandria Steeple &rarr; Alexandria Castle Guardhouse](#user-content-alexandria-steeple--alexandria-castle-guardhouse)
         - [Alexandria Castle Guardhouse &rarr; Prima Vista Crash Site](#user-content-alexandria-castle-guardhouse--prima-vista-crash-site)
@@ -123,7 +123,7 @@ Check the Frequently Asked Questions section for more details.
         - [Eunorus Plains &rarr; Daines-Horse Basin](#user-content-eunorus-plains--daines-horse-basin)
         - [Oak Staff detour](#user-content-oak-staff-detour)
         - [Daines-Horse Basin &rarr; Start of Disc 2](#user-content-daines-horse-basin--start-of-disc-2)
-    - [Disc 2 - Congratulations! You've finished Disc 1!](#user-content-disc-2---congratulations-youve-finished-disc-1)
+    - [Disc 2 &ndash; Congratulations! You've finished Disc 1!](#user-content-disc-2--congratulations-youve-finished-disc-1)
         - [Start of Disc 2 &rarr; Bentini Heights](#user-content-start-of-disc-2--bentini-heights)
         - [Bentini Heights &rarr; Gargan Roo](#user-content-bentini-heights--gargan-roo)
         - [Gargan Roo &rarr; Cleyra's Trunk](#user-content-gargan-roo--cleyras-trunk)
@@ -131,7 +131,7 @@ Check the Frequently Asked Questions section for more details.
         - [Cleyra Inn &rarr; Cleyra Sandpit](#user-content-cleyra-inn--cleyra-sandpit)
         - [Cleyra Sandpit &rarr; Red Rose Cabin](#user-content-cleyra-sandpit--red-rose-cabin)
         - [Red Rose Cabin &rarr; Alexandria Chapel](#user-content-red-rose-cabin--alexandria-chapel)
-        - [Alexandra Rescue](#user-content-alexandra-rescue)
+        - [Alexandria Rescue](#user-content-alexandria-rescue)
         - [Alexandria Chapel &rarr; Eunorus Plains](#user-content-alexandria-chapel--eunorus-plains)
         - [Eunorus Plains &rarr; Fossil Roo Cavern](#user-content-eunorus-plains--fossil-roo-cavern)
         - [Fossil Roo Cavern &rarr; Magdalene Forest](#user-content-fossil-roo-cavern--magdalene-forest)
@@ -141,7 +141,7 @@ Check the Frequently Asked Questions section for more details.
         - [Iifa Tree Roots &rarr; Lucid Plains](#user-content-iifa-tree-roots--lucid-plains)
         - [Lucid Plains &rarr; Pualei Plains](#user-content-lucid-plains--pualei-plains)
         - [Pualei Plains &rarr; Start of Disc 3](#user-content-pualei-plains--start-of-disc-3)
-    - [Disc 3 - Congratulations! You've finished Disc 2!](#user-content-disc-3---congratulations-youve-finished-disc-2)
+    - [Disc 3 &ndash; Congratulations! You've finished Disc 2!](#user-content-disc-3--congratulations-youve-finished-disc-2)
         - [Start of Disc 3 &rarr; Bentini Heights](#user-content-start-of-disc-3--bentini-heights)
         - [Dali detour](#user-content-dali-detour)
         - [Bentini Heights &rarr; Lindblum Castle Guest Room](#user-content-bentini-heights--lindblum-castle-guest-room)
@@ -155,7 +155,7 @@ Check the Frequently Asked Questions section for more details.
         - [Blairsurpass Plains &rarr; Bran Bal Storage](#user-content-blairsurpass-plains--bran-bal-storage)
         - [Bran Bal &rarr; Pandemonium Hall](#user-content-bran-bal--pandemonium-hall)
         - [Pandemonium Hall &rarr; Start of Disc 4](#user-content-pandemonium-hall--start-of-disc-4)
-    - [Disc 4 - Congratulations! You've finished Disc 3!](#user-content-disc-4---congratulations-youve-finished-disc-3)
+    - [Disc 4 &ndash; Congratulations! You've finished Disc 3!](#user-content-disc-4--congratulations-youve-finished-disc-3)
         - [Start of Disc 4 &rarr; Memoria Entrance](#user-content-start-of-disc-4--memoria-entrance)
         - [The Fire Chaos: Maliris](#user-content-the-fire-chaos-maliris)
         - [The Wind Chaos: Tiamat](#user-content-the-wind-chaos-tiamat)
@@ -295,7 +295,7 @@ While the end result of this endeavor will resemble a completionist's playthroug
 
 #### Wise Choices of Many Alternatives: You know what you want
 
-Perfection is ambiguous. Ironically, it is not the Excalibur II which keeps the Final Fantasy IX perfect game from having an objective standard - it's the unavoidable EXP and your personal definition of *perfect* stats. There are a number of options to choose from and in the end, none of them are inherently better or worse than the others, it's just that there is no one, single correct way. For the indecisive, this challenge ends at the start of Disc 3, so decision time will come sooner or later. 
+Perfection is ambiguous. Ironically, it is not the Excalibur II which keeps the Final Fantasy IX perfect game from having an objective standard &ndash; it's the unavoidable EXP and your personal definition of *perfect* stats. There are a number of options to choose from and in the end, none of them are inherently better or worse than the others, it's just that there is no one, single correct way. For the indecisive, this challenge ends at the start of Disc 3, so decision time will come sooner or later. 
 
 Get ready for one of gaming's best perfect game challenges; here we go!
 
@@ -397,7 +397,7 @@ Promist Ring. It can be won from the Auction House as long as you don't have any
 
 The problem here rests in the idea that getting 10 of this one specific item is seemingly inconsistent with getting *number of users + 1* or all the rest whenever possible. This might make the 10th copy seem pointless. 
 
-However, *number of users + 1* is not actually the overarching goal, the aim is to have the *highest possible non-arbitrary amount*. In the case of Promist Ring, this is 10, since it's the maximum possible amount (and therefore not arbitrary - unlike 10 Power Belt, for instance). In the case of all other non-unique items, this is *number of users + 1*, the next best thing after 99. And in the case of unique items it's whatever amount is available since they are less than *number of users + 1* anyway (or equal in one case).
+However, *number of users + 1* is not actually the overarching goal, the aim is to have the *highest possible non-arbitrary amount*. In the case of Promist Ring, this is 10, since it's the maximum possible amount (and therefore not arbitrary &ndash; unlike 10 Power Belt, for instance). In the case of all other non-unique items, this is *number of users + 1*, the next best thing after 99. And in the case of unique items it's whatever amount is available since they are less than *number of users + 1* anyway (or equal in one case).
 
 Another way of looking at it is that Promist Ring is a special case because:
 
@@ -416,14 +416,14 @@ The following table lists all the missable unique items, their maximum quantitie
 | Blood Sword | 2 | Stolen from Tiamat<br/>Stellazzio reward |
 | Genji Helmet | 2 | Stolen from Kraken<br/>Mountain Crack on northeast of Forgotten Continent |
 | Genji Gloves | 2 | Stolen from Lick<br/>Foaming Water at southern tip of Forgotten Continent |
-| Genji Armor | 2 | Stolen from Maliris<br/>Chocograph Treasure #21 - Outer Island |
-| Ribbon | 4 | Given to you by Mog in Mount Gulug<br/>Treno Auction House item<br/>Given to you by Stiltzkin after buying all his deals<br/>Chocograph Treasure #24 - Forgotten Island |
+| Genji Armor | 2 | Stolen from Maliris<br/>Chocograph Treasure #21 &ndash; Outer Island |
+| Ribbon | 4 | Given to you by Mog in Mount Gulug<br/>Treno Auction House item<br/>Given to you by Stiltzkin after buying all his deals<br/>Chocograph Treasure #24 &ndash; Forgotten Island |
 | Dark Matter | 3 | Treno Auction House item<br/>Stolen from Ozma<br/>Dropped by Ozma |
 | Running Shoes | 4 | Dropped by Tantarian<br/>Won by defeating Amdusias in the Treno Weapon Shop<br/>Stolen from Hades<br/>Found in the clock in Quan's Dwelling |
 | Pumice | 1 | Dropped by Ozma |
-| Pumice Piece | 3 | Dropped by Ark<br/>Stolen from Ozma<br/>Chocograph #22 - Outer Island 2 |
-| Rebirth Ring | 2 | Award for winning the Tetra Master Tournament<br/>Chocograph Treasure #24 - Forgotten Island |
-| Diamond | 3 | On the boat in Conde Petie<br/>Included in Stiltzkin's Bran Bal deal<br/>Chocograph Treasure #17 - Sea at Dusk |
+| Pumice Piece | 3 | Dropped by Ark<br/>Stolen from Ozma<br/>Chocograph #22 &ndash; Outer Island 2 |
+| Rebirth Ring | 2 | Award for winning the Tetra Master Tournament<br/>Chocograph Treasure #24 &ndash; Forgotten Island |
+| Diamond | 3 | On the boat in Conde Petie<br/>Included in Stiltzkin's Bran Bal deal<br/>Chocograph Treasure #17 &ndash; Sea at Dusk |
 | Emerald | 2 | Given to Freya by the Priest of Cleyra<br/>Included in Stiltzkin's Oeilvert deal |
 | Ruby | 2 | Received when breaking the seal on the Iifa Tree<br/>Included in Stiltzkin's Alexandria deal (Disc 4) |
 | Moonstone | 3 | Reward for impressing all 100 nobles<br/>Conde Petie Mountain Path colored stones puzzle<br/>Included in Stiltzkin's Alexandria deal (Disc 4) |
@@ -440,7 +440,7 @@ Ozma holds 4 unique items; 2 Dark Matter, 1 Pumice and 1 Pumice Piece. You must 
 
 ## Loot all missable chests and search all missable field icons!
 
-Since we're going for perfection, we'' want to open all the treasure chests in the game, as well as search all field icons, i.e. the exclamation marks which appear over Zidane's head when he stands near a treasure. Furthermore, you'll be able to collect the Rank S Medal if you do this, which is likewise essential for a perfect save.
+Since we're going for perfection, we'll want to open all the treasure chests in the game, as well as search all field icons, i.e. the exclamation marks which appear over Zidane's head when he stands near a treasure. Furthermore, you'll be able to collect the Rank S Medal if you do this, which is likewise essential for a perfect save.
 
 However, you'll mainly loot only the missable chests and field icons during the course of this challenge. There really are a lot of them and there's no reason to waste time picking up the non-missable treasures if they aren't useful. Time does really add up doing this!
 
@@ -464,7 +464,7 @@ There are 13 missable key items in the game:
 * Mayor's Key
 * Rank S Medal
 
-The Autograph and Moogle Suit are gotten by witnessing a brief scene with Lowell in Lindblum on Disc 1. A short while later you'll be in Gizamaluke's Grotto and find 4 Gizamaluke Bells - you only need 3 to progress and can keep the 4th in your inventory or use it on the last remaining locked door at any time. Either way it will be visible that you got all 4.
+The Autograph and Moogle Suit are gotten by witnessing a brief scene with Lowell in Lindblum on Disc 1. A short while later you'll be in Gizamaluke's Grotto and find 4 Gizamaluke Bells &ndash; you only need 3 to progress and can keep the 4th in your inventory or use it on the last remaining locked door at any time. Either way it will be visible that you got all 4.
 
 The 4 colored stones are gotten on the Conde Petie Mountain Path on Disc 2 as part of a minor optional side-quest. You can trade them in for a missable and unique Moonstone, or keep them as missable key items. The former lets you have all Moonstone and compete the side-quest, while the latter lets you keep 4 nice key items proving you could have completed it if you had wanted to. It's your choice!
 
@@ -593,7 +593,7 @@ I feel your pain. Luckily, you've still got two options: **Lv 1**, and **Base**.
 
 In the **Lv 1** path, you let Zidane absorb all the game's forced EXP, allowing you to keep everyone else at Lv 1. You can then either leave Zidane at LV 32, or level him up to Lv 99, using either the **Ordered** or **Combined** approach. Zidane is the only character who is available to take all of the game's unavoidable EXP, so he is the only choice.
 
-The **Base** stats approach is basically the opposite of **Combined**; you go for the minimum stats possible. Unlike max stats, the minimums are clearly defined and you can achieve all of a character's minimum stats simultaneously. All you need to do is avoid gaining Lvs with equipment that boosts SPR, STR, MAG, or SPD. It can boost Defense, Evade, and so on - just not any of the core stats.
+The **Base** stats approach is basically the opposite of **Combined**; you go for the minimum stats possible. Unlike max stats, the minimums are clearly defined and you can achieve all of a character's minimum stats simultaneously. All you need to do is avoid gaining Lvs with equipment that boosts SPR, STR, MAG, or SPD. It can boost Defense, Evade, and so on &ndash; just not any of the core stats.
 
 This means you can stop playing the low-level game much sooner. Steiner can gain EXP from the very beginning of the game. You don't need to waste over 10 minutes getting the Needle Fork from Zaghnol, and can let Freya take all the EXP from the forced Type A battles once Quina joins the party. You do need to dig up Oak Staff, though, and the other characters must remain at Lv 1 until both Eiko and Amarant join at Lv 1, after which everyone can gain as many Lvs as you like, as long as they never have stat-boosting equipment on when doing so.
 
@@ -624,13 +624,13 @@ You can also consult [monkeyslinger's blog](http://ffixexiipgfinalequip.blogspot
 
 ##### …this is getting pretty complicated!
 
-Right - so here's an overview of your 6 choices, each with main ideas, pros, and cons. The stat numbers indicate the effect on the character compared to their theoretical perfect stat set if there were no problems like forced EXP, not having necessary equipment when it's needed, etc.
+Right &ndash; so here's an overview of your 6 choices, each with main ideas, pros, and cons. The stat numbers indicate the effect on the character compared to their theoretical perfect stat set if there were no problems like forced EXP, not having necessary equipment when it's needed, etc.
 
 So: pick your poison :)
 
 ---
 
-#### Ordered - Path A: 7 out of 8 characters perfect
+#### Ordered &ndash; Path A: 7 out of 8 characters perfect
 
 Zidane absorbs the EXP from both Tantarian and Abadon.
 
@@ -642,7 +642,7 @@ Zidane absorbs the EXP from both Tantarian and Abadon.
 
 ---
 
-#### Ordered - Path B: Net overall stat damage: zero!
+#### Ordered &ndash; Path B: Net overall stat damage: zero!
 
 Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
@@ -654,7 +654,7 @@ Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
 ---
 
-#### Ordered - Path C: Net primary stat damage: zero!
+#### Ordered &ndash; Path C: Net primary stat damage: zero!
 
 Freya absorbs the EXP from Tantarian and Quina the EXP from Abadon.
 
@@ -670,7 +670,7 @@ The stat differences for Quina refer to two different totals: the STR Quina lose
 
 ---
 
-#### Combined stats: The highest overall stats - period
+#### Combined stats: The highest overall stats &ndash; period
 
 Freya absorbs the EXP from Tantarian, Abadon is harmless.
 
@@ -690,7 +690,7 @@ Zidane absorbs all of the game's forced EXP.
 
 | Pros | Cons |
 |------|------|
-| 7 out of 8 characters in pristine Lv 1 condition<br/>Zidane heroically takes the hit for everyone else :)<br/>Easy to secure within the 12-hour time limit | Party will be kind of lob-sided - then again, Zidane is the lead<br/>Lvs not maxed out, something left unfinished in your save file |
+| 7 out of 8 characters in pristine Lv 1 condition<br/>Zidane heroically takes the hit for everyone else :)<br/>Easy to secure within the 12-hour time limit | Party will be kind of lob-sided &ndash; then again, Zidane is the lead<br/>Lvs not maxed out, something left unfinished in your save file |
 
 ###### Notes
 
@@ -819,7 +819,7 @@ This guide aims to maximize your odds of success, whether it be with battle stra
 
 The walkthrough is divided in many smaller segments, covering all the actions from one major save point to the next. Each section begins with the items to be collected during that part, followed by the instructions in bullet-point format, and ends with the suggested target time and target Gil which you should have at that point, as well as the number of random battles allowed during that section (mostly 0).
 
-Important AP gains and suggested progress on specific abilities are listed together with the battles in which you get the AP, mostly boss battles. Keep in mind that these are minimum; you may have more AP for some abilities if following one stat path as opposed to another, but as long as you have the minimum, you're good. You might also learn other abilities without it being mentioned - that's fine as well. Only the crucial abilities are tracked.
+Important AP gains and suggested progress on specific abilities are listed together with the battles in which you get the AP, mostly boss battles. Keep in mind that these are minimum; you may have more AP for some abilities if following one stat path as opposed to another, but as long as you have the minimum, you're good. You might also learn other abilities without it being mentioned &ndash; that's fine as well. Only the crucial abilities are tracked.
 
 A large part of the walkthrough (up to Disc 3) is uniform for all possible stat paths, but from Disc 3 onwards there will be several forks in the road depending on which part you'll be following. Path specific instructions are given in separate information boxes, along with the estimated time and Gil changes due to the respective detour. If these detours apply to your game, then you need to apply the time and Gil changes to the target ones. Otherwise ignore everything in these boxes.
 
@@ -1056,7 +1056,7 @@ Alright, so let's get started!
 > * However, this letter is not visible on Disc 4 because Mosh is then found in Mognet Central telling you how many letters you delivered; his dialogue doesn't let you view any letters he may have received in the past. This letter also does not count in the total quoted by Mosh because only letters delivered by Zidane are taken into account. 
 > * If you don't care about missing a letter which won't be viewable on Disc 4, then you can just move on. However, if you care about getting truly every single Mognet letter, then you'll need to get this one as well. You have some choices:
 > * You'll eventually have to complete the Jump Rope mini-game anyway and jump 1,000 times in order to obtain the King of Jump Rope key item. You can do so on the first try to have a clean record with 1,000 as the first and only entry. The entries are only visible after 3 attempts, but it's possible to show that you got 1,000 on the first try by just playing 2 more games. In this case, getting the letter with anything less than 1,000 jumps would mess up your ranking, so you'd need to jump 1,000 times now on Disc 1.
-> * On the other hand, you can also go for a ranking screen with 3 1,000's, in which case getter the letter in any form would be fine since the lower score would be removed from the ranking screen anyway. However, the lowest score will remain quoted in the letter and would be visible on Disc 4 if you could somehow access Mosh's Mognet menu.
+> * On the other hand, you can also go for a ranking screen with 3 1,000's, in which case getting the letter in any form would be fine since the lower score would be removed from the ranking screen anyway. However, the lowest score will remain quoted in the letter and would be visible on Disc 4 if you could somehow access Mosh's Mognet menu.
 > * Jumping the requisite minimum of 50 times takes an extra 90 seconds from loading your save and saving again once finished. For 1,000 jumps, this comes to exactly 8 minutes.
 > 
 > **Time**: +8:00
@@ -1075,7 +1075,7 @@ Alright, so let's get started!
 </table>
 
 * Climb the ladder and follow Rat Boy over the rooftops; don't forget to search all the bird nests for Gil.
-* You don't need to press any buttons during the play - the dialogue advances automatically.
+* You don't need to press any buttons during the play &ndash; the dialogue advances automatically.
 
 ---
 
@@ -1091,7 +1091,7 @@ Alright, so let's get started!
 > #### Impressing all 100 nobles
 > 
 > * You need to do this for the missable and unique Moonstone which you are later given as a reward. The 10,000 Gil also comes in **very** handy.
-> * There are 49 commands total, and you have to input them all correctly and quickly to impress all 100 nobles (2 pts per input, 1 pt bonus for getting them all right, and 1 freebie - credits: NBtheGameMaster)
+> * There are 49 commands total, and you have to input them all correctly and quickly to impress all 100 nobles (2 pts per input, 1 pt bonus for getting them all right, and 1 freebie &ndash; credits: NBtheGameMaster)
 > * Here are some tips:
 >     - Turn off the volume of your TV.
 >     - Concentrate on accuracy rather than speed. If you make a mistake, then you won't impress 100 nobles no matter how fast you pressed all the other commands. That said, you do need to be swift too.
@@ -1102,6 +1102,7 @@ Alright, so let's get started!
 
 * Breathe a sigh of relief once you're done; this can be one of the hardest parts of this challenge.
 <br/>
+
 * When you encounter Garnet on the stairs, choose whatever option you want.
 * As Steiner, run up the stairs, through the lower exit and speak to Queen Brahne to claim your well-deserved Moonstone.
 * Run down the stairs, to the right and save your game with Mosh the moogle.
@@ -1129,6 +1130,7 @@ Alright, so let's get started!
 * Enter and climb the tower.
 * Speak with the final Pluto Knight on the stairway to receive an Elixir, then continue to the top of the tower.
 <br/>
+
 * Optimize Zidane and follow the princess.
 * Once in the boiler room, turn the lever both ways to make 2 treasure chests fall from the ceiling; open them and go through the door.
 
@@ -1197,6 +1199,7 @@ Alright, so let's get started!
 * Now go to Steiner's room (don't forget to search it afterwards) and then to Vivi's room.
 * Exit the Prima Vista and save your game; there's also a letter from Ruby.
 <br/>
+
 * Make your way through the forest until you reach the spring.
 * Deliver Kupo's letter to Monty, read the letter Monty received from Stiltzkin and save your game.
 
@@ -1258,13 +1261,15 @@ Alright, so let's get started!
 
 * This is a pretty straightforward area, just search every screen.
 * Never make contact with the white wind as touching it instantly throws you into a random battle. Wait for it to die down or turn dark; that's when it's safe to pass through.
-* Although it's still not exactly easy, you can make it through the entire area without any encounters by changing screens a bit more often than otherwise necessary - changing screens resets the encounter check.
+* Although it's still not exactly easy, you can make it through the entire area without any encounters by changing screens a bit more often than otherwise necessary &ndash; changing screens resets the encounter check.
 <br/>
-* On the screen with the Potion and the Ether, pick up only one per trip, backtracking to the previous screen after getting each, and then getting past the screen on a third try. You may want to start with the Potion since it's the harder to grab without a battle.
+
+* On the screen with the Potion and the Ether, pick up only one per trip, backtracking to the previous screen after getting each, and then getting past the screen on a third try. You may want to start with the Potion since it's the hardest to grab without a battle.
 * On the screen after that, get both of the chests on the right, then move on to the next area and immediately backtrack to defrost the wall and loot the third chest.
 * In the final area, grab the Phoenix Down, and continue onward.
 * Head left at the fork, defrost Mois the moogle, skip the tutorial, accept the letter from Gumo, and finally save.
 <br/>
+
 * Now backtrack to the previous area, defrost the wall, and pick up the Leather Wrist in the chest at the end of the tunnel.
 * Make sure Zidane is equipped with Mage Masher, Leather Hat, Leather Wrist, Leather Shirt, and Moonstone.
 * Optimize everyone else and activate Steiner's Bird Killer ability.
@@ -1313,6 +1318,7 @@ Alright, so let's get started!
 
 * Say goodbye to Ice Cavern and run across Nolrich Heights to enter Dali.
 <br/>
+
 * Leave the inn, head upwards and right to enter a farm plot, then go back to enter and exit the pub, and then enter and exit the windmill.
 * Speak with Vivi, then go to the shop across from the inn; Garnet should be there now.
 * After the conversation, sell all your Phoenix Pinion and buy the following:
@@ -1347,6 +1353,7 @@ Alright, so let's get started!
 * Optimize Zidane and Vivi and activate Zidane's Bandit ability.
 * Don't bother healing or reviving anyone as you will be fully healed prior to the upcoming boss fight.
 <br/>
+
 * Steiner should be equipped with the Iron Sword, Bronze Helm, Bronze Glove and Bronze Armor, with the Bird Killer ability activated; if not, make the necessary adjustments now.
 * Head down the mountain, pick up both treasures at the base, enter Morrid's house and stand still; this often makes him come inside immediately.
 * Talk to Morrid, then leave Observatory Mountain.
@@ -1422,6 +1429,7 @@ Alright, so let's get started!
 * Go upwards to the market square, search the left street area and the house between the two streets.
 * Head down the right alley and enter Dragoos' Weapon Shop. Auto-arrange your inventory if you like.
 <br/>
+
 * You will need a minimum of 15,120 Gil to make the following purchases. You should be able to make at least the following transactions:
 
 | Items sold | Quantity | Gil | Items bought | Quantity | Gil |
@@ -1485,7 +1493,7 @@ Alright, so let's get started!
 > 
 > * Who wins is really just a personal choice. The rewards make little difference; the 5,000 Gil is nice but not essential, and the Coral Ring is useful, but can be synthesized soon enough anyway. The Theater Ship Card is of course completely worthless. Likewise, the 3 minutes you save or lose in nothing permanent or game-changing either. So I would recommend deciding based on who you prefer to win or whether you care about the number of points they win with.
 > * As for the amount of points, you have little control over this since the points received are random. 303 points is the maximum score, 100 points is the minimum for the letter to be written and delivered.
-> * It's difficult to get a specific value for anyone except Zidane. If you let Zidane win, then you can use the tables below to engineer the number of points he gets. You can get a very wide range of values and it's easy to get anything around 250; for higher values you'll need a bit of luck with Zaghnol. Just don't aim for the maximum - you would be more likely to win the lottery.
+> * It's difficult to get a specific value for anyone except Zidane. If you let Zidane win, then you can use the tables below to engineer the number of points he gets. You can get a very wide range of values and it's easy to get anything around 250; for higher values you'll need a bit of luck with Zaghnol. Just don't aim for the maximum &ndash; you would be more likely to win the lottery.
 > 
 > | Monster | Area | Location | Points |
 > |---------|------|----------|:------:|
@@ -1517,12 +1525,14 @@ Alright, so let's get started!
 > 
 > * There is no need to fight Zaghnol for the Needle Fork since you can have Freya absorb the upcoming EXP once Quina is in the party.
 
-* Head straight for the aircab dock - you'll have plenty of time for all other preparations once the festival timer starts.
+* Head straight for the aircab dock &ndash; you'll have plenty of time for all other preparations once the festival timer starts.
 * Equip Zidane with The Ogre, Steepled Hat, Leather Wrist, Bronze Vest and Yellow Scarf; activate his Beast Killer ability; put him in the back row.
 * If you want Zidane or Vivi to win, then just wait in the Business District shopping area to fight Zaghnol.
 <br/>
+
 * Avoid the Trick Sparrow outside the station by hugging the right side of the screen (the Mu only appears after battling the Trick Sparrow so don't worry about it). Doing this also leaves you with the most possible options for monsters to fight after Zaghnol if you want a specific number of points for Zidane.
 <br/>
+
 * If you want Freya to be the victor, then engage one of the Fangs in the Business District. Either the one standing on the left or the one chasing Vivi will do.
 * Simply have Zidane remain idle and get beat up by the Fang to fill up his Trance gauge. Use a Potion whenever needed and knock out the Fang once you're 1 or 2 hits away from reaching Trance.
 * Wait until the clock reads 4:30 or less, then go to the square to fight…
@@ -1554,6 +1564,7 @@ Alright, so let's get started!
 * Don't forget to heal Zidane and equip The Ogre.
 * Some luck is involved as you never have more than a 1 out of 3 chance of getting the desired value, but these are rather good odds compared to some other things in this challenge.
 <br/>
+
 * After the scenes, take the lift to the base level station, ride to and open the chest at the Serpent's Gate and then ride straight to the Dragon's Gate.
 * Read the letter Moodon received from Stiltzkin, then save your game.
 
@@ -1570,6 +1581,7 @@ Alright, so let's get started!
 </table>
 
 * Pick up the Tent behind the platform, then head out into the Mist.
+<br/>
 
 * Cross the wetlands to Qu's Marsh, head to the pond and catch a frog for Quina (the huge one in the top right corner of the marsh is easy to catch).
 
@@ -1577,7 +1589,7 @@ Alright, so let's get started!
 > 
 > * You can let Freya absorb any EXP you might come across once Quina has joined the party. (Hint: Type A x 2)
 
-* Equip your party as follow:
+* Equip your party as follows:
 
 | Vivi | Zidane | Freya | Quina |
 |------|--------|-------|-------|
@@ -1597,7 +1609,7 @@ Alright, so let's get started!
 #### Battle: Type A x 2 (2 AP)
 
 * The goal is to Petrify both Type A's with the Needle Fork.
-* Ideally, you would Petrify them both with only 2 hits total, but the probability if this is only 1%. A more reasonable target would be to Petrify both within 4 or less hits - that's a 5% (1/20) chance.
+* Ideally, you would Petrify them both with only 2 hits total, but the probability of this is only 1%. A more reasonable target would be to Petrify both within 4 or less hits &ndash; that's a 5% (1/20) chance.
 * Have Quina attack non-stop and everyone else Defend, only using a Potion on themselves or Quina if they get low on HP.
 * Keep in mind that the Type A's have 398 HP, so you may need to heal them as well, although chances are the battle will already have dragged on a bit too long if it comes to that.
 
@@ -1634,7 +1646,7 @@ Alright, so let's get started!
 > 
 > * You will need to collect all 6 Chocograph Pieces during the challenge and the first is already available.
 > * You can't unearth it during the very first game with the *Stone with Patterns*, but it's possible to find it in a single game with other Chocographs.
-> * I recommend you try to dig up the Chocograph Piece during the second game - it's relatively rare to find both in a single game and then you still have the issue of getting one of the *right* Chocographs. By doing it you still have 2 Chocographs to get, you double your odds of getting one of the *right* Chocographs with the Chocograph Piece.
+> * I recommend you try to dig up the Chocograph Piece during the second game &ndash; it's relatively rare to find both in a single game and then you still have the issue of getting one of the *right* Chocographs. By doing it you still have 2 Chocographs to get, you double your odds of getting one of the *right* Chocographs with the Chocograph Piece.
 
 **Target time**: 02:22:55
 
@@ -1666,14 +1678,14 @@ Alright, so let's get started!
 
 **Target time**: 02:26:47
 
-* Revive Quina and reset until he/she is revived with exactly 1 HP; revive Viva and Freya as well, if needed.
+* Revive Quina and reset until he/she is revived with exactly 1 HP; revive Vivi and Freya as well, if needed.
 * Exit the room and enter the opposite door to face…
 
 ---
 
 #### Battle: Gizamaluke (5 AP)
 
-* If Zidane's turn comes up before Quina's then you can try to Steal once if you like - the 256/256 Elixir certainly won't hurt.
+* If Zidane's turn comes up before Quina's then you can try to Steal once if you like &ndash; the 256/256 Elixir certainly won't hurt.
 * Use Quina's Limit Glove!
 
 | Character | Ability | AP points |
@@ -1688,6 +1700,7 @@ Alright, so let's get started!
 * Next speak with the guy *repairing* the left gate and choose what you want here, too.
 * Finally, talk to the guy on the far right and then make your way to the passageway.
 * Open the chest for a Potion, take Grimo's letter to Nazna and board the cable car.
+<br/>
 
 * Run about halfway towards Cleyra and save your game.
 
@@ -1699,6 +1712,7 @@ Alright, so let's get started!
 * Call Choco, open the Chocograph menu and select Healing Shore.
 * Dig up the Chocograph to get the Reef Transformation.
 * After getting the transformation, head back to Gizamaluke's Grotto and save outside.
+<br/>
 
 * Go through the grotto, still evading the Black Mage, then run a little in the direction of the Chocobo's Forest and save.
 * Make your way to the Chocobo tracks outside Chocobo's Forest; call Choco.
@@ -1727,7 +1741,7 @@ Alright, so let's get started!
 > 
 > * Actually, you can just evade the Black Mage again. Surprisingly, you will still find him running around the grotto even on Disc 4. Thanks to Kamy41 for testing and confirming this in 2015.
 > * It's assumed that you fight the battle, but you stand to save between 40 seconds to over a minute by skipping it.
-> * If you defeat the Black Mage and pick up the soldier's Gizamaluke Bell you'' be left with 1 bell and 1 closed door, at which point it will be up to you to decide what to do here on Disc 4.
+> * If you defeat the Black Mage and pick up the soldier's Gizamaluke Bell you'll be left with 1 bell and 1 closed door, at which point it will be up to you to decide what to do here on Disc 4.
 > * The Gizamaluke Bell is just as unique a key item as the Athlete Queen or the coffees. Even if you decide to use it on Disc 4 to open the last door, it will still be visible that you got all of the bells. Or you can just leave the mage alone forever.
 
 * Leave the grotto and save about halfway to Burmecia.
@@ -1773,12 +1787,14 @@ Alright, so let's get started!
 * Speak to the dying soldier, then pick up the Protection Bell from behind the bed and the Ether from behind the cabinet.
 * Now make your way back to the terrace with the locked door which you passed going to the Germinas Boots.
 * Open and go through the door, then go up the stairs.
+<br/>
 
 * Enter the doorway below the walkway, then return and take that walkway to the left door after the scene.
 * Go through the next door to appear in a courtyard; enter the left door.
 * Exit and enter the right door.
 * Remove everyone's equipment.
 * Open the chest in the back of the room, buy Stiltzkin's deal, deliver the letter to Atla, accept the letter to Monev and finally save your game.
+<br/>
 
 * Revive Quina and reset until he/she is revived with exactly 1 HP; revive Vivi and Freya as well if needed.
 * Go outside and up the steps.
@@ -1794,7 +1810,7 @@ Alright, so let's get started!
 
 **Target time**: 02:51:05 (+11:22) **Target Gil**: 11,239 **Encounters**: 0
 
-## Disc 2 - Congratulations! You've finished Disc 1!
+## Disc 2 &ndash; Congratulations! You've finished Disc 1!
 
 ### Start of Disc 2 &rarr; Bentini Heights
 
@@ -1817,12 +1833,15 @@ Alright, so let's get started!
 * Sell all but 1 Tent.
 * Buy 1 Mythril Gloves if you didn't Steal it from Zaghnol.
 * Top up your supply of Potion of Phoenix Down to 20 and 10.
+<br/>
 
 * Optimize both Garnet and Steiner, but give Garnet the Feather Hat and also activate Steiner's Man Eater ability.
+<br/>
 
 * Speak with the attendant between the exits and head outside, picking up the Phoenix Down from the chest.
 * Re-enter the station after overhearing the conversation and speak to either Marcus or Cinna, and then to Steiner.
 * Deliver Grimo's letter, accept Nazna's letter for Mochos and save your game.
+<br/>
 
 * Leave the station and board the cable car.
 
@@ -1872,6 +1891,7 @@ Alright, so let's get started!
 * Synthesize as many Cotton Robe as you can afford.
 * Return outside and head past the Card Stadium.
 * Enter the little tower to make Mogrich appear; run after him and read the letter he received from Stiltzkin, then save your game.
+<br/>
 
 * Now go into the weapon shop, sell all the Cotton Robe you just bought and buy the following equipment:
 
@@ -1893,7 +1913,7 @@ Alright, so let's get started!
 > 
 > * You need to win the Magician Robe, Madain's Ring, and Reflect Ring.
 > * Although it's possible for all three to appear in a single auction, it's very rare, and then you still need to win them at a reasonable price, so I suggest you plan two auctions and save in between.
-> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 10,000, 10,000 and 15,000 Gil, respectively! Don't forget to refuse the first offers for Griffin's Heart and Une's Mirror. So make sure you win them at lower prices, obviously.
+> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 10,000, 10,000 and 15,000 Gil, respectively! So make sure you win them at lower prices, obviously. Also, don't forget to refuse the first offers for Griffin's Heart and Une's Mirror.
 > * The table below shows the price ranges for the items as listed in the Ultimania, as well as their resell values; you should aim to win the items at no more than the average price, and for the items you don't need or have already won, bid the average value to hopefully push the auction to its final stages faster.
 > * The Mini-Cid has a narrow price range, so bidding 2,000 to 2,400 should finish the auction fast without you actually buying the item. You should avoid buying it because it's the easiest item to skip and you will have to do this many times when buying all the Promist Ring later on Disc 3.
 > * Keep in mind that only the total Gil spent matters, so you can spend a bit more on some items if you get others much cheaper. It total, you should aim to spend no more than around 65,000 Gil (including the key items which you should sell for a profit).
@@ -1925,9 +1945,11 @@ Alright, so let's get started!
 | **Gil after** | | 51,383 |
 
 * Buy as many Cotton Robe as you can!
+<br/>
 
 * Now head over to the Treno inn and speak with Marcus.
 * Go down towards the dock and speak to Baku; ignore Steiner completely or you won't make it to the bottom.
+<br/>
 
 * After the attempted robbery, leave Treno and save midway to South Gate.
 
@@ -1935,6 +1957,7 @@ Alright, so let's get started!
 
 * Head back to Dali and purchase another 99 Wrist.
 * It's possible to reach the town without saving. Save on Nolrich Heights after you leave, and then try to make it to Treno without any more saves.
+<br/>
 
 * Upon returning, go to Doctor Tot's tower and pick up the Mythril Dagger from the chest by the entrance.
 * Speak with Doctor Tot once Marcus grabs the Supersoft, then climb the ladders and go down the hatch.
@@ -2009,7 +2032,7 @@ Alright, so let's get started!
 
 **Target time**: 03:24:56
 
-* Equip your party as follow and place everyone in the back row:
+* Equip your party as follows and place everyone in the back row:
 
 | Zidane | Vivi | Freya | Quina |
 |--------|------|-------|-------|
@@ -2023,7 +2046,7 @@ Alright, so let's get started!
 
 
 | Items bought | Quantity | Gil |
-|-------------|:---:|----:|
+|--------------|:--------:|----:|
 | **Gil before** | | 38,513 | 
 | Mythril Rod<br/>Mage's Hat<br/>Mythril Helm | 1<br/>2<br/>2 | 560<br/>1,200<br/>2,000 |
 | **Gil after** | | 34,753 |
@@ -2056,9 +2079,10 @@ Alright, so let's get started!
 </tr>
 </table>
 
-* Return to Cleyra, picking up all the treasure you skipped earlier, except the 2 chests by the sinkholes, the Elixir and the chest behind the ladder to the settlement.
+* Return to Cleyra, picking up all the treasures you skipped earlier, except the 2 chests by the sinkholes, the Elixir and the chest behind the ladder to the settlement.
 * In the chamber after the bridge, I suggest going for the Remedy first, then continuing on through the little passage above the Remedy, which takes you to the exit at the top of the screen. Pick up the Mythril Gloves and return to the previous screen. Then, pick up the Mythril Vest and the Desert Boots and continue onward.
 * Note that there is no need to manipulate the switch found at the end of the path with the Mythril Gloves. You will still be able to get the Elixir when going down the trunk as the sand will have stopped by itself by then.
+<br/>
 
 * Loot the inn, read the letter from Ruby and save your game.
 
@@ -2072,7 +2096,7 @@ Alright, so let's get started!
 
 * Your aim here is to get Quina down to 1 HP and use Limit Glove.
 * It requires a fair bit of luck, but the simplest and fastest way of getting this done is letting Antlion do it for you with his Sandstorm attack.
-* You can let Zidane Steal - all of the items can be sold for some Gil.
+* You can let Zidane Steal &ndash; all of the items can be sold for some Gil.
 
 | Character | Ability | AP points |
 |-----------|---------|:---------:|
@@ -2213,7 +2237,7 @@ Alright, so let's get started!
 #### Battle: Soldier x 3 (0 AP)
 
 * Quina must be knocked out in this battle, so don't cast Bio before having done so!
-* Hopefully everyone survived all of the battles and gained AP as follow:
+* Hopefully everyone survived all of the battles and gained AP as follows:
 
 | Character | Ability | AP points |
 |-----------|---------|:---------:|
@@ -2259,6 +2283,7 @@ Alright, so let's get started!
 </table>
 
 * Return to the teleport pods and enter them by speaking to Vivi.
+<br/>
 
 * Break out from the cage.
 * You'll want to get through this area without a battle.
@@ -2266,8 +2291,10 @@ Alright, so let's get started!
 * Alternatively, you can try opening the disc cover or ejecting the disc tray while this screen is loading to create some choppiness and put the game into slow motion; the correct moment for opening the disc cover or ejecting the disc tray here is when you hear Steiner's armor clanking, but before the screen has fully rendered.
 * Hug the railing to make the guards run next to it, then evade them when they get close to you. You can also use the columns on the wall to get the guards stuck in them and then run by.
 * Another method you may want to try, courtesy of AtmaChild, is using the **pause** button. Pause whenever you get close to a guard, then make directional decisions by tilting the analog stick and resume the game. Repeating this multiple times per guard could help you evade them.
+<br/>
 
 * Unequip Marcus before going onward after climbing the ladder! Give him the Iron Sword or Broadsword to replace the Mythril Sword if you equipped him with it earlier!
+<br/>
 
 * After joining up with the rest of the party, run to where you first gained control of Steiner on Disc 1 and enter the door on the upper floor. Then, run straight and enter the center door to find the Queen's chamber.
 * Pull the purple lamp and enter the secret passage.
@@ -2292,7 +2319,7 @@ Alright, so let's get started!
 
 **Target time**: 04:07:59 (+7:11) **Target Gil**: 39,853 **Encounters**: 0
 
-### Alexandra Rescue
+### Alexandria Rescue
 
 ###### Notes
 
@@ -2333,7 +2360,7 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 * Cast Stop non-stop >__>
 * Have Garnet cast multi-target Silence on all the Type C's until they are all either Stopped or Silenced.
 * Zidane can Steal to grab some Potion and/or Tent, and Steiner should Defend and throw Phoenix Down, Potion and/or Elixir if necessary.
-* Concentrate your efforts on the Type C at the top of the list - for some reason it's stronger than the other two.
+* Concentrate your efforts on the Type C at the top of the list &ndash; for some reason it's stronger than the other two.
 * Rejoice if you manage to finish without having to use an Elixir!
 
 ---
@@ -2356,7 +2383,7 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 
 #### Battle: Bandersnatch (2 AP)
 
-* If you make it past this battle having use only 1 (or even none!) Elixir on Vivi up to this point then you've had a very good run!
+* If you make it past this battle having used only 1 (or even none!) Elixir on Vivi up to this point then you've had a very good run!
 * Below is a summary of relevant AP gains for this series of battles:
 
 | Character | Ability | AP points |
@@ -2380,13 +2407,14 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 #### Battle: Bandersnatch x 2 (2 AP)
 
 * Have Steiner use an Elixir on Beatrix as soon as possible, then wait for him to get knocked out somehow (either by himself or an enemy) before using Climhazzard to end this last battle.
-* If Beatrix is knocked out, don't reset - just use a Phoenix Down. Steiner won't go down as quickly as it may seem if he's got the Coral Ring and is in the back row.
+* If Beatrix is knocked out, don't reset &ndash; just use a Phoenix Down. Steiner won't go down as quickly as it may seem if he's got the Coral Ring and is in the back row.
 * If Steiner is knocking himself out, open Beatrix's Seiken menu the moment he acts and wait to see whether he is successful as you wouldn't want to redo all of this if he happens to survive or miss! This also stops the Bandersnatches' ATB gauges from filling up during the animation. Use Climhazzard once you see that Steiner is in fact knocked out.
 
 ---
 
 * As if all this wasn't enough, you can still run into a random battle after regaining control of Zidane's group. Don't move before you equip him with the Dagger, then head for the chapel.
-* If you do get a battle, just use Flee as soon as possible; don't reset, as the 30-45 seconds a battle would take is little compared to how much time you could lose due to a bad luck with Stop - not to mention real-life time.
+* If you do get a battle, just use Flee as soon as possible; don't reset, as the 30-45 seconds a battle would take is little compared to how much time you could lose due to a bad luck with Stop &ndash; not to mention real-life time.
+<br/>
 
 * Accept the letter from Monty, then finally save your game!
 
@@ -2412,7 +2440,7 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 </table>
 
 * Equip Zidane with the Mythril Dagger, then remove Garnet's Silk Robe and Gold Choker; give the robe to Vivi and also equip him with the Ice Staff and Magus Hat; activate his Ability Up ability and Zidane's Bandit.
-* Head for the Gargant platform
+* Head for the Gargant platform.
 
 ---
 
@@ -2422,8 +2450,8 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 * The boss will coil up, but will not attack while in this state.
 * While he is coiled up, have Zidane Steal. Wait for the boss to uncoil then rinse and repeat the attack pattern.
 * It takes 3 Blizzara spells to win.
-* You can also skip Garnet's attack during the first round and hope the boss doesn't use Thundara - this saves a round of coiling.
-* Make sure you Steal the Adaman Vest (64/256) - you will soon need it for fighting Lani.
+* You can also skip Garnet's attack during the first round and hope the boss doesn't use Thundara &ndash; this saves a round of coiling.
+* Make sure you Steal the Adaman Vest (64/256) &ndash; you will soon need it for fighting Lani.
 
 | Character | Ability | AP points |
 |-----------|---------|:---------:|
@@ -2438,21 +2466,25 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 
 **Target time**: 04:32:54
 
-* Pinnacle Rocks is theoretically skippable, but since you're collecting all the treasure, you may as well get the story pieces; they're right next to the chests, after all.
+* Pinnacle Rocks is theoretically skippable, but since you're collecting all the treasures, you may as well get the story pieces; they're right next to the chests, after all.
+<br/>
 
 * Open the chest at the bottom of the slope, then find another segment of the story below the top path in a little cove.
 * Go left and approach the chest to find yet another part, and open the chest afterwards.
 * Go up the branch and around to jump down to the chest below; find the fifth piece of the story near this chest.
 * Return and go past the point where you jumped to meet Ramuh. Recite the story with the ending you wish and attempt to leave Pinnacle Rocks.
-* When given the choice to jump off from the ledge, choose **not** to and return to Monty to read the letter he received from Stiltzkin, save, and then leave Pinnacle Rocks. Monty is unreachable on Disc 4, meaning in won't be visible whether you read this letter or not, so if you don't care about it then you can jump off and save about a minute.
+* When given the choice to jump off from the ledge, choose **not** to and return to Monty to read the letter he received from Stiltzkin, save, and then leave Pinnacle Rocks. Monty is unreachable on Disc 4, meaning it won't be visible whether you read this letter or not, so if you don't care about it then you can jump off and save about a minute.
+<br/>
 
 * In Lindblum, enter the inn, deliver Serino's letter, accept Moodon's letter and read the letter from Ruby; save if you wish.
 * Exit the inn and head to the market square, taking care not to trigger the scene with the crowd around the black mage. Do this by walking as close as possible to the left side of the screen.
 * At the square, search Card Freak Gon's house and the rubble to the left of it, then head to the shopping area to initiate some scenes.
+<br/>
 
 * You'll find yourself in the shopping area afterwards, so drop by the synthesis shop and buy yourself an Exploda.
 * Take an aircab to the Theater District, and loot Artist Michael's studio and the Tantalus hideout. Then, speak to Lowell outside the hideout to recruit him into Ruby's theater in Alexandria.
 * Return to the Business District and tell the man that you're ready to leave.
+<br/>
 
 * Deliver Moodon's letter to Moonte at the Dragon's Gate, then save.
 
@@ -2473,7 +2505,7 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 > #### Moguta's Elixir
 > 
 > * You may want to make a short detour to Gizamaluke's Grotto and give Moguta a Kupo Nut. The first one you give him on Disc 2 is rewarded with an Elixir, which, while not quite a unique treasure, **is** a unique reward from Moguta.
-> * All other Kupo Nut rewards are a random item out of 3, except this Elixir and an Extension on Disc 3, both of which count toward your Treasure Hunting Rank. The Extension can be picked up in around 30 seconds while doing something else, but this Elixir requires an extra 2 minutes. The target times do include this.
+> * All other Kupo Nut rewards are a random item out of 3, except this Elixir and an Extension on Disc 3, both of which count towards your Treasure Hunting Rank. The Extension can be picked up in around 30 seconds while doing something else, but this Elixir requires an extra 2 minutes. The target times do include this.
 > 
 > **Time**: +2:00
 
@@ -2497,25 +2529,27 @@ This is one of the most difficult parts of this challenge, so come armed with pl
 
 #### Battle: Lani (0 AP)
 
-* Simply have Vivi attack Zidane for a guaranteed 18 damage, then fire off with Lucky seven to (with some luck) promptly end the battle!
+* Simply have Vivi attack Zidane for a guaranteed 18 damage, then fire off with Lucky Seven to (with some luck) promptly end the battle!
 
 ---
 
 * Now comes the *hard* part: run all the way back to the entrance to get the Elixir from Armodullahan's cage and return to go on.
-* Before you go to fetch the Elixir, revive your party, optimize Zidane, and equip him with the Dagger and Vivi with the Ice Staff and Silk Robe. Then optimize the others' equipment and activate everyone's Insomniac abilities (from Bandana or Coral Ring) as well as Vivi's loudmouth.
+* Before you go to fetch the Elixir, revive your party, optimize Zidane, and equip him with the Dagger and Vivi with the Ice Staff and Silk Robe. Then optimize the others' equipment and activate everyone's Insomniac abilities (from Bandana or Coral Ring) as well as Vivi's Loudmouth.
 * The 3-part path with the swinging blades actually counts as one long screen so it is virtually impossible to make it to the Elixir and back with no random battles. The target times assume 5 encounters, but it's possible to make it through with just 4, and acceptable if you get 6.
+<br/>
 
 * You need Quina to learn Night along the way, so encounter a party of 2 Abomination. Cast Blizzara on 1 of them to be able to Eat it successfully. You should do this while getting the Elixir to make the most of the battles you'll have. You can also learn Night by Eating a Seeker Bat, but it's easier to learn it from Abomination.
+<br/>
 
 * Go down the steps where you fought Lani once you get the Elixir.
-* Pick the flowers and call Gargant to get to a larger cavern with moogles and a treasure hunter.
+* Pick the flowers and call the Gargant to get to a larger cavern with moogles and a treasure hunter.
 * Unequip everyone's gear, buy Stiltzkin's latest deal, read the letter Mogki received, and save.
 
 **Target time**: 04:55:41 (+12:20) **Target Gil**: 45,725 **Encounters**: 5
 
 ###### Notes
 
-If you are running very late and don't anticipate yourself making up any time in future circuits, then you may want to consider skipping the Elixir in Fossil Roo. This is most definitely a sacrifice on your part, but if you can live with having missed 1 treasure, then this is the best opportunity to save time in the entire game when you consider what you have to consider what you have to sacrifice; you'll save around 7 minutes at the cost of a common Elixir. However, the target times assume that you pick it up.
+If you are running very late and don't anticipate yourself making up any time in future circuits, then you may want to consider skipping the Elixir in Fossil Roo. This is most definitely a sacrifice on your part, but if you can live with having missed 1 treasure, then this is the best opportunity to save time in the entire game when you consider what you have to sacrifice; you'll save around 7 minutes at the cost of a common Elixir. However, the target times assume that you pick it up.
 
 Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
@@ -2535,7 +2569,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Take the bottom path, ride the Gargant, grab the Fairy Earrings from the chest and return to the chamber with the moogles.
 * Take the top path by the treasure hunter and ride the Gargant.
 * Flip Switch #1, ride the Gargant and take the top path to a chest with an Ether inside.
-* Return to the previous screen and follow the lower path to reach Switch #2; flop the switch and ride the Gargant back to Switch #1.
+* Return to the previous screen and follow the lower path to reach Switch #2; flip the switch and ride the Gargant back to Switch #1.
 * Flip Switch #1 and ride the Gargant once more to return to the cavern with the moogles; save your game.
 
 **Target time**: 04:59:11
@@ -2545,6 +2579,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Ride the Gargant back, flip Switch #4 again and ride the Gargant once more to arrive at a chamber with vines.
 * Climb the vines to the lower ledge on the right side of the chamber and enter the doorway. Move along the bottom of the vines to (hopefully) avoid any water washing you down into the pond.
 * Take the wooden walkway near the bottom of the screen to a storage area where you will find a Survival Vest.
+<br/>
 
 * Return to the excavation chamber, speak with the treasure hunter and give him a potion to borrow his pick-axe.
 * Repeatedly hit the back wall on the upper level to free Kuppo.
@@ -2555,9 +2590,11 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Return the pick-axe, go back to the chamber with the vines and make your way to the ledge with Switch #3.
 * Flip the switch and go under any of the spouts to get thrown into the water.
 * Surface and go through the right doorway, pick the flowers and ride the Gargant at the end of the path to the exit of Fossil Roo.
+<br/>
 
 * Run to the Chocobo tracks near Qu's Marsh and call Choco. There are no random encounters while the nameplate is displayed, so it's possible to make it to the tracks without an encounter, but you may wish to save along the way if it isn't working.
 * Dismount outside Conde Petie and enter.
+<br/>
 
 * Pick up the Gil near the entrance, then head right to the grocery store; pick up the Phoenix Pinion and the letter to Suzuna, then go upstairs.
 * Speak with Vivi, then follow him back down the stairs.
@@ -2580,6 +2617,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 * Enter the forest and head right twice, left twice, and then right again to reach the Black Mage Village. This is actually faster than doing it the *right* way.
 * Although highly unlikely, it **is** possible to make it through this screen with no random battles. The target times assume you accept one here, though.
+<br/>
 
 * Once inside, it's time to hit the equipment shop!
 
@@ -2587,14 +2625,16 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 |------------|:--------:|----:|--------------|:--------:|----:|
 | **Gil before** | | 48,425 | **Gil before** | | 147,985 | 
 | Ether<br/>Remedy<br/>Annoyntment<br/>Phoenix Pinion<br/>Tent<br/>Butterfly Sword<br/>The Ogre<br/>Iron Sword<br/>Mage Staff<br/>Leather Wrist<br/>Leather Hat<br/>Feather Hat<br/>Cotton Robe<br/>Mythril Armor<br/>Desert Boots<br/>Magician Shoes<br/>Yellow Scarf<br/>Fairy Earrings | 9<br/>4<br/>1<br/>7<br/>4<br/>1<br/>2<br/>2<br/>1<br/>1<br/>1<br/>2<br/>31<br/>1<br/>1<br/>2<br/>4<br/>1 | 9,000<br/>600<br/>50<br/>7,000<br/>1,600<br/>650<br/>1,700<br/>660<br/>160<br/>100<br/>75<br/>200<br/>62,000<br/>915<br/>750<br/>7,500<br/>3,600<br/>3,000 | Steepled Hat | 99 | 25,740 |
-| **Gil after** | | 147,985 | **Gil after** | | 4,000 |
+| **Gil after** | | 147,985 | **Gil after** | | 122,245 |
 
 * The second Cotton Robe trick is almost complete!
 * You can also sell any optional Steals you got from bosses, such as Gold Helm, Partisan, Ice Brand, an extra Oak Staff, etc.
+<br/>
 
 * Head right to find Mogryo; take the letter addressed to Mocchi.
 * Return to the entrance of the village and take a left. Open the ATE menu and watch *Different Language*, then go left until Vivi runs the other way.
 * Now go to the inn, talk to Vivi and choose *Rest* to go to sleep.
+<br/>
 
 * In the morning, head over to Mogryo to read the letter he received from Stiltzkin. He got it overnight, but will no longer have his letter for Mocchi in the morning (I guess Artemicion beat you to it when delivering Stiltzkin's letter!).
 * Visit the synthesis shop (pick up the 2,000 Gil there):
@@ -2608,6 +2648,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Next, climb the ladder and overhear the brief conversation below. Then go back down and enter the item shop.
 * Pick up the Ether, then cash in on the 99 Cotton Robe you just synthesized, and buy 10 Potion and 5 Soft.
 * Tell the shopkeeper you want *the usual*, then climb the ladder behind the counter and grab the Black Belt from the chest hanging from the ceiling!
+<br/>
 
 * The shopping isn't over! Make your way back to the equipment shop:
 
@@ -2618,15 +2659,17 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 | **Gil after** | | 178,785 |
 
 * That's right, another Cotton Robe trick is in the works!
+<br/>
 
 * Once you're finally done shopping, leave the Black Mage Village and head straight to Conde Petie.
+<br/>
 
 * Pick up the Gil behind one of the beds in the inn, the head up the stairs and climb onto the boat to find a Diamond.
 * Talk to the dwarf blocking the top right exit, then go to the corridor outside the inn and speak to Father Heavenguard.
 * After the ceremony, you may choose to let Quina and Vivi get married. It only takes an extra 15 seconds so I'd do it :)
 * Either way, save near the grocery shop.
 
-**Target time**: 05:15:44 (+9:20) **Target Gil**: 180,585 **Encounter**: 1
+**Target time**: 05:15:44 (+9:20) **Target Gil**: 180,585 **Encounters**: 1
 
 ### Conde Petie &rarr; Lucid Plains
 
@@ -2643,10 +2686,11 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Go past the weapon shop and on the Conde Petie Mountain Path.
 * Eiko will join your party at Lv 1.
 * After meeting Eiko, head further along the path until you spot a group of Oglops; catch one and return to Conde Petie.
-* Go to the young boy behind the grocery shop, tell him your favorite dish (he likes Seasoned Oglops) and hive him the Oglop for the Oglop Card.
+* Go to the young boy behind the grocery shop, tell him your favorite dish (he likes Seasoned Oglops) and give him the Oglop for the Oglop Card.
 * Save in the grocery store.
+<br/>
 
-* Return to the Mountain Path and get the rest of the treasure, then keep going until you find Stiltzkin and Suzuna.
+* Return to the Mountain Path and get the rest of the treasures, then keep going until you find Stiltzkin and Suzuna.
 * Make sure your party is equipped as follows:
 
 | Zidane | Garnet | Vivi | Eiko |
@@ -2655,6 +2699,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 | Man Eater | | | |
 
 * Buy Stiltzkin's deal, deliver Mogmatt's letter to Suzuna and save your game.
+<br/>
 
 * Climb the vines to the left of the moogles and keep going until you get ambushed by…
 
@@ -2662,8 +2707,8 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 #### Battle: Hilgigars (9 AP)
 
-* Ideally, you would want Eiko to attack Zidane, Vivi cast Fira, and Zidane finish the battle with 7,777 frim Luck Seven - all in 1 round.
-* Vivi and Eiko with both deal a guaranteed 18 damage to Zidane with regular attacks, setting him up for Lucky Seven.
+* Ideally, you would want Eiko to attack Zidane, Vivi cast Fira, and Zidane finish the battle with 7,777 from Luck Seven &ndash; all in 1 round.
+* Vivi and Eiko will both deal a guaranteed 18 damage to Zidane with regular attacks, setting him up for Lucky Seven.
 * Hilgigars can counter with Curaga if his HP gets low, so try not to cast Lucky Seven before you've lowered his HP below 7,777 with a Fira or regular attack from Zidane.
 * Garnet can cast Float on the party if she gets a chance.
 
@@ -2713,8 +2758,9 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 * Head over to the Eidolon Wall and enter.
 * Leave Garnet, then go to Eiko's house to finally eat.
+<br/>
 
-* After the meal, loot the two chests in the room and bring the pot to Eiko on the back porch - speak with her.
+* After the meal, loot the two chests in the room and bring the pot to Eiko on the back porch &ndash; speak with her.
 * Don't forget to pick up the Kirman Coffee, then try to leave the house; choose *Sleep* when the moogle stops you at the door.
 * Eiko will decide to go with you in the morning after all, so leave Madain Sari and save on your way to the Mountain Path.
 
@@ -2726,10 +2772,10 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 > #### The colored stones side-quest
 > 
 > * The 4 colored stones you have collected can now be exchanged for a Moonstone. Simply make your way back to Suzuna and head down the path to the right.
-> * Put all 4 colored stones onto statue to receive a Moonstone, then return to the fork where you fought Hilgigars.
+> * Put all 4 colored stones into the statue to receive a Moonstone, then return to the fork where you fought Hilgigars.
 > 
 > * This is an optional side-quest. The colored stones and the Moonstone are all unique items, so it's a matter of taste.
-> * By keeping the stones you can keep 4 unique items, but leave the side-quest incomplete. Exchanging them gives you only 1 unique item, but also a full set of Moonstone - and completes the side-quest.
+> * By keeping the stones you can keep 4 unique items, but leave the side-quest incomplete. Exchanging them gives you only 1 unique item, but also a full set of Moonstone &ndash; and completes the side-quest.
 > * The decision is yours, but the target times assume you do exchange the items, so subtract 1:00 from the times if you decide to skip this.
 > 
 > **Time**: +1:00
@@ -2745,7 +2791,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * Enter the Iifa Tree and choose to *Ask Eiko* when given a prompt.
 * Give Eiko the Ruby you receive from breaking the seal.
 * Go along the roots until you find Mocchi, for whom you have a letter to deliver.
-* It's very unlikely, but it's possible to make it to Mocchi without any battles. However, the times do account for one.
+* It's very unlikely, but it's possible to make it to Mocchi without any battle. However, the times do account for one.
 
 **Target time**: 05:33:38 (+11:52) **Target Gil**: 182,055 **Encounters**: 1
 
@@ -2786,22 +2832,23 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 > #### Trance gauge prep
 > 
-> * Although it's still a very long way off, you need to prepare Zidane for his show-down with Shell Dragon towards the end of Disc 3. That means filling up his Trance gauge so that is his 2 or 3 hits away from full.
+> * Although it's still a very long way off, you need to prepare Zidane for his show-down with Shell Dragon towards the end of Disc 3. That means filling up his Trance gauge so that he is 2 or 3 hits away from full.
 > * The gauge goes from 0 to 255. Without High Tide, each hit fills it by a random amount between 0 and Zidane's SPR. Zidane won't have High Tide activated during Pandemonium battles and his SPR will be 23. This means he will need his gauge to be at least 231, but that's only a 1/24 chance of getting filled from a single attack. You'll want to get most of the filling done here since you'll get attacked often and can still survive attacks.
 > * With the equipment listed earlier and High Tide, each hit here will fill Zidane's gauge by 26. Do some testing to find out how many hits he needs to trigger Trance so that you have some orientation. Filling it to just above the B in the ATB bar is a good rule of thumb, since you still need to leave some room for boosts in the future.
 > * The only attack Zidane can survive now is the Strike used by Zombie. They appear in groups of 2 or 3. However, don't spend more than 2 rounds taking hits, because they can use Melt and Roulette as well.
-> * You are guaranteed to face a party of Zombie on the way down to Soulcage. 2 rounds of 3 attacks each will fill Zidane's gauge by around 60%. You can do most of your Trance gauge filling there. However, if it's not enough, then 1 random battle with Zombies on the way to the green leaf platform should be enough
+> * You are guaranteed to face a party of Zombie on the way down to Soulcage. 2 rounds of 3 attacks each will fill Zidane's gauge by around 60%. You can do most of your Trance gauge filling there. However, if it's not enough, then 1 random battle with Zombies on the way to the green leaf platform should be enough.
 > * From this point on, reset the game if Zidane ever enters Trance.
 
 * For subsequent random encounters, have Zidane use Flee as soon as possible. If the enemy attacks Garnet, he will cover her thanks to Protect Girls, but be sure to heal him back up to full HP after each encounter. If Zidane gets knocked out, then simply have Eiko knock herself out before Garnet casts Life if you're facing Dracozombie, or uses a Soft if up against Stroper.
 * Zombies shouldn't pose a problem if Zidane is equipped properly, and you can use them for Trance gauge filling if needed.
 * If Garnet gets healed by Dracozombie's Thundara, have her attack herself to return to half HP before Zidane uses Flee. This way Protect Girls will still be able to trigger in subsequent battles.
+<br/>
 
 * Follow the path down until you reach a little niche with a switch on the left side of the screen; press the switch.
 * Now return up 1 screen and pick up all the treasure which you skipped earlier (the Healing Rod appears only after pressing the switch mentioned above). You may want to exit this screen after picking up the chest at the bottom in order to reset the encounter rate.
 * There is another switch in this screen as well, and it makes a chest with a Phoenix Down drop from above.
 * Continue your descent down the tree and pick up the remaining treasures at the ends of the path.
-* Make sure you revive everyone and heal Zidane and Vivi before stepping onto the green leaf platform! Keep an eye on Garnet's MP if you're using her spells - she will need at least 8 MP remaining after the following forced encounters. You can use Eiko's Cure spell to save some Potions.
+* Make sure you revive everyone and heal Zidane and Vivi before stepping onto the green leaf platform! Keep an eye on Garnet's MP if you're using her spells &ndash; she will need at least 8 MP remaining after the following forced encounters. You can use Eiko's Cure spell to save some Potions.
 
 ---
 
@@ -2809,6 +2856,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 * Garnet and Eiko will be untouchable thanks to Zidane's Protect Girls, and Vivi can survive their attacks and heal automatically.
 * Spend the first and/or second round filling up Zidane's Trance gauge by blocking their Strike attacks. Throw Elixir at the ones who have already acted to reduce the chances of them using Melt or Roulette.
+<br/>
 
 * Once satisfied with your gauge, simply have Zidane and Eiko throw an Elixir at all but the last Zombie, then wait for the remaining Zombie to make its move. Cross your fingers that it isn't Melt.
 * Once it has attacked, make Vivi cast Thundara on the party to knock out everyone except Garnet, and have her throw one more Elixir to win the battle!
@@ -2825,7 +2873,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 * All you need to win this battle is for the Dracozombie to attack someone other than Garnet.
 * Once it does, have the remaining character knock themselves out and Garnet throw an Elixir to win the battle.
-* If Garnet is knocked out, don't reset! You can still win by casting Stop with Vivi - have Eiko cast Reflect on him or throw a Tent at the Dracozombie.
+* If Garnet is knocked out, don't reset! You can still win by casting Stop with Vivi &ndash; have Eiko cast Reflect on him or throw a Tent at the Dracozombie.
 * Unless Vivi and Garnet both start out with full ATB gauges, wait for the monster to attack before you input your commands. Since you never know how full the enemy's ATB gauge is, it could happen that you tell Vivi to knock himself and Eiko out only for the enemy to get its turn just before Garnet throws Elixir, with no one but her left to target!
 
 ---
@@ -2833,7 +2881,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 * You will now finally reach the bottom. Use Phoenix Down on Vivi and Eiko, but do **not** revive Zidane!
 * Pick up the Elixir and the Brigandine.
 * Remove all of Zidane's equipment, then equip him with the Black Belt and activate his HP+20% ability.
-* Have Garnet cast Life to revive Zidane with exactly 37 HP - perfect for Lucky Seven!
+* Have Garnet cast Life to revive Zidane with exactly 37 HP &ndash; perfect for Lucky Seven!
 * Afterwards, equip Zidane as follows:
 
 | Zidane |
@@ -2842,6 +2890,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 | Ability Up |
 
 * Also take a moment to cure Garnet's Zombie status, equip her with the Silk Robe and Madain's Ring, and activate her Ability Up ability.
+<br/>
 
 * Finally, go to the bottom of the screen and inspect the ledge. Run over to Garnet once the area begins to shake to face…
 
@@ -2871,7 +2920,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 
 #### Notes
 
-The 6 encounters includes the Dracozombie for Zombification, and excludes the forced battles.
+The 6 encounters include the Dracozombie for Zombification, and exclude the forced battles.
 
 ### Lucid Plains &rarr; Pualei Plains
 
@@ -2930,17 +2979,18 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 ### Pualei Plains &rarr; Start of Disc 3
 
 * You will need to get past 3 Mistodon without gaining EXP. Although it's possible to get the Zombie from a Dracozombie on the roots, this is not time-efficient, and due to some strange programming, you will still have to get past the second battle with Stop. Therefore, it's advisable to focus your equipment and strategy on Stop for the whole segment.
+<br/>
 
 * Re-enter the Iifa Tree and just along the familiar roots until you get a scene.
-* At the top, simply cancel the prompt and choose Finished.
+* At the top, simply cancel the prompt and choose *Finished*.
 
 ---
 
 #### Battle: Mistodon x 2 (3 AP)
 
 * Vivi casts Stop non-stop (yes, pun intended) >__>
-* Garnet and Eiko should cast Silence every chance they get until both Mistodon are Silence'd. Use spread spells until they connect with at least one monster - then switch over to single-target casting. You need this because Vivi is weak to Fire with his Magician Robe.
-* Zidane should throw Tent at whichever Mistodon has not been inflicted with Silence yet. After that, he should distribute Phoenix Down - you want as many characters as possible to be conscious at the start of the next battle!
+* Garnet and Eiko should cast Silence every chance they get until both Mistodon are Silence'd. Use spread spells until they connect with at least one monster &ndash; then switch over to single-target casting. You need this because Vivi is weak to Fire with his Magician Robe.
+* Zidane should throw Tent at whichever Mistodon has not been inflicted with Silence yet. After that, he should distribute Phoenix Down &ndash; you want as many characters as possible to be conscious at the start of the next battle!
 * Zidane and Vivi will survive most attacks and heal up automatically with Auto-Potion. There is random variance in each attack, but they should survive all but the strongest hits.
 
 ---
@@ -2966,7 +3016,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 **Target time**: 06:17:31 (+11:46) **Target Gil**: 194,093 **Encounters**: 1
 
-## Disc 3 - Congratulations! You've finished Disc 2!
+## Disc 3 &ndash; Congratulations! You've finished Disc 2!
 
 ### Start of Disc 3 &rarr; Bentini Heights
 
@@ -3023,7 +3073,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 >     - Use the same fingers in both hands; it helps your coordination.
 >     - Try to use different sets of fingers, saving your best for last.
 >     - Take extended breaks between saves to allow your hands to rest.
->     - Turn off the volume - the music's rhythm can be distracting.
+>     - Turn off the volume &ndash; the music's rhythm can be distracting.
 >     - Try changing the button configuration if you think it'll help.
 >  
 > * If you don't save at all, get to Lv 60 in 12 races, and do the last 20 flawlessly, then it takes 9:40 before you're back outside the pub.
@@ -3045,6 +3095,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Now make your way to the dock: grab the 2,680 Gil in Ruby's theater, and pick up the Phoenix Pinion and 3,927 Gil at the dock, then take the boat to the castle. You can also unequip everyone now.
 * Search the castle dock for an Ether, Phoenix Pinion, and Lapis Lazuli, then go left and enter the tower to find another Phoenix Pinion; this one is missable!
 * Enter the castle and another long sequence begins; you'll regain control of the party in Treno.
+<br/>
 
 * Exit Doctor Tot's Tower and watch the ATE *Memories By The Water*, then go to the Card Stadium and watch the ATE *City People*; you should get a Chimera Armlet from the Four-Armed Man.
 * Since you're already here, register for the tournament and win the first two matches. It should be relatively easy to win with the Tantarian, Shiva, Ramuh, Nova Dragon, and Armstrong cards.
@@ -3082,11 +3133,13 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | **Gil after** | | 145,503 |
 
 * Be sure to sell **all but 3** Ore!
+<br/>
 
 * Next, go into the mayor's house and choose to search the room.
 * Check the desk for the Mini-Brahne, then check it 2 more times so that the sleeping boy says *Zzz…*, and then check the heater for the Mayor's Key and leave.
 * Enter the windmill and use the Mayor's Key on the door to enter the Chocobo pen; open the chest for 30,000 Gil and then check it again to discover the Burman Coffee.
 * Return to the windmill and take the ladder to the upper area; open the chests for a Cachusha and an Elixir, then leave Dali.
+<br/>
 
 * Regardless of whether you wish to trade in the coffees, enter Observatory Mountain in order to mark it on the World Map (credits to AtmaChild).
 
@@ -3115,19 +3168,23 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 </table>
 
 * Go to the Card Stadium and defeat the champion for the Rebirth Ring.
+<br/>
 
 * Order Blutzen & Kohel to gather information, then just mash the X button to choose the remaining defaults; Garnet should receive the Angel Earrings.
+<br/>
 
 * Once you regain control, remove all of Steiner's equipment, optimize Beatrix and place her in the back row.
 * Skip the very first Mistodon by hugging the right wall and waiting for it to come around the tent. Once it is about halfway there, run around the left side of tent and dash to the exit, running around the far left side of the screen, left of the cart.
+<br/>
 
 * Knock out Steiner in the first battle which follows, and then proceed to clear the way with Beatrix's Life spell. Climhazzard will not be powerful enough to defeat 2 Mistodon, so don't bother.
 * After the battle outside, the pub, take a moment to remove your equipment from Beatrix and cast Cura to heal up; this is your last chance to access the menu.
 * In the last screen, you will face 3 single Mistodon, and then a pair. Don't forget to use an Elixir on Beatrix before she defeats the third and last single Mistodon, and use Full-Life from that point onwards for higher accuracy (Life can sometimes miss due to Mistodon's Magi Evade).
+<br/>
 
 * As Garnet, make your way to the top of the castle to trigger more scenes.
 * When you gain control of the rest of the party, head up the stairway and to the guardhouse.
-* Equip Zidane with the Exploda, Ritual Hat, Bone Wrist, Survival Vest and Black Belt; activate his HP+20%, Distract, and Antibody abilities, but **do not** heal him - he needs exactly 105/126 HP!
+* Equip Zidane with the Exploda, Ritual Hat, Bone Wrist, Survival Vest and Black Belt; activate his HP+20%, Distract, and Antibody abilities, but **do not** heal him &ndash; he needs exactly 105/126 HP!
 
 > #### Path A
 > 
@@ -3138,7 +3195,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > #### Path B & Path C
 > 
 > * Equip Freya with the Barbut, Mythril Gloves, Plate Mail, and Barette.
-> * You can also activate Freya's Chemist ability - if you do, you can use 2 Hi-Potion instead of 3 during the upcoming battle by having Freya throw 1 and another character throw another.
+> * You can also activate Freya's Chemist ability &ndash; if you do, you can use 2 Hi-Potion instead of 3 during the upcoming battle by having Freya throw 1 and another character throw another.
 > * Follow strategy Y below.
 
 <br/>
@@ -3195,6 +3252,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 ---
 
 * Run to the top of the castle, using the same path Garnet used earlier.
+<br/>
 
 * After waking up in Lindblum, open the chests, accept Mogki's letter for delivery and save your game (avoid the steps by the closet).
 
@@ -3213,6 +3271,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Attempt to leave the room and choose *How did I get here?* when prompted.
 * Go to the royal chamber (you have to talk to either of the 2 guards every time you want to enter the royal chamber, even if you are invited).
 * There will be a lot of dialogue once you enter; return to the guest room once it's over.
+<br/>
 
 * Head to the aircab dock after the meeting with Doctor Tot and fly to the Theater District.
 * Go to the Tantalus hideout and get the Unusual Potion from Cinna; return to open the chests inside for some Gil.
@@ -3229,9 +3288,11 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | **Gil after** | | 63,760 |
 
 * Hooray for more Gil!
+<br/>
 
 * Ride back to Lindblum Castle and return to the royal chamber.
 * Following the upcoming meeting, take the lift to the base level and ride to the Serpent's Gate; open the chest and board the Blue Narciss.
+<br/>
 
 * Form a party with Vivi, Garnet and Quina, then sail west to the island with Chocobo tracks, west of the island with Chocobo's Lagoon.
 * Disembark, use Gysahl Greens to call Choco and save your game.
@@ -3250,7 +3311,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > 
 > **Time**: +0:30
 
-* Don't bother saving after your last game; instead, head straight back to the Blue Narciss and sail to Chocobo's Forest. Use the tracks there to call Choco, then head east and into the water from the last beach - the Dawn Lagoon treasure is to the right of the island nearby.
+* Don't bother saving after your last game; instead, head straight back to the Blue Narciss and sail to Chocobo's Forest. Use the tracks there to call Choco, then head east and into the water from the last beach &ndash; the Dawn Lagoon treasure is to the right of the island nearby.
 * Having gotten the Mountain Transformation, return to the beach and climb up the mountain to end up right next to Treno; enter the city.
 * Equip Quina with the Needle Fork, Bone Wrist, and Running Shoes; activate his/her Auto-Haste and Add Status abilities.
 * Save with Mogrich.
@@ -3296,10 +3357,10 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > * The aim is to win 9 Promist Ring at the Auction House.
 > * The Auction House is very random, so arm yourself with patience!
 > * Promist Ring appears only in the third slot, and only if there are currently none in your inventory. This means you need to equip each Promist Ring on one character, and switch out characters until all of them have one, and then buy the last one for a total of 9. The 10th is found in the Desert palace.
-> * Since you're already bidding here, you may as well pick up the Thief Gloves as well - they will come in handy for upcoming Steals, and you can actually turn a profit by selling it later. This item is listed only in the fourth slot, and only after you've bought the Dark Matter.
+> * Since you're already bidding here, you may as well pick up the Thief Gloves as well &ndash; they will come in handy for upcoming Steals, and you can actually turn a profit by selling it later. This item is listed only in the fourth slot, and only after you've bought the Dark Matter.
 > * Keep track of your budget! You should not leave Treno with less than 176,000 Gil, so subtract this from your current Gil total to get your auction allowance!
 > * You can spend a bit more money if you make up for it by Stealing some extra items from upcoming bosses. You can get the Power Vest from Ark, a Demon's Vest and Golden Hairpin from Meltigemini, and Mythril Claws from Taharka. But keep in mind this makes those battles harder to get right.
-> * Alternatively, you can simply do an extra Cotton Robe trick - if you have the extra time. If so, then buy 99 Wrist from the Dali shop when you're looting the gates in the area, and then drop by the Black Mage Village once you have the Hilda Garde 3 to get Steepled Hat and make the Cotton Robes.
+> * Alternatively, you can simply do an extra Cotton Robe trick &ndash; if you have the extra time. If so, then buy 99 Wrist from the Dali shop when you're looting the gates in the area, and then drop by the Black Mage Village once you have the Hilda Garde 3 to get Steepled Hat and make the Cotton Robes.
 > * Either way, look ahead to make sure that you'll have enough Gil when you reach Oeilvert and Esto Gaza, otherwise you'll have problems.
 > * The table below provides an overview of the items up for auction; use the price ranges and average as a guideline for pushing the first two auctions into the final stages as quickly as possible. If you already bought the key items on Disc 2, then avoid them now because you can't sell them a second tome. Reset if the Promist Ring isn't listed.
 > 
@@ -3316,9 +3377,9 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > * With those items out of the way, all that's left is to win 3 more Promist Ring, at which point they will stop appearing
 > * Then, return to the Blue Narciss. Put Eiko in your party, equip her with the Promist Ring in your inventory, and then reorganize your party again so that you take Steiner, Freya and Amarant.
 > * Play a game of Hot&Cold for the Forbidden Forest Chocograph before returning to Treno. If playing **Path C** or **Combined**, see the box below.
-> * Win the last 4 Promist Ring - and that's it!
+> * Win the last 4 Promist Ring &ndash; and that's it!
 > * The auctions in which you buy 2 items shouldn't take longer than 2:15 on average between consecutive saves. The remaining auctions should be 1:45 or less on average.
-> * Don't get too hung up on the exact prices - all that matters is that your overall spend stays within your budget. Don't waste your time trying to get the lowest possible prices, either - it doesn't matter whether you spend all your budget or just half, since there's no use for the extra money anyway. So if it makes the auctions easier and faster, then just bid higher and spend everything you can.
+> * Don't get too hung up on the exact prices &ndash; all that matters is that your overall spend stays within your budget. Don't waste your time trying to get the lowest possible prices, either &ndash; it doesn't matter whether you spend all your budget or just half, since there's no use for the extra money anyway. So if it makes the auctions easier and faster, then just bid higher and spend everything you can.
 > 
 > **Time**: +21:00 **Gil**: -210,000
 
@@ -3357,6 +3418,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Return to the Blue Narciss and sail south to the eastern tip of the Outer Continent and disembark on the beach with the Chocobo tracks.
 * Call Choco, make your way to the Black Mage Village, and enter.
 * Follow Vivi to the cemetery, then go to the Chocobo stable and leave the village after the scenes end.
+<br/>
 
 * Mount Choco and ride to the sinkholes in the east; dismount near the one without any wisps of sand, call Moguo, and finally save your game.
 
@@ -3388,7 +3450,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 **Target time**: 08:23:39
 
-* Continue northward to reach some Chocobo tracks - call Choco and make your way southward over the canyons.
+* Continue northward to reach some Chocobo tracks &ndash; call Choco and make your way southward over the canyons.
 * Dig up the Dusk Plains Chocograph and enter Oeilvert.
 * You'll meet Mimoza at the entrance; she has a Mogshop, so do some business.
 
@@ -3414,10 +3476,12 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | MP Attack<br/>Bird Killer<br/>Ability Up<br/>Clear Headed | Master Thief<br/>Ability Up<br/>Clear Headed<br/>Bandit | Ability Up<br/>Clear Headed | |
 
 * Buy Stiltzkin's latest deal, deliver the letter from Mimoza, and save.
+<br/>
 
 * Return to the foyer and go through the doorway on the left; take the Diamond Sword from the lower chest, examine the holograms in a clockwise manner, loot the chests on the way, then exit the screen through the bottom doorway.
 * Open the chest behind the hologram to obtain the Shield Armor; equip it on Steiner!
 * Enter the yellow door, run across the walkway, activate the sphere, then return and go through the blue door with the lock.
+<br/>
 
 * Return to the chamber with the moogles and head over to the right side of the chamber to trigger the activation of the star display.
 * Save your game after the scene.
@@ -3432,7 +3496,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 * Simply have Amarant attack and Steiner use Charge!, then do the same during the second round and the game will be over.
 * If Amarant is not in critical HP, have Eiko attack him before Steiner uses Charge!. Or, if you're lucky, Ark will do it for you with Photon.
-* Zidane should Steal as often as possible - you need the Holy Lance!
+* Zidane should Steal as often as possible &ndash; you need the Holy Lance!
 
 | Character | Ability | AP points |
 |-----------|---------|:---------:|
@@ -3443,10 +3507,12 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 ---
 
 * Remove all equipment from the current party before taking the Gulug Stone from the altar! Give Eiko an Air Racket.
+<br/>
 
 * As Cid, run into the right room in the Desert Palace and retrieve the key from the Hedgehog Pie. The timer in this mini-game will reset, so don't let it stress you; not that you shouldn't reset if you waste 6 minutes here…
 * I've found that the easiest and fastest way to complete this is to press **start** + **circle** + **start** in quick succession. This basically lets you play the game in slow motion and at no time penalty since the game timer stops when the game is paused. You should be able to reach the key within 90 seconds.
 * When given options near the scales, choose to put on the weights and pick the last option, *B, C and D*; then climb them to get the key.
+<br/>
 
 * Pick up the letter for Mogsam and save your game.
 
@@ -3495,6 +3561,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Light the candle in the following hallway and extract the Shield Armor from the activated Bloodstone.
 * Go onward and up the stairs to find a candelabra; light t in order to illuminate the stained glass on the wall.
 * Continue onward to enter a library.
+<br/>
 
 * Go across the room and light the candelabra on the far left; a staircase should appear above the doorway through which you entered.
 * Ascend the stairs and light the candelabra on the landing; the bookcase will rise to reveal a doorway.
@@ -3504,6 +3571,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Light the candelabra on the bottom right side of the library to make the last bookshelf reveal another doorway; enter and light another candelabra.
 * Return to the library to find that the left wall has disappeared; go onward to find Mogsam the moogle.
 * Battles are very rare in the next area, so you may want to hold off on saving here in order to save some time.
+<br/>
 
 * Continue to the next area to find a gargoyle statue on the wall; light both of the candles beneath it to activate the Bloodstone on the railing.
 * Extract the Black Hood from the Bloodstone, then go through the doorway to reach the other side of the room.
@@ -3540,6 +3608,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Return to where you fought Valia Pira and use the now-active teleporter to continue onward.
 * Equip Zidane with the Dagger before making your way to the teleporter.
 * Enter Kuja's chamber, and choose Amarant, Freya, and Vivi when prompted to form a party.
+<br/>
 
 * **Don't forget the Namingway card after forming your new party; this is the last one in the game!**
 
@@ -3550,10 +3619,11 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > * Reset your console and load a save in Treno. Go to the card stadium and purchase cards one at a time, noting down which arrows they come with. Count how many cards you bought to get one with your desired arrow arrangement.
 > * Reset the console and reload the save.
 > * Buy all those cards again, except for the last one with the desired arrow arrangement. You'll notice that you get exactly the same cards.
-> * Now do a **soft** reset, load your save in the Desert Palace, and pick up your Namingway card - it should have the arrows of the last card you didn't buy.
+> * Now do a **soft** reset, load your save in the Desert Palace, and pick up your Namingway card &ndash; it should have the arrows of the last card you didn't buy.
 
 * Take the teleporter and exit the Desert Palace through the airship dock. 
 * Follow the same instructions as before if you still need to raise Zidane's Trance gauge.
+<br/>
 
 * You will get another opportunity to arrange your party before disembarking on the Lost Continent, but don't make any changes.
 * Run a bit towards Esto Gaza, then call Moguo and finally save your game.
@@ -3607,6 +3677,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | **Gil after** | | 31,103 |
 
 * There are other missable items up for sale here, but you can buy them later once you have more Gil at your disposal.
+<br/>
 
 * Equip your party as indicated below, then return to the lobby and go through the doorway in the back.
 
@@ -3616,6 +3687,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | Distract<br/>Master Thief<br/>Ability Up<br/>Bandit | Auto-Haste | Accuracy+<br/>Distract<br/>Add Status<br/>Ability Up | Add Status<br/>Ability Up |
 
 * Read the letter Mogrika received, accept her letter to Moolan and save your game.
+<br/>
 
 * Go down the stairs to the right and through the door to enter Mount Gulug.
 * Enter the building on the left, pick up the Gil and Ether, and then exit through the hole on the upper level.
@@ -3635,7 +3707,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 * This is the most annoying of the forced Red Dragon battles, so come armed with patience.
 * Cast Stop and attack with Freya and Amarant to Stop, Petrify or Venom them in any combination.
-* Don't attack the same Red Dragon twice until you know whether the first attack connected - open a menu the moment someone's attack animation begins and wait for the result. This also keeps the enemies' ATB gauges from filling while you wait.
+* Don't attack the same Red Dragon twice until you know whether the first attack connected &ndash; open a menu the moment someone's attack animation begins and wait for the result. This also keeps the enemies' ATB gauges from filling while you wait.
 * Keep Zidane on stand-by to throw Phoenix Down in case Dive connects, and make sure everyone except Vivi survives the battle to gain AP.
 
 | Character | Ability | AP points |
@@ -3709,9 +3781,9 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 #### Battle: Meltigemini (11 AP)
 
 * Two hits from Freya and one or two hits from Amarant will be enough to end this battle.
-* Keep Vivi on stand-by to distribute Phoenix Down.
+* Keep Eiko on stand-by to distribute Phoenix Down.
 * Zidane can either do the same, or you can have him Steal some gear for selling later. Enter an attack command at the end of the second round in case Freya and Amarant don't finish the job.
-* Everyone except Vivi needs to survive the battle to get AP.
+* Everyone except Eiko needs to survive the battle to get AP.
 
 | Character | Ability | AP points |
 |-----------|---------|:---------:|
@@ -3739,12 +3811,15 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 </table>
 
 * Head straight to the conference room to initiate a long sequence of scenes.
+<br/>
 
 * You will eventually gain control of the Hilda Garde 3; immediately press **circle** to dock in Lindblum. Also, place Steiner, Freya and Amarant in your party when prompted to create a new one.
 * Tell Erin that you want to board the airship and go to the bridge; then go down the ladder and check the area for an Elixir and a Tent.
 * Exit and board the airship once more, but this time go to the world map.
+<br/>
 
 * Land near Pinnacle Rocks and open the 2 chests there for a Phoenix Down and an Elixir.
+<br/>
 
 * Next fly over to Treno. Make sure Amarant still has the Kaiser Knuckles and Black Belt equipped, and the MP Attack and Bird Killer abilities activated. If following **combined**, skip this part for now and read the box below.
 * You may want to save your game at this point.
@@ -3753,7 +3828,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 > #### Path C
 > 
-> * Ipsen's Castle will have to wait - there's more digging to be done!
+> * Ipsen's Castle will have to wait &ndash; there's more digging to be done!
 > 
 > * If you want BAL Quina, then disregard this detour and instead follow the one for **combined** below.
 > 
@@ -3783,7 +3858,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 > #### Combined
 > 
-> * Ipsen's Castle will have to wait - there's more digging to be done!
+> * Ipsen's Castle will have to wait &ndash; there's more digging to be done!
 > 
 > * Make a pit-stop at Chocobo's Forest before heading to Treno; you need to find the last 2 Chocograph Pieces, and a ton of Dead Pepper.
 > * You'll have to play two games, so try to make the most out if it by maybe finding all 8 treasures and getting a nice limit bonus. It will save you plenty of frustration soon enough.
@@ -3807,7 +3882,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > * Since your Beak Lv will still be rather low at the beginning, you may not get very high scores, but you should try to get higher ones as your Beak Lv rises.
 > * Depending on how many points you've already collected, and on how big your limit bonuses will be here, you will need between 8 to 10 games at 1,000+ points per game.
 > 
-> * You'll most likely find the Forgotten Island Chocograph as well. The treasure includes another Rebirth Ring which may make your battles in Pandemonium a bit easier, but you'll need to spend some extra time finding it and digging it up - the target times don't include this since it's not essential, but if you have the time then go for it.
+> * You'll most likely find the Forgotten Island Chocograph as well. The treasure includes another Rebirth Ring which may make your battles in Pandemonium a bit easier, but you'll need to spend some extra time finding it and digging it up &ndash; the target times don't include this since it's not essential, but if you have the time then go for it.
 > 
 > * Keep an eye on your Dead Pepper inventory. Since you need to dig up 8 treasures in order to get the limit bonus, chances are you'll find at least 1 Dead Pepper for your next trip. But if you run out of them at some point and don't find another one during your last game, then you will have to reset, no matter how good the limit bonus was.
 > * Make sure you have 3 Dead Pepper in your inventory at the end! It's not absolutely necessary, but Pandemonium will be easier with them. Sell any extras if necessary.
@@ -3825,12 +3900,12 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 ### Ipsen's Castle &rarr; Blairsurpass Plains
 
-* Enter and choose whatever you like at the prompt - you can't prevent Amarant from leaving either way.
+* Enter and choose whatever you like at the prompt &ndash; you can't prevent Amarant from leaving either way.
 * Take Steiner, Freya and Quina with you, and equip the party as follow:
 
 | Zidane | Steiner | Freya | Quina |
 |--------|---------|-------|-------|
-| Exploda<br/>Black Hood<br/>Jade Armlet<br/>Adaman Vest<br/>Reflect Ring | Flame Saber<br/>Cross Helm<br/>Thunder Gloves<br/>Shield Armor<br/>Lapis Lazuli | Javelin<br/>Barbut<br/>Mythril Helm<br/>Linen Cuirass<br/>Lapis Lazuli | Fork<br/>Green Beret<br/>Egoist's Armlet<br/>Survival Vest<br/>Fairy Earrings |
+| Exploda<br/>Black Hood<br/>Jade Armlet<br/>Adaman Vest<br/>Reflect Ring | Flame Saber<br/>Cross Helm<br/>Thunder Gloves<br/>Shield Armor<br/>Lapis Lazuli | Javelin<br/>Barbut<br/>Mythril Gloves<br/>Linen Cuirass<br/>Lapis Lazuli | Fork<br/>Green Beret<br/>Egoist's Armlet<br/>Survival Vest<br/>Fairy Earrings |
 | Distract<br/>Master Thief<br/>Ability Up<br/>Bandit | Accuracy+<br/>Distract<br/>Add Status<br/>Ability Up | Distract<br/>Ability Up | Ability Up |
 
 * Enter the castle, go through the door in the back, deliver Mogki's letter, and save.
@@ -3866,6 +3941,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 * Go back and get Amarant from the chamber below the courtyard.
 * Leave Ipsen's Castle.
+<br/>
 
 * When given the option to form a party, choose Steiner, Vivi and Quina.
 * Fly to the Water Shrine, the Fire Shrine, and then north-northwest to land just outside Daguerreo; call Moguo and save your game at the entrance.
@@ -3883,8 +3959,9 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | Remedy<br/>Antidote<br/>Eye Drops<br/>Echo Screen<br/>Soft<br/>Annoyntment<br/>Vaccine<br/>Tent<br/>Rising Sun<br/>Wing Edge<br/>Cat's Claws<br/>Lamia's Flute<br/>Mythril Rod<br/>Oak Staff<br/>High Mage Staff<br/>Glass Armlet<br/>Thief Gloves<br/>Ritual Hat<br/>Red Hat<br/>Golden Hairpin<br/>Gold Helm<br/>Silk Shirt<br/>Adaman Vest<br/>Brigandine<br/>Gaia Gear<br/>Plate Mail<br/>Shield Armor<br/>Demon's Mail<br/>Feather Boots<br/>Anklet<br/>Extension | 1<br/>6<br/>5<br/>5<br/>3<br/>5<br/>2<br/>2<br/>1<br/>12<br/>1<br/>1<br/>1<br/>2<br/>1<br/>2<br/>1<br/>2<br/>1<br/>1<br/>1<br/>1<br/>2<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1 | 150<br/>150<br/>125<br/>125<br/>150<br/>375<br/>100<br/>800<br/>250<br/>18,000<br/>2,000<br/>1,900<br/>280<br/>2,400<br/>3,000<br/>250<br/>25,000<br/>1,000<br/>1,500<br/>1,850<br/>900<br/>200<br/>1,600<br/>2,150<br/>4,350<br/>1,160<br/>2,150<br/>2,950<br/>3,000<br/>1,600<br/>5,000 | Rune Blade<br/>Obelisk<br/>Tiger Fangs<br/>Asura's Rod<br/>Hamelin<br/>Octagon Rod<br/>Diamond Armor | 2<br/>2<br/>2<br/>2<br/>2<br/>2<br/>3 | 17,800<br/>12,000<br/>27,000<br/>6,360<br/>11,400<br/>9,000<br/>26,400 |
 | **Gil after** | | 139,781 | **Gil after** | | 29,821 |
 
-* You don't need to buy the Zorlin Shape yet if you don't have the money - you'll have more soon and can buy the swords on Terra.
+* You don't need to buy the Zorlin Shape yet if you don't have the money &ndash; you'll have more soon and can buy the swords on Terra.
 * You can sell any other items which Zidane may have stolen from bosses and which were not specifically mentioned. Do a Ctrl+F search to make sure everything you sell will no longer be needed.
+<br/>
 
 * Place Zidane in the front row and equip Quina as follows:
 
@@ -3905,7 +3982,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 
 > #### Combined
 > 
-> * Don't save or equip anyone just yet - head to the Wind Shrine, then turn the ship around and fly northwest to the northern tip of Everlang Island, the longest island in the Salvage Archipelago.
+> * Don't save or equip anyone just yet &ndash; head to the Wind Shrine, then turn the ship around and fly northwest to the northern tip of Everlang Island, the longest island in the Salvage Archipelago.
 > * Equip Quina with the Silver Fork, Holy Miter, N-Kai Armlet, Robe of Lords, and Ribbon; activate his/her Level Up and Antibody abilities.
 > * Remove Zidane's equipment and deactivate his Distract ability.
 > * Save your game.
@@ -3969,6 +4046,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 </table>
 
 * Board the Hilda Garde 3 and fly to the Shimmering Island just north of the tip of the Forgotten Continent.
+<br/>
 
 * On Terra, make sure Garnet and Steiner are in your party, and equip Zidane with the Dagger. Remove all of Steiner's equipment and deactivate his Distract ability if it is activated.
 
@@ -4017,6 +4095,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 > * Do **not** change Garnet's equipment after obtaining the Minerva's Plate.
 
 * Go back up and climb the stairs to reach Bran Bal.
+<br/>
 
 * Take Freya, Amarant, and Quina, then go down the left stairway.
 * Head to the right of the stairs to enter a secret area; jump over the water to find a chest with a Flash Hat inside.
@@ -4034,6 +4113,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 | **Gil after** | | 78,239 | **Gil after** | | 2,500 |
 
 * If you have enough Gil, then you can buy the Defender now.
+<br/>
 
 * Top up your Phoenix Down supply, as well as Potion and Hi-Potion, with the money you have left, but keep 2,500 Gil in reserve if you can't afford the Defender yet. Also sell all but 2 of your Lapis Lazuli if you have more.
 * If playing **Path C** or **Combined**, sell all your Potion and buy only Hi-Potion.
@@ -4092,6 +4172,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * Walk to the left along the water to reach the left area of Bran Bal; enter the building on the left.
 * After the scenes, enter the doorway at the top of the area.
 * Go down the stairs and pick up the Elixir at the bottom of the screen, then speak with the girl nearby; follow her back up the stairs
+<br/>
 
 * As Eiko, pick up the Elixir in the back of the room.
 * Return to the storage area and save your game.
@@ -4102,6 +4183,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 
 * Go to the entrance of Bran Bal and through the yellow-green force field.
 * After a brief scene, go onward and speak to the girl.
+<br/>
 
 * As Zidane, follow Garland through Pandemonium from platform to platform.
 * You will eventually face 3 consecutive battles in which your party will have to absorb 3 doses of unavoidable EXP, as per the following table:
@@ -4179,13 +4261,15 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * If he has the Auto-Life ability, then you have nothing to worry about. Simply wait for Shell Dragon's attack and let Smash or Charge do it for you, or use a Dead Pepper on Zidane if he absorbs Earth Shake.
 * If you have Auto-Reflect, then it's basically the same, except that Charge will result in a Game Over.
 * You need exactly 3 Dead Pepper for them to give the desired effect.
+<br/>
 
 * Either way, Zidane should Trance after getting targeted by Smash.
-* Use Meo Twister - it will deal either 5,214, 5,372, or 5,688 damage.
+* Use Meo Twister &ndash; it will deal either 5,214, 5,372, or 5,688 damage.
 * Throw a Lapis Lazuli if the damage is not 5,214 to heal Shell Dragon.
 * Transfer Garnet to the back row if you get the chance.
 * Have Garnet use an Elixir on Zidane and then use Meo Twister a second time and cross your fingers.
 * Overall, there is only a 1/9 chance that you'll deal too much damage, namely if you get 5,688 damage twice. There is a 2/9 chance that the monster will be left with only 59 HP, and the remaining 6/9 leave it with 219 to 535 HP for garnet to tear through with her racket.
+<br/>
 
 * Knock out Zidane before dealing the finishing blow, and make sure he has used up his Auto-Life, if he had it activated!
 
@@ -4200,7 +4284,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * Head back along the corridor and form a party with Zidane, Steiner, Freya and Amarant, then backtrack one more screen to find Moorock.
 * His Mogshop is the same as before, so purchase the Defender if you couldn't afford it before, then finally **save**!
 
-**Target time**: 10:10:47 (+14:20) **Target Gil**: - **Encounters**: 0
+**Target time**: 10:10:47 (+14:20) **Target Gil**: &ndash; **Encounters**: 0
 
 ### Pandemonium Hall &rarr; Start of Disc 4
 
@@ -4217,6 +4301,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * You'll likely enter at least 1 battle before you reach the next save point.
 * Have everyone beside Zidane knock themselves out before you use Flee, then revive them after the battle.
 * Do **not** heal anyone at all during this process; the point of this is to get the entire party to critical HP!
+<br/>
 
 * Go back a screen and search the throne for a Holy Miter.
 * Now go onward until you reach a room with many columns. Press the switch at the top and make your way between the columns, taking care not to pass by a lighted one. The sequence of changing lights is always identical, so try to memorize a path through this room.
@@ -4224,6 +4309,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * Run around the path to the higher dock and board the lift, then run up again and board from the dock to the right to be taken to a chest with 20,007 Gil inside.
 * Return to the control panel and set it to 4, then take the lift from the dock closest to the entrance.
 * Climb all the way up and board from the leftmost dock to be taken to the next floor.
+<br/>
 
 * From the center, head to the right and take the pink teleporter.
 * In the maze, take the 2 blue teleporters on either side of the pink one to be taken to 2 paths, each leading to a chest; the teleporter to the right takes you to an Elixir, while the teleporter on the far left takes you to a Carabini Mail.
@@ -4269,12 +4355,12 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 ---
 
 * Run down the path and across the bridge to the teleporter between the eyes.
-* Activate everyone's Insomniac abilities after the battles - deactivate Distract or Man Eater if necessary.
+* Activate everyone's Insomniac abilities after the battles &ndash; deactivate Distract or Man Eater if necessary.
 * Enter Bran Bal and wait to save.
 
 **Target time**: 10:28:25 (+17:38) **Target Gil**: 0 **Encounters** 0
 
-## Disc 4 - Congratulations! You've finished Disc 3!
+## Disc 4 &ndash; Congratulations! You've finished Disc 3!
 
 ### Start of Disc 4 &rarr; Memoria Entrance
 
@@ -4308,7 +4394,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 > 
 > **Time**: +2:40
 
-**Target time**: 10:40:40 (+12:15) **Target Gil**: - **Encounters**: 0
+**Target time**: 10:40:40 (+12:15) **Target Gil**: &ndash; **Encounters**: 0
 
 ### The Fire Chaos: Maliris
 
@@ -4318,7 +4404,8 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 </tr>
 </table>
 
-* If you have a battle on your way up the tower, use it to get everyone to critical HP as in Pandemonium - then use Charge! in the upcoming battle, though it's not essential.
+* If you have a battle on your way up the tower, use it to get everyone to critical HP as in Pandemonium &ndash; then use Charge! in the upcoming battle, though it's not essential.
+<br/>
 
 * Don't bother picking up and equipping Freya with the Kain's Lance; the Holy Lance is stronger if she also has the Mythril Helm equipped, as she should.
 * Head onward and pick up The Tower; equip it on Zidane and give him the Rebirth Ring; activate Auto-Life and Bandit. Also equip Steiner with the Defender.
@@ -4346,12 +4433,12 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 
 > #### The Nero Family side-quest (3/3)
 > 
-> * You guessed it - run all the way back to the entrance of Memoria and fly to the hideout to trigger the next sequence, then return and save at the colorful orb.
+> * You guessed it &ndash; run all the way back to the entrance of Memoria and fly to the hideout to trigger the next sequence, then return and save at the colorful orb.
 > * When forming a party upon exiting, choose anyone because you'll be doing this several times anyway.
 > 
-> * After returning for the first time, keep going through Memoria until you reach the screen with the storm - Zidane will comment on it, and that's your cue to return to Lindblum. Save at the secret save point before trekking back to the entrance.
+> * After returning for the first time, keep going through Memoria until you reach the screen with the storm &ndash; Zidane will comment on it, and that's your cue to return to Lindblum. Save at the secret save point before trekking back to the entrance.
 > 
-> * Once you get back, save again at the colorful orb, and then once more at the secret save point. Continue onward to the area with the storm until Zidane and Garnet make some comments above the boat - time to fly back yet again. Save at the secret save point before heading down.
+> * Once you get back, save again at the colorful orb, and then once more at the secret save point. Continue onward to the area with the storm until Zidane and Garnet make some comments above the boat &ndash; time to fly back yet again. Save at the secret save point before heading down.
 > * Luckily this is the final sequence you need to do under the 12-hour time limit, so be sure to form your party with Zidane, Freya and Amarant before you leave.
 > * As usual, save at the colorful orb once you return from Lindblum, and then again at the secret save point before moving on to Tiamat.
 > 
@@ -4359,7 +4446,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 > 
 > **Time**: +16:15
 
-**Target time**: 11:01:10 (+20:30) **Target Gil**: - **Encounters**: 4
+**Target time**: 11:01:10 (+20:30) **Target Gil**: &ndash; **Encounters**: 4
 
 ### The Wind Chaos: Tiamat
 
@@ -4387,13 +4474,14 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 **Target time**: 11:04:29
 
 * Revive the party and once again use Ether on anyone low on MP.
-* It's possible to make it to the next save point without a battle, but very unlikely - use Flee as soon as possible if you get one.
+* It's possible to make it to the next save point without a battle, but very unlikely &ndash; use Flee as soon as possible if you get one.
 * Reactivate everyone's Distract, Devil Killer and Body Temp abilities.
 * Equip Steiner with your newly acquired Genji Armor for Body Temp, give him and Freya some Diamond Gloves, and Zidane a Ribbon.
+<br/>
 
 * Save at the colorful orb before the waterfall.
 
-**Target time**: 11:06:12 (+5:02) **Target Gil**: - **Encounters**: 1
+**Target time**: 11:06:12 (+5:02) **Target Gil**: &ndash; **Encounters**: 1
 
 ### The Water Chaos: Kraken
 
@@ -4412,7 +4500,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 * Administer Phoenix Down and Ether as needed.
 * Continue up the stairs and across the wires to a secret save point in the right corner of the screen.
 
-**Target time**: 11:10:59 (+4:47) **Target Gil**: - **Encounters**: 0
+**Target time**: 11:10:59 (+4:47) **Target Gil**: &ndash; **Encounters**: 0
 
 ### The Earth Chaos: Lich
 
@@ -4484,7 +4572,7 @@ One thing to note is that Virus doesn't cause you to lose EXP; the EXP the chara
 
 **The strategy:**
 
-Activate everyone's Auto-Regen, Auto-Haste, Auto-Life, and Insomniac as well as Freya's Initiative. Make sure your ATB Mode is set to **wait** - this is very important! The strategy you'll use is the same no matter how many Yan you face, and is as follows:
+Activate everyone's Auto-Regen, Auto-Haste, Auto-Life, and Insomniac as well as Freya's Initiative. Make sure your ATB Mode is set to **wait** &ndash; this is very important! The strategy you'll use is the same no matter how many Yan you face, and is as follows:
 
 * Quina casts Night
 * Freya opens a menu whenever a party member has an animation
@@ -4545,7 +4633,7 @@ The question is: what is the perfect arrow arrangement? There are 256 arrow comb
 
 How you distribute these arrow combinations among your cards is up to you. You can give your strongest cards the most arrows, give them more cards the higher their card # ,use only the top 100 combinations to ensure that you have the maximum number of total arrows in your collection… it's really up to you.
 
-Once you're satisfied with your arrow arrangement, you'll need to max out the statistics of your cards. In order to upgrade a card's rank, it must engage in a card battle and wil - whether it is the attacking or defending card does not matter, though. It is random whether your card's rank rises: the odds of upgrading from P/M to X are 4/256; from X to A it's 2/256. Since arrowless cards cannot engage in card battles, their rank cannot be upgraded. However it is possible to win X-rank cards from the CPU, and therefore possible to obtain an arrowless X-rank card this way.
+Once you're satisfied with your arrow arrangement, you'll need to max out the statistics of your cards. In order to upgrade a card's rank, it must engage in a card battle and wil &ndash; whether it is the attacking or defending card does not matter, though. It is random whether your card's rank rises: the odds of upgrading from P/M to X are 4/256; from X to A it's 2/256. Since arrowless cards cannot engage in card battles, their rank cannot be upgraded. However it is possible to win X-rank cards from the CPU, and therefore possible to obtain an arrowless X-rank card this way.
 
 You get 1 point per X-rank card in your collection, and 2 points per A-rank car. That's how you get the remaining 200 Collector's points after getting 1,500 from having each card with a unique arrow arrangement.
 
@@ -4608,7 +4696,7 @@ The table below lists the maximum stats and default rank for each card:
 
 The old man outside the Treno weapon shop is good for upgrading your cards' rank, because he likes to attack your cards whenever possible, but uses the weakest cards in the game.
 
-Finally, keep in mind that the various airship cards used by the Four-Armed Man will become permanently unavailable once you claim your Rank S Medal from him and he escapes. You can still challenge him for a game of Tetra Master even if you've achieved Rank S - just don't speak to him normally so that you don't initiate the Rank S sequence.
+Finally, keep in mind that the various airship cards used by the Four-Armed Man will become permanently unavailable once you claim your Rank S Medal from him and he escapes. You can still challenge him for a game of Tetra Master even if you've achieved Rank S &ndash; just don't speak to him normally so that you don't initiate the Rank S sequence.
 
 ## Side-quests
 
@@ -4899,7 +4987,7 @@ Quina is an odd character, and he/she doesn't really use neither Strength nor Ma
 * Probably what was intended by the developers.
 * No need to make tough decisions.
 
-**Path A/B/Lv1 - STR**
+**Path A/B/Lv1 &ndash; STR**
 
 | Lv Ups |   | SPR: 50 | STR: 67 | MAG: 63 | SPD: 23 |
 |:------:|---|---------|---------|---------|---------|
@@ -4907,21 +4995,21 @@ Quina is an odd character, and he/she doesn't really use neither Strength nor Ma
 | 30 | - | Holy Miter | Power Wrist | Dark Gear | Dark Matter |
 | 38 | - | Holy Miter | Power Wrist | Dark Gear | Rebirth Ring |
 
-**Path A/B/Lv1 - MAG**
+**Path A/B/Lv1 &ndash; MAG**
 
 | Lv Ups |   | SPR: 50 | STR: 59 | MAG: 73 | SPD: 23 |
 |:------:|---|---------|---------|---------|---------|
 | 41 | - | Holy Miter | Magic Armlet | Dark Gear | Ribbon |
 | 57 | - | Holy Miter | N-Kai Armlet | Dark Gear | Ribbon |
 
-**Path A/B/Lv1 - BAL**
+**Path A/B/Lv1 &ndash; BAL**
 
 | Lv Ups |   | SPR: 50 | STR: 65 | MAG: 67 | SPD: 23 |
 |:------:|---|---------|---------|---------|---------|
 | 04 | - | Holy Miter | N-Kai Armlet | Dark Gear | Rebirth Ring |
 | 94 | - | Holy Miter | N-Kai Armlet | Dark Gear | Dark Matter |
 
-**Path C - STR**
+**Path C &ndash; STR**
 
 | Lv Ups |   | SPR: 50 | STR: 67 | MAG: 62 | SPD: 23 |
 |:------:|---|---------|---------|---------|---------|
@@ -4930,7 +5018,7 @@ Quina is an odd character, and he/she doesn't really use neither Strength nor Ma
 | 02 | - | Holy Miter | N-Kai Armlet | Dark Gear | Ribbon |
 | 73 | - | Holy Miter | Power Wrist | Dark Gear | Black Belt |
 
-**Path C - BAL**
+**Path C &ndash; BAL**
 
 | Lv Ups |   | SPR: 50 | STR: 65 | MAG: 66 | SPD: 24 |
 |:------:|---|---------|---------|---------|---------|
@@ -6004,7 +6092,7 @@ The strategies in this revision have been designed to be as fast, reliable, and 
 
 With these new strategies and the large buffer times they allow for most stat paths, you can afford to cut a lot of corners and don't need to follow the target times religiously. You can take advantage of the extra buffer at the end of the target times to allow yourself some lateness in the toughest segments, thus preserving your sanity and mental health. You don't need to get a perfect run through every segment, all that matters is that you end up at the Excalibur II by 11:59:59. Every minute you have left after reaching the Excalibur II is potentially an hour or more of wasted reset effort, so always keep that in mind. However, here's an insight from NBtheGameMaster into what it took to get these target times and show that there is indeed a huge buffer:
 
-> For me, it took four complete months (from March 1 - June 30, 2013 to be exact!) to do the challenge for my 3rd time, but I spent at least 4-6 hours a day, 5-6 days a week, and almost twice as many hours on my days off! Sometimes a whole day on just one circuit, so I had to push myself to finish playtesting this newest version as soon as possible! Some circuits took me a few days to get just right, and a few actually took **one** try to get! The final battle with Lich is one of those examples.
+> For me, it took four complete months (from March 1 &ndash; June 30, 2013 to be exact!) to do the challenge for my 3rd time, but I spent at least 4-6 hours a day, 5-6 days a week, and almost twice as many hours on my days off! Sometimes a whole day on just one circuit, so I had to push myself to finish playtesting this newest version as soon as possible! Some circuits took me a few days to get just right, and a few actually took **one** try to get! The final battle with Lich is one of those examples.
 
 So before you start complaining, be happy you're not one of the playtesters!
 
@@ -6223,7 +6311,7 @@ And of course, thank you for the support during the editing process and your inp
 * Thanks to aladore384 for finding the maximum in Chocobo H&C, especially the star awarded for getting 99,999 points.
 * Thanks to AtmaChild for informing me of Mosh's whereabouts on Disc 4, for the alternative method for evading the Alexandrian Soldier by the cage, for realizing the Observatory Mountain must be visited in order for it to appear on the World Map, for reminding me about the hidden save point after Tiamat, and for a stat set-up for Vivi.
 * Thanks to big_kake for finding a way to avoid the EXP gained in Mount Gulug in Version 3, for suggesting to perform an additional round of the Cotton Robe trick on Disc 2 in order to lessen the Gil strain, for the alternative Masked Man strategy, for the Ark preparation strategy, for showing Charge! to be a very powerful move and for proof-playing the Lv 1 Game.
-* Thanks to camdad04 for laying the groundwork for the biggest and most complicated update ever. I think if I listed credits at every piece of information, then camdad04 would probably be the most used phrase in this text document. And although the non-physical Ozma battle strategy did not end up being included, it was by far one of the most engaging discussions I've had about this game. I really doubt whether this update would have ever materialized in its present form if it weren't for camdad04 - because I definitely was not up to the task anymore at that point.
+* Thanks to camdad04 for laying the groundwork for the biggest and most complicated update ever. I think if I listed credits at every piece of information, then camdad04 would probably be the most used phrase in this text document. And although the non-physical Ozma battle strategy did not end up being included, it was by far one of the most engaging discussions I've had about this game. I really doubt whether this update would have ever materialized in its present form if it weren't for camdad04 &ndash; because I definitely was not up to the task anymore at that point.
 * Thanks to Cicatriz_ESP for finding 3 enormous errors in the guide, namely the mistakes made in the bought quantities of Bandana and Zorlin Shape, and the idea that **base** stats-ers can gain EXP whenever they want. Also, thanks for reminding me to mention the stat problems caused by Blank and Marcus, Dark Matter and Pumice from Ozma, and for letting me know that I forgot to include the Ozma Card in the Treasure locations section.
 * Thanks to CrAckLeT for coming up with a way for slim-line PS2 users to skip FMVs, and for checking some things on the PS3.
 * Thanks to FFDude4Ever for the PAL timer code.
@@ -6236,7 +6324,7 @@ And of course, thank you for the support during the editing process and your inp
 * Thanks to InvncblGrlnd for wiping the floor with this challenge by getting a 54-minute lead, thus proving that it's even possible to complete without skipping FMVs! And of course, **thanks for the videos**; very cool!
 * Thanks to KADFC for his Max Stats Guide; the formulae and lists were useful for creating stat strategies.
 * Thanks to Kamy41 for discovering that the Black Mage in Gizamaluke's Grotto does **not** in fact disappear and can still be fought for the final bell even on Disc 4. Yet another discovery almost a decade after this guide was begun.
-* Thanks to layzee for pointing out that impressing 100 nobles on the Japanese version of the game rewards only 881 Gil, as opposed to 10,000, and that only 3 Ribbons can be obtained altogether - Stiltzkin doesn't give you one.
+* Thanks to layzee for pointing out that impressing 100 nobles on the Japanese version of the game rewards only 881 Gil, as opposed to 10,000, and that only 3 Ribbons can be obtained altogether &ndash; Stiltzkin doesn't give you one.
 * Thanks to letao for being the one to finally put the max stats issue to rest with his comprehensive analysis of stat maxing and the resulting best set-ups, without which we would never be certain whether the ones we were using were really the best. **Huge thanks for the excellent work**!
 * Thanks to Louis1980 for improving Zidane's, Quina's Strength-Oriented and Amarant's stat set-ups, as well as for simplifying the set-ups for Zidane Path D, Freya Path D, Quina Magic-Oriented and Quina Balanced. Also, thanks for the explanation of the **pause** trick, for a better way of preparing Zidane for Lucky Seven on the Conde Petie Mountain Path, for suggesting to move the fight against Amdusias to a more opportune time, and for a few other minor corrections. Finally, a big thanks for uploading yet another, possibly the best, master run of this challenge!
 * Thanks to Magical_Moogles for a **ton** of discussion on fighting Ozma for the Robe of Lords, for being the go-to source for all things **Combined**, and for providing very in-depth data about Tetra Mater card arrow arrangements.
@@ -6251,7 +6339,7 @@ And of course, thank you for the support during the editing process and your inp
 * Thanks to SubwoofersIcecream for continually revising the set-ups I and contributors came up with, without whom we would probably be implementing inferior set-ups. In particular, thank you for the current set-ups for Steiner, Path D/E Zidane, Garnet, Freya, and the Magic-Oriented and Balanced set-ups for Quina.
 * Thanks to Terence for some Treasure Hunting Rank info, investigating how long it takes for the timer to overflow, for discovering the mechanics behind FFIX's stat system in the first place, and for providing crucial information regarding Ozma's attacks and AI.
 * Thanks to themostlazyone for bringing up the issue of the Marcus/Eiko bug, which require clarification, and for an alternative set-up for Freya. Thank you also for testing the Jump Rope mini-game and finding out that 9,999 is not the highest number of attainable jumps.
-* Thanks to The_Kusabi_ for *discovering* the Nero Family side-quest! Although it adds even more strain to the challenge, at least you discovered it at the perfect time - before NB finished his playthrough, and before I finished the update! Otherwise the discovery would've brought only resentment :-)
+* Thanks to The_Kusabi_ for *discovering* the Nero Family side-quest! Although it adds even more strain to the challenge, at least you discovered it at the perfect time &ndash; before NB finished his playthrough, and before I finished the update! Otherwise the discovery would've brought only resentment :-)
 * Thanks to Ultimasamuni for the disc eject trick for the sword fight mini-game! Hundreds of souls have been saved. And I can't believe it took so many years to discover this trick when it was one of the first tricks for evading the soldiers in Alexandria castle.
 * Thanks to Vizuino for discovering the 10th Promist Ring, and thus setting a major revision of the guide into motion. I may have hated the work and testing, but the guide is all the better for it today. Also thanks for the arrow manipulation trick!
 * Thanks to WampaCow2 for pointing out some omissions in the treasure lists of some of the circuits.
