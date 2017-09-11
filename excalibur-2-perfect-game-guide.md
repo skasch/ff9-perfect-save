@@ -1630,10 +1630,12 @@ Alright, so let's get started!
 > 
 > * If you don't unearth the *Stone with Patterns* during your first game, reset and try again.
 > * The *Stone with Patterns* will always be the *Streamside* Chocograph, so don't bother replaying in hopes of getting anything else. Once you have it, leave and save the game.
+> <br/>
 > 
 > * Now play another game of Hot&Cold. Reset until you find a Chocograph.
 > * When you do, exit and ride to South Gate; grab the two items, then leave and save your game on another save file.
 > * Check which Chocograph you got. You'll need both *Healing Shore* and *Small Beach*, so reload the earlier save if you didn't get either.
+> <br/>
 > 
 > * Return and play 1 more game in hopes of getting the other Chocograph!
 > * Be sure to purchase Gysahl Greens before leaving so that you have at least 6 in your inventory.
@@ -2773,6 +2775,7 @@ Likewise, you could skip the Elixir (what a coincidence) from Moguta.
 > 
 > * The 4 colored stones you have collected can now be exchanged for a Moonstone. Simply make your way back to Suzuna and head down the path to the right.
 > * Put all 4 colored stones into the statue to receive a Moonstone, then return to the fork where you fought Hilgigars.
+> <br/>
 > 
 > * This is an optional side-quest. The colored stones and the Moonstone are all unique items, so it's a matter of taste.
 > * By keeping the stones you can keep 4 unique items, but leave the side-quest incomplete. Exchanging them gives you only 1 unique item, but also a full set of Moonstone &ndash; and completes the side-quest.
@@ -3067,6 +3070,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Running to the steeple, saving and running back to Hippaul takes 1 minute, which is equivalent to 3 races. Therefore, you actually save about 20 seconds by saving between consecutive 5-Lv races instead of gaining 1 Lv at a time.
 > * Once you reach Lv 40, save the game, and then try your best to get to Lv 60 within another 4 races, saving between each attempt. It **is** possible, albeit difficult.
 > * Do the last 20 races one Lv at a time, preferably without any more saving in between.
+> <br/>
 > 
 > * Here are some tips:
 >     - Use both hands.
@@ -3210,6 +3214,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > #### Lv 1 Path
 > 
 > * If you want Zidane to have **ordered** stats, then follow strategy X.
+> <br/>
 > 
 > * If you want Zidane to have **combined** stats, then equip him with the Bandana, Bone Wrist, Survival Vest, and Dark Matter; activate his Antibody ability.
 > * Equip Vivi with nothing but the Flame Staff.
@@ -3615,6 +3620,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > #### Arrow manipulation
 > 
 > * If you want your Namingway card to have a specific arrow arrangement, you can use the following trick, courtesy of Vizuino:
+> <br/>
 > 
 > * Reset your console and load a save in Treno. Go to the card stadium and purchase cards one at a time, noting down which arrows they come with. Count how many cards you bought to get one with your desired arrow arrangement.
 > * Reset the console and reload the save.
@@ -3654,16 +3660,20 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Enter Esto Gaza and proceed as normal, but return to the world map after the scenes are over.
 > * Equip Amarant with the Kaiser Knuckles, Green Beret, Bone Wrist, Power Vest, and Rebirth Ring; activate Auto-Life and Bird Killer.
 > * Remove the others' armor so that they can knock themselves out.
+> <br/>
 > 
 > * Save near the beach, then encounter a Whale Zombie.
 > * Hopefully it will open with Fin. Knock out everyone except Amarant, and hope for Zombie Powder. Attack once to finish the battle.
+> <br/>
 > 
 > * Replace Amarant's Rebirth Ring with the Black Belt. Once you find the Red Hat in Mountain Gulug, equip that as well and activate MP Attack. 
 > * Revive Freya without healing her, and activate her Cover ability. You can equip the Linen Cuirass if necessary.
 > * Ignore the upcoming equipment changes before the Red Dragon battles.
+> <br/>
 > 
 > * With this set-up, you can easily get past the upcoming Red Dragon battles. Amarant can take them out in one hit each, so hope he gets a turn at the start of the battle and have him attack immediately.
 > * The remaining Red Dragon then has a 1 in 3 change of using Dive. This will always hit and knock out Freya thanks to the Cover ability, and Amarant can attack again for the win.
+> <br/>
 > 
 > * You can make up the missed AP gains by finding the Friendly Feather Circle near the Chocobo tracks and giving it a Moonstone.
 
@@ -3829,8 +3839,10 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > #### Path C
 > 
 > * Ipsen's Castle will have to wait &ndash; there's more digging to be done!
+> <br/>
 > 
 > * If you want BAL Quina, then disregard this detour and instead follow the one for **combined** below.
+> <br/>
 > 
 > * Fly east to the Chocobo tracks in the Salvage Archipelago, call Choco and save your game.
 > * You need to dig up the Ocean Chocograph, as well as the final 2 Chocograph Pieces. Try to do this within 2 games, like in the Forest.
@@ -3843,11 +3855,13 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Either way, head northwest to dig the Ocean Chocograph, then continue northwest to reach the northeastern tip of the Mist Continent.
 > * Dig up the Mist Ocean Chocograph for the Sky Transformation.
 > * Afterwards, swim north to the long peninsula on the Outer Continent and save your game in one of the forests there.
+> <br/>
 > 
 > * Load and reset until you have a shadow appears on Kuentis peninsula just a bit to the south, then use a Dead Pepper when positioned above the shadow to reach Chocobo's Air Garden.
 > * All you need to do here is find the Fairy Island Chocograph and be on your merry way!
 > * If you have the time to spare, then you may want to consider digging up the Forgotten Island Chocograph as well. This gets you a second Rebirth Ring, which can make the Pandemonium battles a bit easier. However, you'll have to play an extra game at the Air Garden, and dig up an extra Chocograph, so make sure you have the extra time. This is not included in the target times.
 > * Make sure you have 3 Dead Pepper in your inventory at the end! It's not absolutely necessary, but Pandemonium will be easier with them. Sell any extras if necessary.
+> <br/>
 > 
 > * Make a stop-over on Vile Island to dig up the Fairy Island Chocograph.
 > * Dig up the Forgotten Island Chocograph as well if you're going for it.
@@ -3859,33 +3873,42 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > #### Combined
 > 
 > * Ipsen's Castle will have to wait &ndash; there's more digging to be done!
+> <br/>
 > 
 > * Make a pit-stop at Chocobo's Forest before heading to Treno; you need to find the last 2 Chocograph Pieces, and a ton of Dead Pepper.
 > * You'll have to play two games, so try to make the most out if it by maybe finding all 8 treasures and getting a nice limit bonus. It will save you plenty of frustration soon enough.
 > * At the very least, try to find 2 Dead Pepper per game. This will also reduce potential frustration during the next part.
+> <br/>
 > 
 > * Once you've done that, don't save after the second game and ride Choco to Treno; save with Mogrich.
 > * You need to acquire the Dark Matter from the Auction House if you do not already have it.
 > * Defeat Amdusias and claim your Running Shoes as described earlier.
 > * If you want to save some time, become **very** familiar with the location of the Mist Ocean Chocograph and don't bother saving after the weapon shop battle.
+> <br/>
 > 
 > * Either way, exit Treno and find the Mist Ocean Chocograph to finally get the Sky Transformation!
+> <br/>
 > 
 > * Afterwards, swim north to the long peninsula on the Outer Continent and use the forest there to become airborne.
 > * Fly just a bit south to Kuentis Peninsula and land again. Dismount Choco, make sure you're facing southeast and standing with Choco in a forest, then finally save your game.
 > * From this location, you can just load and reset until a shadow appear on the peninsula: that's Chocobo's Air Garden, your next destination.
 > * To reach it, you need to mount Choco, fly up, and use a Dead Pepper wile above the shadow. This is why your Dead Pepper inventory is so critical!
+> <br/>
 > 
 > * It's finally time to claim that elusive Robe of Lords, but you will need a grand total of 10,000 Chocobo Hot&Cold points to get it.
+> <br/>
 > 
 > * You will have to reset until you manage to dig up all 8 items with a limit bonus of at least 1,000 points. Then repeat until you have the requisite 10,000 as well as the Fairy Island Chocograph.
 > * Since your Beak Lv will still be rather low at the beginning, you may not get very high scores, but you should try to get higher ones as your Beak Lv rises.
 > * Depending on how many points you've already collected, and on how big your limit bonuses will be here, you will need between 8 to 10 games at 1,000+ points per game.
+> <br/>
 > 
 > * You'll most likely find the Forgotten Island Chocograph as well. The treasure includes another Rebirth Ring which may make your battles in Pandemonium a bit easier, but you'll need to spend some extra time finding it and digging it up &ndash; the target times don't include this since it's not essential, but if you have the time then go for it.
+> <br/>
 > 
 > * Keep an eye on your Dead Pepper inventory. Since you need to dig up 8 treasures in order to get the limit bonus, chances are you'll find at least 1 Dead Pepper for your next trip. But if you run out of them at some point and don't find another one during your last game, then you will have to reset, no matter how good the limit bonus was.
 > * Make sure you have 3 Dead Pepper in your inventory at the end! It's not absolutely necessary, but Pandemonium will be easier with them. Sell any extras if necessary.
+> <br/>
 > 
 > * Make a stop-over on Vile Island to dig up the Fairy Island Chocograph.
 > * If you've decided to pick up the second Rebirth Ring, then dig up the Forgotten Island Chocograph as well.
@@ -3986,18 +4009,22 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Equip Quina with the Silver Fork, Holy Miter, N-Kai Armlet, Robe of Lords, and Ribbon; activate his/her Level Up and Antibody abilities.
 > * Remove Zidane's equipment and deactivate his Distract ability.
 > * Save your game.
+> <br/>
 > 
 > * This is your last chance to fill Zidane's Trance gauge. Equip the Power Vest and put him in the back row so that he survives Whale Zombie's Fin attack, and proceed with the instructions below. Do some testing to see how likely it is for Zidane to enter Trance from just 1 hit. It will be the same for Shell Dragon. If your gauge is at 80% or more, then you can get as close as 254/255 with the next 2 battles, which is practically guaranteed Trance upon contact.
+> <br/>
 > 
 > * Encounter a Whale Zombie on the beach: have Zidane throw a Phoenix Down and Quina Eat the monster once Zidane is knocked out (either by the Whale Zombie or by himself) to learn Lv5 Death and gain 9,913 EXP.
 > * Save if you wish, then hunt down another Whale Zombie and defeat it with an Elixir.
 > * Save your game again.
+> <br/>
 > 
 > * Now comes the fun part: run onto the grass and get ready to slay some **Grand Dragons**!
 > * You'll need to defeat 5, and Lv5 Death makes short work on them.
 > * Save between battles if you like, but you should try to get 2 or more battles per save after the second battle once Quina is stronger; use an Elixir at that point to replenish HP and MP.
 > * Once you've defeated 5 Grand Dragons, **deactivate** the Level Up ability and defeat 1 more Grand Dragon.
 > * If you've done everything correctly, Quina should be at Lv 45 with 319,094 EXP.
+> <br/>
 > 
 > * Revive Zidane and equip him and Quina as indicated earlier.
 
@@ -4079,12 +4106,15 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > **BAL Quina**
 > 
 > * Equip Quina with Holy Miter, N-Kai Armlet, Robe of Lords, and Black Belt.
+> <br/>
 > 
 > * Equip Garnet with the Magic Racket, Lamia's Tiara, Magic Armlet, Minerva's Plate, and Ribbon; activate her Auto-Float, Chemist, and Auto-Potion abilities.
+> <br/>
 > 
 > * Encounter a Hecteyes before entering Terra and have Garnet or Quina throw an Elixir at it once everyone else has knocked themselves out.
 > * Both of them will gain 8,548 EXP and reach Lv 16.
 > * This battle is included in the total battle count for this segment.
+> <br/>
 > 
 > * Make sure Garnet is equipped as described above before moving on.
 
@@ -4369,6 +4399,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 > * Only recently discovered, this obscure side-quest has you flying back and forth all the way to the Tantalus hideout in Lindblum every few steps you take in Memoria. Your reward is a Protect Ring.
 > * It is visible whether you completed the side-quest because you get the item from a chest which appears in the hideout once the side-quest is finished.
 > * Interestingly, this side-quest loops over once you complete it, and there are actually enough progression points in the game to do it a second time. However, due to the time constraints, you will only go back the minimum number of times so that the progression points after the Excalibur II will be exactly enough to finish the side-quest once.
+> <br/>
 > 
 > * Fly to Lindblum and go to the Tantalus hideout to start the sequence.
 > * Entering through the main gate is faster than using the airship dock.
@@ -4435,12 +4466,15 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 > 
 > * You guessed it &ndash; run all the way back to the entrance of Memoria and fly to the hideout to trigger the next sequence, then return and save at the colorful orb.
 > * When forming a party upon exiting, choose anyone because you'll be doing this several times anyway.
+> <br/>
 > 
 > * After returning for the first time, keep going through Memoria until you reach the screen with the storm &ndash; Zidane will comment on it, and that's your cue to return to Lindblum. Save at the secret save point before trekking back to the entrance.
+> <br/>
 > 
 > * Once you get back, save again at the colorful orb, and then once more at the secret save point. Continue onward to the area with the storm until Zidane and Garnet make some comments above the boat &ndash; time to fly back yet again. Save at the secret save point before heading down.
 > * Luckily this is the final sequence you need to do under the 12-hour time limit, so be sure to form your party with Zidane, Freya and Amarant before you leave.
 > * As usual, save at the colorful orb once you return from Lindblum, and then again at the secret save point before moving on to Tiamat.
+> <br/>
 > 
 > * You can complete the remaining parts of the side-quest after you get the Excalibur II. Do **not** continue past Lich's chamber before that. Consult the Leftovers section for more details as to how to proceed.
 > 
