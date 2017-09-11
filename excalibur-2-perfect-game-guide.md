@@ -53,11 +53,9 @@
 
 #### Credits
 
-Atomos199
-Atomos199.FAQs[at]gmail.com
+Atomos199<br/>Atomos199.FAQs[at]gmail.com
 
-Version X
-(C) 2005-2015
+Version X<br/>© 2005-2015
 
 Translated into Markdown by Skasch
 
@@ -272,23 +270,24 @@ Check the Frequently Asked Questions section for more details.
 # Introduction
 
 > Quality is never an accident; it is always the result of high intention, sincere effort, intelligent direction and skillful execution; it represents the wise choice of many alternatives.
+>  
 >  *a mysterious* William A. Foster
 
-The Excalibur II Perfect Game is the ultimate attempt at completing a perfect save file in Final Fantasy IX. Contrary to initial impressions, the Excalibur II - obtainable in Memoria only within 12 hours of starting the game - and a completionist playthrough are not mutually exclusive.
+The Excalibur II Perfect Game is the ultimate attempt at completing a perfect save file in Final Fantasy IX. Contrary to initial impressions, the Excalibur II &ndash; obtainable in Memoria only within 12 hours of starting the game &ndash; and a completionist playthrough are not mutually exclusive.
 
 Perfection is the highest level of quality and that is what this guide will direct you toward; a quality perfect playthrough of the game. This entails:
 
 #### High Intention: You aim for the top
 
-I took a no-compromises approach to this game. So will you. That's why it is called the **Excalibur II** Perfect Game. Your perfect save will include the Excalibur II and you won't forfeit anything in order to get it. You will miss nothing, you will obtain everything. Those are the conditions and they are well within reach. Obsessive-compulsive and anal-retentive qualities will prove advantageous.
+I took a no-compromises approach to this game. So will you. That's why it is called the *Excalibur II* Perfect Game. Your perfect save will include the Excalibur II and you won't forfeit anything in order to get it. You will miss nothing, you will obtain everything. Those are the conditions and they are well within reach. Obsessive-compulsive and anal-retentive qualities will prove advantageous.
 
 #### Sincere Effort: You don't give up
 
-This is no FAQ - this is a **challenge** guide and it earns that name. A perfect game at Lv 1 within 12 hours? *Bring it on*, you say. Successful candidates shall demonstrate an above-average ability in the art of Soft Reset as well as have patience stats through the roof.
+This is no FAQ - this is a *challenge* guide and it earns that name. A perfect game at Lv 1 within 12 hours? *Bring it on*, you say. Successful candidates shall demonstrate an above-average ability in the art of Soft Reset as well as have patience stats through the roof.
 
 #### Intelligent Direction: You're looking at it ;)
 
-You're in luck - 8 years' worth of planning, testing and optimization has already been done for you and is at your fingertips. Just connect the dots and you're there.
+You're in luck &ndash; 8 years' worth of planning, testing and optimization has already been done for you and is at your fingertips. Just connect the dots and you're there.
 
 #### Skillful Execution: u r l337
 
@@ -310,7 +309,7 @@ Therefore, this guide includes all goals which you may want in your perfect save
 
 ##### What is a *missable item*?
 
-A missable item is an item which can no longer be purchased on Disc 4, for example because the shop selling it has changed its inventory or because it is no longer accessible. Once you reach Disc 4, you're left with whatever amount you brought before, if any, and any amount you may find/have found from chests or field icons.
+A missable item is an item which can no longer be purchased on Disc 4, for example because the shop selling it has changed its inventory or because it is no longer accessible. Once you reach Disc 4, you're left with whatever amount you bought before, if any, and any amount you may find/have found from chests or field icons.
 
 ##### What is the *perfect amount* to have?
 
@@ -351,7 +350,7 @@ Characters table
 | Item | Amount needed | Amount obtained |
 |------|---------------|-----------------|
 | Javelin | **P** 2 (FI)<br/>**S** 1 (Save the Queen) | **B** 1 (Lindblum D1)<br/>**F** 1 (equipped on F)<br/>**F** 1 (Ipsen's Castle) |
-| Silver Gloves | **P** 2 (SFI)<br/>**S** 1 (Save the Queen) | **B** 3 (South Gate)<br/>**F** 1 (Dali Underground) |
+| Silver Gloves | **P** 3 (SFI)<br/>**S** 1 (Save the Queen) | **B** 3 (South Gate)<br/>**F** 1 (Lindblum) |
 | Iron Helm | **P** 3 (SFI) | **B** 2 (South Gate)<br/>**F** 1 (Dali Underground) |
 | Leather Plate | **P** 3 (ZAI) | **B** 1 (Black Mage Village)<br/>**F** 1 (equipped on Marcus)<br/>**F** 1 (Lindblum) |
 | Air Racket | **P** 3 (GEI)<br/>**S** 3 (Priest's Racket) | **B** 5 (Treno)<br/>**F** 1 (Ipsen's Castle) |
@@ -386,7 +385,7 @@ Characters table
 
 ##### What is a *unique item*?
 
-A unique item is an item which is available in a finite quantity no matter how long you play o what you do. Most cannot be bought, and if they can, then only in a limited amount. Naturally, we will want all of these unique copies in our perfect save, and so we'll need to acquire all of the missable ones on the way to the Excalibur II.
+A unique item is an item which is available in a finite quantity no matter how long you play or what you do. Most cannot be bought, and if they can, then only in a limited amount. Naturally, we will want all of these unique copies in our perfect save, and so we'll need to acquire all of the missable ones on the way to the Excalibur II.
 
 ##### Why not perfect amounts?
 
@@ -394,13 +393,15 @@ With the exception of one very notable case, there is little reason to different
 
 ##### So what's the *very notable* exception?
 
-Promist Ring. It can be won from the Auction House as long as you don't have any in your inventory. This means you can get a total of 9 copies from the Auction House (equip one on each character and buy 1 more) However, 1 more copy is found in the Desert Palace. So if you buy all 9 from the Auction House before heading to the Desert Palace, you can have a total of 10.
+Promist Ring. It can be won from the Auction House as long as you don't have any in your inventory. This means you can get a total of 9 copies from the Auction House (equip one on each character and buy 1 more). However, 1 more copy is found in the Desert Palace. So if you buy all 9 from the Auction House before heading to the Desert Palace, you can have a total of 10.
 
-The problem here rests in the idea of getting 10 of this one specific item is seemingly inconsistent with getting *number of users + 1* or all the rest whenever possible. This might make the 10th copy seem pointless. However, *number of users + 1* is not actually the overaching goal, the aim is to have the *highest possible non-arbitrary amount*. In the case of Promist Ring, this is 10, since it's the maximum possible amount (and therefore not arbitrary - unlike 10 Power Belt, for instance). In the case of all other non-unique items, this is *number of users + 1*, the next best thing after 99. And in the case of unique items it's whatever amount is available since they are less than *number of users + 1* anyway (or equal in one case).
+The problem here rests in the idea that getting 10 of this one specific item is seemingly inconsistent with getting *number of users + 1* or all the rest whenever possible. This might make the 10th copy seem pointless. 
+
+However, *number of users + 1* is not actually the overarching goal, the aim is to have the *highest possible non-arbitrary amount*. In the case of Promist Ring, this is 10, since it's the maximum possible amount (and therefore not arbitrary - unlike 10 Power Belt, for instance). In the case of all other non-unique items, this is *number of users + 1*, the next best thing after 99. And in the case of unique items it's whatever amount is available since they are less than *number of users + 1* anyway (or equal in one case).
 
 Another way of looking at it is that Promist Ring is a special case because:
 
-* it's not *normal*: you can't have 99 and there are conditions of purchase,
+* it's not *normal*: you can't have 99 and there are conditions on purchase,
 * it's not *missable*: it is available even on Disc 4,
 * it's not *unique*: it can be bought, sold, and re-bought infinite times.
 
@@ -467,7 +468,7 @@ The Autograph and Moogle Suit are gotten by witnessing a brief scene with Lowell
 
 The 4 colored stones are gotten on the Conde Petie Mountain Path on Disc 2 as part of a minor optional side-quest. You can trade them in for a missable and unique Moonstone, or keep them as missable key items. The former lets you have all Moonstone and compete the side-quest, while the latter lets you keep 4 nice key items proving you could have completed it if you had wanted to. It's your choice!
 
-At the start of Disc 3 you'll control Vivi in Alexandria and will have the opportunity to play a racing mini-game against Hippaul. The Athlete Queen is your reward for getting him to Lv80, and can only be gotten then and there at the beginning of Disc 3.
+At the start of Disc 3 you'll control Vivi in Alexandria and will have the opportunity to play a racing mini-game against Hippaul. The Athlete Queen is your reward for getting him to Lv 80, and can only be gotten then and there at the beginning of Disc 3.
 
 A few story scenes later you'll have the chance to finally finish the Mr. Morrid's coffee side-quest which you began by picking up the missable Moccha Coffee at South Gate on Disc 1. The Kirman Coffee in Madain Sari cannot be missed permanently, but the other key items in the side-quest, the Burman Coffee, Mini-Brahne and Mayor's Key, are available only on Disc 3 in Dali. As with the colored stones, you can choose to complete the side-quest and get the Mini-Prima-Vista to appear in the Tantalus hideout, or keep the 3 coffees in your inventory forever.
 
@@ -477,9 +478,9 @@ In the end, there is no real reason for not getting any of the key items as they
 
 ## Keep your party at Lv 1 in order to achieve max stats later!
 
-Stats actually pose the biggest problem in this perfect game challenge, since in order to obtain perfect stats, you must start working on them from Lv 1. Furthermore, you can only work on them after getting the Excalibur II as you are not only limited by the Lv at which you begin, but also by the available selection of equipment. Simply put, you do not have access to all of the necessary equipment until after you get the Excalibur II, and if it is available, then you either don't have the time to actually get it or to level up with it to a meaningful degree. What does this mean for you? It means that you will be playing the while game at Lv 1!
+Stats actually pose the biggest problem in this perfect game challenge, since in order to obtain perfect stats, you must start working on them from Lv 1. Furthermore, you can only work on them after getting the Excalibur II as you are not only limited by the Lv at which you begin, but also by the available selection of equipment. Simply put, you do not have access to all of the necessary equipment until after you get the Excalibur II, and if it is available, then you either don't have the time to actually get it or to level up with it to a meaningful degree. What does this mean for you? It means that you will be playing the whole game at Lv 1!
 
-If the game let you, that is. There many forced battles in the game and most of them can be won without absorbing any EXP by using the Stop spell and the Needle Fork's Add Status property, Petrify. However, there are 3 battles in which EXP is **unavoidable**, namely the battles against Amdusias, Abadon and Shell Dragon in Pandemonium. Depending on what your priorities for your perfect save are, you may have to defeat Tantarian and gain his EXP as well.
+If the game lets you, that is. There are many forced battles in the game and most of them can be won without absorbing any EXP by using the Stop spell and the Needle Fork's Add Status property, Petrify. However, there are 3 battles in which EXP is **unavoidable**, namely the battles against Amdusias, Abadon and Shell Dragon in Pandemonium. Depending on what your priorities for your perfect save are, you may have to defeat Tantarian and gain his EXP as well.
 
 Don't be intimidated by a Lv 1 Game; it has its difficult parts, but it's very fun overall!
 
@@ -541,6 +542,7 @@ Well, that's all there is to it; defeat Griffin, Catoblepas and Amdusias. You wa
 # The problem of max stats
 
 > Even the best needles are not sharp at both ends.
+> 
 > *Chinese proverb*
 
 Stats are a gray area in FFIX. The problem is that unlike with unique items or side-quests, stat perfection is rather subjective. Due to the way the stats system is designed, it is impossible to max all stats for any character. The max for Speed (SPD) and Spirit (SPR) is 50, while the max for Strength (STR) and Magic (MAG) is 99.
@@ -557,13 +559,13 @@ Unfortunately, the real issue here is that it is impossible to achieve all of a 
 
 For example, using the Robe of Lords will give each stat 1 bonus point, but that means you forfeit giving Magic 2 points with the White Robe, or Spirit 3 with the Dark Gear, and so on, depending on what equipment a character can use. That is why no character can have their highest rating in all stats at once. This in turn means that there is no universal set of highest stats for any character; each player can allocate stat points differently.
 
-Consult [letao's Perfect Stats Guide](https://letao.is-a-geek.net/ff9stats/) for a more in-depth explanation of the mechanics behind the game's stat system, as well as a calculator for finding optimal leveling strategies.
+Consult [letao's Perfect Stats Guide](https://letao.is-a-geek.net/ff9stats/) for a more in-depth explanation of the mechanics behind the game's stats system, as well as a calculator for finding optimal leveling strategies.
 
 ##### Alright, then what are my choices?
 
 There are basically two approaches: **Ordered**, and **Combined**.
 
-**Ordered** paths maximize stats according to the practical importance of each stat tu each character, giving priority to the more useful stats. In practice, this means giving each character the maximum 50 SPR, followed by the highest possible STR or MAG (depending on the character) while still getting 50 SPR, then the same for the other one, and finally whatever SPD can still be gotten.
+**Ordered** paths maximize stats according to the practical importance of each stat to each character, giving priority to the more useful stats. In practice, this means giving each character the maximum 50 SPR, followed by the highest possible STR or MAG (depending on the character) while still getting 50 SPR, then the same for the other one, and finally whatever SPD can still be gotten.
 
 SPR is always maxed out because:
 
@@ -573,7 +575,7 @@ SPR is always maxed out because:
 
 SPR determines critical hit rate, Steal rate, Trance gauge fill rate and Trance duration, Thief and Knight Sword damage, probability of Counter activating, the duration of status effects, and more. Note that with 50 SPR and Auto-Regen, your party's HP will fully regenerate even during moderate-length spells or attacks, effectively making your party invincible.
 
-The next stat which is maximized is the character's primary stat. STR is the primary stat for those who tend to use physical attacks or whose moves are based on the STR stat. The opposite is true for MAG. One of these 2 stats always takes third priority, because STR and MAG also influence HP and MP, which everyone needs regardless of their role in battle. Zidane, Steiner, Freya and Amarant are STR-oriented; Vivi, Garnet and Eiko are MAG-oriented. Quina can be either of the two, or balanced (BAL); check his/her description in the Perfect Stats section for more information.
+The next stat which is maximized is the character's primary stat. STR is the primary stat for those who tend to use physical attacks or whose moves are based on the STR stat. The opposite is true for MAG. One of these 2 stats always takes third priority, because STR and MAG also influence HP and MP, which everyone needs regardless of their role in battle. Zidane, Steiner, Freya and Amarant are STR-oriented; Vivi, Garnet and Eiko are MAG-oriented. Quina can be either of the two, or balanced (BAL); check his/her description in the [Perfect Stats section](#user-content-perfect-stats) for more information.
 
 Finally, SPD is pretty much ignored completely unless it is gotten for free along with other, superior boosts. Due to the way the ATB system works, SPD does nothing. Only one target can act at any given time and everyone else has to wait until the current animation ends. But ATB time doesn't stop during animations, so even slower characters/enemies usually have enough time to fill their gauges, while the faster ones simply wait with full gauges during the animation. In effect, battles play out in rounds. If your enemy is very slow then you could potentially act twice as often if you used quick physical attacks, but if that's your strategy then just activate Auto-Haste instead of permanently sacrificing other stats for SPD. The existence of Auto-Haste makes SPD pointless, even if the ATB system were different.
 
@@ -591,9 +593,9 @@ I feel your pain. Luckily, you've still got two options: **Lv 1**, and **Base**.
 
 In the **Lv 1** path, you let Zidane absorb all the game's forced EXP, allowing you to keep everyone else at Lv 1. You can then either leave Zidane at LV 32, or level him up to Lv 99, using either the **Ordered** or **Combined** approach. Zidane is the only character who is available to take all of the game's unavoidable EXP, so he is the only choice.
 
-The **Base** stats approach is basically the opposite of **Combined**; you go for the minimum stats possible. Unlike max stats, the minimum are clearly defined and you can achieve all of a character's minimum stats simultaneously. All you need to do is avoid gaining Lvs with equipment that boosts SPR, STR, MAG, or SPD. It can boost Defense, Evade, and so on - just not any of the core stats.
+The **Base** stats approach is basically the opposite of **Combined**; you go for the minimum stats possible. Unlike max stats, the minimums are clearly defined and you can achieve all of a character's minimum stats simultaneously. All you need to do is avoid gaining Lvs with equipment that boosts SPR, STR, MAG, or SPD. It can boost Defense, Evade, and so on - just not any of the core stats.
 
-This means you can stop playing the low-level game much sooner. Steiner can gain EXP from the very beginning of the game. You don't need to waste over 10 minutes getting the Need Fork from Zaghnol, and can let Freya take all the EXP from the forced Type A battles once Quina joins the party. You do need to dig up Oak Staff, though, and the other characters must remain at Lv 1 until both Eiko and Amarant join at Lv 1, after which everyone can gain as many Lvs as you like, as long as they never have stat-boosting equipment on when doing so.
+This means you can stop playing the low-level game much sooner. Steiner can gain EXP from the very beginning of the game. You don't need to waste over 10 minutes getting the Needle Fork from Zaghnol, and can let Freya take all the EXP from the forced Type A battles once Quina joins the party. You do need to dig up Oak Staff, though, and the other characters must remain at Lv 1 until both Eiko and Amarant join at Lv 1, after which everyone can gain as many Lvs as you like, as long as they never have stat-boosting equipment on when doing so.
 
 Technically, the lowest stats are gotten if characters join at Lv 99, because they do not get the free boosts which are normally awarded upon leveling from EXP. However, only half of your team joins at an average Lv, and it would require leveling almost everyone to Lv 99 before everyone joins. That's not possible during this challenge, and it would lead to very lop-sided stats between the first half of your party, and the other one.
 
@@ -644,8 +646,7 @@ Zidane absorbs the EXP from both Tantarian and Abadon.
 
 Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
-> Zidane: +1 SPD, -1 STR, +2 MAG
-> Freya: -2 MAG
+> Zidane: +1 SPD, -1 STR, +2 MAG<br/>Freya: -2 MAG
 
 | Pros | Cons |
 |------|------|
@@ -657,9 +658,7 @@ Freya absorbs the EXP from Tantarian and Zidane the EXP from Abadon.
 
 Freya absorbs the EXP from Tantarian and Quina the EXP from Abadon.
 
-> Freya: -2 MAG
-> Quina (STR): -1 MAG
-> Quina (BAL): +1 SPD, -1 MAG
+> Freya: -2 MAG<br/>Quina (STR): -1 MAG<br/>Quina (BAL): +1 SPD, -1 MAG
 
 | Pros | Cons |
 |------|------|
@@ -667,7 +666,7 @@ Freya absorbs the EXP from Tantarian and Quina the EXP from Abadon.
 
 ###### Notes
 
-The stat difference for Quina refer to the two different totals: the STR Quina loses 1 MAG compared to the perfect STR Quina, and the BAL Quina loses 1 MAG but gains 1 SPD compared to perfect BAL Quina.
+The stat differences for Quina refer to two different totals: the STR Quina loses 1 MAG compared to the perfect STR Quina, and the BAL Quina loses 1 MAG but gains 1 SPD compared to perfect BAL Quina.
 
 ---
 
@@ -687,8 +686,7 @@ Freya absorbs the EXP from Tantarian, Abadon is harmless.
 
 Zidane absorbs all of the game's forced EXP.
 
-> **Ordered**: -2 STR, +3 MAG
-> **Combined**: -1 SPD, -2 STR
+> **Ordered**: -2 STR, +3 MAG<br/>**Combined**: -1 SPD, -2 STR
 
 | Pros | Cons |
 |------|------|
@@ -716,13 +714,13 @@ You laugh at the face of forced EXP!
 
 It's possible to put off the decision until you reach Tantarian at the start of Disc 3. Keep in mind that **Path C** and **Combined** are very tight when it comes to the target times, so if you want to keep those options open, then you'll need to play very aggressively up to that point. That would end up being a waste of effort if you decide to take one of the other paths, which allow for more slack in game time.
 
-SO the option of delaying the decision is there, but it's in your interest to settle on a stat path from the start.
+So the option of delaying the decision is there, but it's in your interest to settle on a stat path from the start.
 
 ##### How are these 6 paths handled in a single playthrough?
 
 The target times and walkthrough are based on **Path A**, **Path B** and **Lv 1**. They form the basis of the playthrough. **Path C** and **Combined** need to complete some extra tasks on top of this, and these detours are outlined in path-specific boxes. They include the extra time needed and extra Gil spent, when applicable.
 
-There are practically no difference until the beginning of Disc 3, and about 95" of the instructions and strategies are uniform across all stat paths. The major branching points are Tantarian and Pandemonium, but the instructions before and after these points are still mostly the same for everyone. What you should keep in mind is that there is no need to finish the challenge with time to spare. As long as you make it to the end within 12 hours, you're fine. Therefore, feel free to take off some of the time pressure on difficult segments by using some of the extra buffer time. How much extra time there is depends on which stat path you will follow:
+There are practically no difference until the beginning of Disc 3, and about 95% of the instructions and strategies are uniform across all stat paths. The major branching points are Tantarian and Pandemonium, but the instructions before and after these points are still mostly the same for everyone. What you should keep in mind is that there is no need to finish the challenge with time to spare. As long as you make it to the end within 12 hours, you're fine. Therefore, feel free to take off some of the time pressure on difficult segments by using some of the extra buffer time. How much extra time there is depends on which stat path you will follow:
 
 | Stat path | Detour time | Buffer time |
 |-----------|-------------|-------------|
@@ -730,15 +728,15 @@ There are practically no difference until the beginning of Disc 3, and about 95"
 | **Path C** | 14:45 | 32:08 |
 | **Combined** | 39:45 | 7:08 |
 
-So basically, if you're not playing **Path C** or **Combined**, then you can relax and just consider the target times a very fuzzy rule of thumb. If you're playing **Path C**, then you shouldn't have too many problems either, but be aware that 30 minutes can be used up very quickly if you're not careful. If playing **Combined**, don't use your buffer unless you absolutely have to, and try to keep it as long as possible - 7 minutes really won't get you that far.
+So basically, if you're not playing **Path C** or **Combined**, then you can relax and just consider the target times a very fuzzy rule of thumb. If you're playing **Path C**, then you shouldn't have too many problems either, but be aware that 30 minutes can be used up very quickly if you're not careful. If playing **Combined**, don't use your buffer unless you absolutely have to, and try to keep it as long as possible &ndash; 7 minutes really won't get you that far.
 
 # Using this guide
 
-There are a few things you should keep in mind throughout the challenge and which aren't pointed out again and again in the walkthrough - as follows:
+There are a few things you should keep in mind throughout the challenge and which aren't pointed out again and again in the walkthrough &ndash; as follows:
 
 ## Skip all dialogues!
 
-Skip **all** dialogues by alternately mashing the X and *square* buttons. Using both buttons significantly increases the speed of running through text as opposed to using only one. Just try to start with the X button when speaking to NPCs so that you don't initiate a card battle, and read through the text normally on practice runs to acquaint yourself with the timing of important prompts asking for a decision.
+Skip **all** dialogues by alternately mashing the **X** and **square** buttons. Using both buttons significantly increases the speed of running through text as opposed to using only one. Just try to start with the X button when speaking to NPCs so that you don't initiate a card battle, and read through the text normally on practice runs to acquaint yourself with the timing of important prompts asking for a decision.
 
 ## Skip all ATEs!
 
@@ -748,7 +746,7 @@ Provided you powerplay during the entire challenge, it is actually possible to a
 
 ## Skip all FMVs!
 
-Yup, more skipping! As with ATEs, it's also possible to complete the challenge without skipping any of the FMVs - they *only* take 35 minutes so it's not even that difficult, provided you make some sacrifices or powerplay. It's even possible to combine this with watching all the ATEs, but you'd need to skip other more tangible parts of the perfect save. In any case, though, I don't think it's worth it and would recommend just skipping them.
+Yup, more skipping! As with ATEs, it's also possible to complete the challenge without skipping any of the FMVs &ndash; they *only* take 35 minutes so it's not even that difficult, provided you make some sacrifices or powerplay. It's even possible to combine this with watching all the ATEs, but you'd need to skip other more tangible parts of the perfect save. In any case, though, I don't think it's worth it and would recommend just skipping them.
 
 ##### Ok, but how do I skip them?
 
@@ -756,7 +754,7 @@ Yup, more skipping! As with ATEs, it's also possible to complete the challenge w
 |----------|--------|
 | PS1 | Opening and closing the disc cover will do the trick. But you should get a PS2 to take advantage of the much faster load times, which add up very quickly (more on this below). |
 | PS2 | Press the eject button, and then press it again the moment you hear the disc tray moving out. You don't need to wait for it to come all the way out, it's the signal to the laser that matters. |
-| PS2 Slim | Once the FMV start to play, open the lid and close it again once the disc has stopped spinning.<br/>Listen to the sound the laser makes, and open/close the lid again after hearing the second set of sounds. This may differ between slim models so experiment to find the right moment.<br/>If you can't get it to work, you can replace your disk with another one after opening for the first time.<br/>Waith for the laser to begin reading the new disc, then open the lid again and put back the proper FFIX disc.<br/>Close the lid and wait for the game to resume. |
+| PS2 Slim | Once the FMV starts to play, open the lid and close it again once the disc has stopped spinning.<br/>Listen to the sound the laser makes, and open/close the lid again after hearing the second set of sounds. This may differ between slim models so experiment to find the right moment.<br/>If you can't get it to work, you can replace your disk with another one after opening for the first time.<br/>Wait for the laser to begin reading the new disc, then open the lid again and put back the proper FFIX disc.<br/>Close the lid and wait for the game to resume. |
 | PS3 | As far as I know, it is not possible to skip FMVs on the PS3. I don't have one myself, but I have been told that neither the physical disc version nor the PSN version can be forced to skip the FMV. |
 | Emulator | Once the FMV starts to play, press Esc, then File > Change Disc > ISO.<br/>Select another disc ISO or just a blank text document, and click OK.<br/>The moment the game loads back up, immediately press Esc and change back to the correct disc. You need to be quick, otherwise the game will hang. |
 
@@ -802,7 +800,7 @@ Play and reach each section once or twice before attempting it seriously; you ne
 
 Also don't let the clock stress you too much. Use the **pause** button to your advantage; pausing the game also stops the timer, so use this when you need a break, or need to remember or think about what to do next, especially during battles. If something unexpected happens, just press **pause** and analyze the situation.
 
-Finally, it's crucial that you have the minimum amount of enemy encounters possible; try to follow the guidelines provided in the walkthrough. In no case should you ever settle for having more than 1 extra battle in a given segment. A random battle wastes at least 30-40 seconds, which quickly adds up if you let it get out of hand. Flee from all battles unless instructed to do otherwise, and keep L1 and R1 pressed at all times during a battle in hopes if running away sooner.
+Finally, it's crucial that you have the minimum amount of enemy encounters possible; try to follow the guidelines provided in the walkthrough. In no case should you ever settle for having more than 1 extra battle in a given segment. A random battle wastes at least 30-40 seconds, which quickly adds up if you let it get out of hand. Flee from all battles unless instructed to do otherwise, and keep L1 and R1 pressed at all times during a battle in hopes of running away sooner.
 
 And no, the *stop/run* method has been debunked and does **not** work.
 
@@ -971,7 +969,7 @@ Also, most of them finish the challenge with a ton of time to spare. Unless you'
 
 Alright, so let's get started!
 
-## Disc 1 - Good luck, and happy trails!
+## Disc 1 &ndash; Good luck, and happy trails!
 
 ### New game &rarr; Alexandria Steeple
 
@@ -1033,13 +1031,15 @@ Alright, so let's get started!
 
 ---
 
-* Reply that you are kidnapping Princess Garnet; it takes 3 extra minutes to trigger the secret scene with Ruby and it's just regular dialogue. But if you feel like you really need to do it then go ahead - it won't prevent you from completing the challenge.
+* Reply that you are kidnapping Princess Garnet; it takes 3 extra minutes to trigger the secret scene with Ruby and it's just regular dialogue. But if you feel like you really need to do it then go ahead &ndash; it won't prevent you from completing the challenge.
+<br/>
 
 * As Vivi, search the house to the right, then head up the street.
 * Search the item shop, but skip the pub; you'll search it on Disc 3.
 * When you arrive at the square, head right and search the shops; do not approach the ticket booth just yet. Also, don't forget the Phoenix Pinion to the left of the main gate.
 * Leave the square by way of the bottom left exit and head towards the docks; enter the house **only** if you see a girl run **out** of it, otherwise keep going. There are 2 treasures in this house, but you can pick them up on Disc 3.
 <br/>
+
 * Speak with the boy behind the steeple, reply *Yes* and head all the way back to where you first gained control of Vivi.
 * Head down, search the square and speak to the cat near the bottom of the screen.
 * Now go to the ticket booth and show the ticket master your ticket.
@@ -1892,7 +1892,7 @@ Alright, so let's get started!
 > 
 > * You need to win the Magician Robe, Madain's Ring, and Reflect Ring.
 > * Although it's possible for all three to appear in a single auction, it's very rare, and then you still need to win them at a reasonable price, so I suggest you plan two auctions and save in between.
-> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 8,000, 10,000 and 15,000 Gil, respectively! So make sure you win them at lower prices, obviously.
+> * You should also bid on Griffin's Heart, Doga's Artifact and Une's Mirror; you can turn a nice profit by selling them to the nobles in from of the synthesis shop for 10,000, 10,000 and 15,000 Gil, respectively! Don't forget to refuse the first offers for Griffin's Heart and Une's Mirror. So make sure you win them at lower prices, obviously.
 > * The table below shows the price ranges for the items as listed in the Ultimania, as well as their resell values; you should aim to win the items at no more than the average price, and for the items you don't need or have already won, bid the average value to hopefully push the auction to its final stages faster.
 > * The Mini-Cid has a narrow price range, so bidding 2,000 to 2,400 should finish the auction fast without you actually buying the item. You should avoid buying it because it's the easiest item to skip and you will have to do this many times when buying all the Promist Ring later on Disc 3.
 > * Keep in mind that only the total Gil spent matters, so you can spend a bit more on some items if you get others much cheaper. It total, you should aim to spend no more than around 65,000 Gil (including the key items which you should sell for a profit).
@@ -1900,7 +1900,7 @@ Alright, so let's get started!
 > 
 > | Round | Item | Price range | Average | Selling Value |
 > |-------|------|:-----------:|:-------:|:-------------:|
-> | 1 | Mini-Cid<br/>Griffin's Heart<br/>Magician Robe | 1,500-4,500<br/>3,000-9,000<br/>3,500-10,500 | 3,000<br/>6,000<br/>7,000 | 0<br/>8,000<br/>4,000 |
+> | 1 | Mini-Cid<br/>Griffin's Heart<br/>Magician Robe | 1,500-4,500<br/>3,000-9,000<br/>3,500-10,500 | 3,000<br/>6,000<br/>7,000 | 0<br/>10,000<br/>4,000 |
 > | 2 | Doga's Artifact<br/>Fairy Earrings | 4,000-12,000<br/>4,000-12,000 | 8,000<br/>8,000 | 10,000<br/>3,000 |
 > | 3 | Une's Mirror<br/>Madain's Ring | 6,000-18,000<br/>3,500-10,500 | 12,000<br/>7,000 | 15,000<br/>3,750 |
 > | 4 | Reflect Ring<br/>Pearl Rouge | 6,000-18,000<br/>7,000-21,000 | 12,000<br/>14,000 | 3,500<br/>2,000 |
@@ -2029,7 +2029,7 @@ Alright, so let's get started!
 
 * Watch the ATE *No Yummie-Yummies!* and go up behind the inn, taking the Remedy on the stairs.
 * In the next screen, watch the ATE *There's a Mushroom!* and continue upwards to the cathedral.
-* Speak with Tree Oracle Wylan and pick up the Yellow Scarf next to the entrance, then head back to the entrance of the settlement.
+* Speak with Tree Oracle Wylan and pick up the Yellow Scarf next to the entrance, then head back to the entrance of the settlement, plundering the treasures along the way.
 * Go right to the Antlion's sandpit, take the 970 Gil and speak to Quina.
 * Open the 2 chests on the branch, jump down and go to Monev to save.
 
@@ -3610,6 +3610,7 @@ The 6 encounters includes the Dracozombie for Zombification, and excludes the fo
 * Equip your party as indicated below, then return to the lobby and go through the doorway in the back.
 
 | Zidane | Vivi | Freya | Amarant |
+|--------|------|-------|---------|
 | Exploda<br/>Black Hood<br/>Thief Gloves<br/>Chain Plate<br/>Lapis Lazuli | Oak Staff<br/>-<br/>Magic Armlet<br/>Silk Robe<br/>Running Shoes | Heavy Lance<br/>Cross Helm<br/>Thunder Gloves<br/>Shield Armor<br/>Lapis Lazuli | Scissor Fangs<br/>-<br/>Jade Armlet<br/>Brigandine<br/>Power Belt |
 | Distract<br/>Master Thief<br/>Ability Up<br/>Bandit | Auto-Haste | Accuracy+<br/>Distract<br/>Add Status<br/>Ability Up | Add Status<br/>Ability Up |
 
@@ -4724,7 +4725,7 @@ Zidane is obviously a physical attacker, so all of his set-ups will focus on Str
 **Path C**
 
 | Lv Ups |   | SPR: 50 | STR: 78 | MAG: 62 | SPD: 35 |
-|:=====-:|---|---------|---------|---------|---------|
+|:------:|---|---------|---------|---------|---------|
 | 42 | Masamune | Green Beret | Power Wrist | Dark Gear | Black Belt |
 | 56 | Masamune | Green Beret | Power Wrist | Power Vest | Black Belt |
 
@@ -5321,19 +5322,37 @@ The **&** represents the location of the stash to the Dali Underground.
 
 ### Underground
 
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Potion | | **C** | In the second screen; in the hut |
-| Potion | | **C** | In the first Storage Area; hanging on the machine |
-| Potion | | **C** | In the room with the Mist Machine; in the middle |
-| Ether | | **C** | In the first STorage Area; on the top of the boxes |
-| Phoenix Down | | **C** | In the room with the Mist Machine; on the left |
-| Eye Drops | | **C** | In the second screen; bottom of the screen |
-| Phoenix Pinion | | **C** | In the room with the Mist Machine; on the far right |
-| Iron Helm | | **C** | In the second Storage Area; on top of the boxes |
-| Leather Wrist | | **C** | In the second Storage Area; in the middle |
-| 95 Gil | | **C** | In the Production Area; to the right of the door |
-| 156 Gil | | **C** | In the Entrance; bottom of the screen |
+```
+                                     ┌────┐ ┌─┐
+                                     │5 37│ └╥┘
+                                     │ ┌──┘ ┌╨┐
+                       ┌─────┐       └╥┘    │ │
+                 ┌────┐│ ┌─┐8│      ┌─╨─┐   │ │
+                 │ ┌┐ ││ │ └─┘┌─┐ ┌─┘  A└─┐ └╥┘
+                 └╥┘│ └┘ └────┘ ╞═╡       ╞══╝
+             ┌─┐┌─╨┐│ ┌──┐9┌┐ ┌─┘ └───────┘
+             │4││2 ││ └──┘ └┘ │
+ To    ┌───┐ │ └┘  │└─────────┘
+ Dali  │ 1 │ └──┐@ │
+ ┌╨┐   └┐ ┌┘    │  │
+┌┘ └─┐ ┌┘ └───┐ └─╥┘
+│B   ╞═╡   6  ╞═══╝
+└────┘ └──────┘
+```
+
+| Item | D4 | Found | Map | Location |
+|------|:--:|:-----:|:---:|----------|
+| Potion | | **C** | 1 | In the second screen; in the hut |
+| Potion | | **C** | 2 | In the first Storage Area; hanging on the machine |
+| Potion | | **C** | 3 | In the room with the Mist Machine; in the middle |
+| Ether | | **C** | 4 | In the first Storage Area; on the top of the boxes |
+| Phoenix Down | | **C** | 5 | In the room with the Mist Machine; on the left |
+| Eye Drops | | **C** | 6 | In the second screen; bottom of the screen |
+| Phoenix Pinion | | **C** | 7 | In the room with the Mist Machine; on the far right |
+| Iron Helm | | **C** | 8 | In the second Storage Area; on top of the boxes |
+| Leather Wrist | | **C** | 9 | In the second Storage Area; in the middle |
+| 95 Gil | | **C** | A | In the Production Area; to the right of the door |
+| 156 Gil | | **C** | B | In the Entrance; bottom of the screen |
 
 ## Observatory Mountain
 
@@ -5345,6 +5364,84 @@ The **&** represents the location of the stash to the Dali Underground.
 ## Lindblum
 
 ### Disc 1
+
+```
+═║╔╗╚╝
+─│┌┐└┘
+╥╞╡╨
+                 ┌─────┐
+                 │ ┌─┐ │
+Lindblum Castle  │ └─┘ │
+  Upper Level    └──╥──┘
+                ┌───╨───┐
+                │ ┌───┐ │
+   ╔══════════╗ │ │┌─┐│ │
+┌─┐║┌──┐ ┌───┐║ │ └┘ └┘ │
+│ │╚╡  │ │   ╞╝ └───╥───┘
+│ └─┘ ┌┘ │ ┌─┘     ┌╨┐
+└─────┘  │ └─┐   ┌─┘ └─┐
+         │   ╞═══╡     │
+         └───┘   └──╥──┘
+                   ┌╨┐ Lift
+                   └─┘ to Mid/Base Level
+
+       ┌────┐  
+       └──┐ │                ┌────────┐
+       ┌─┐│ │          ┌─┐   │@┌┐ ┌───┘
+Aircab ╡ └┘ └┐ ┌───────┘ └─┐ │ ││ └──┐┌─┐
+       │     │ └┐ ┌──┐     │ │ ││ ┌┐ └┘ │
+       └─┐   │  │ └┐ └─┐ ┌─┘ └─┘│ │└────┘
+         │   │  │  ╞╗  └╥┘      └╥┘
+         └─╥─┘  └──┘║  ┌╨┐      ┌╨┐
+           ╚════════╝ ┌┘ └─┐ ┌──┘ └─┐
+  Lindblum Castle     │    ╞═╡      │
+     Mid Level        └┐ ┌─┘ └──┐ ┌─┘
+                       └╥┘   ┌─┐│ │
+               Lift to ┌╨┐   │ └┘ └─┐
+      Upper/Base Level └─┘   └──────┘
+
+
+To Eunorus  ┌─┐ Lift to
+    Plains  └╥┘ Upper/Mid Level
+      ┌─╨─┐ ┌╨┐
+      │   │ │ │
+      │@  ╞═╡ ╞═╗  Lindblum Castle
+      └───┘ └─┘ ║    Base Level
+            ┌─┐ ║
+            │ │ ║
+            │ ╞═╝
+            │ │
+            └╥┘ ┌─┐┌─┐
+             ╚══╡ ││ │
+                │ └┘ └─┐
+                └──────┘
+
+                                  ┌───┐
+                                  │   │
+                    ┌───┐ ┌─────┐ └─┐ │
+      Lindblum      │   ╞═╡  ┌┐ │ ┌─┘ │    ┌──┐
+      Business      │ ┌─┘ └──┘└─┘ │   │ ╔══╡  └──┐
+      District      │ │ ┌────┐    └──╥┘ ║  └─────┘
+                    └╥┘ │ ┌┐ │      ┌╨──╨┐ ┌──┐
+                     ║  │ │└╥┘      │ ┌┐ ╞═╡  │
+┌──┐ ┌──┐            ║  └─┘ ║  ╔════╡ └┘ │ └──┘
+│  │ │ @│ ╔═══════╗ ┌╨┐ ╔═══╝ ┌╨┐   └────┘
+│ ┌┘ │ ┌┘┌╨┐ ┌───┐║ │ └─╨─────┘ │
+│ └──┘ └─┘ │ │   ╞╝ │           │
+└──────────┘ │ ┌─┘  │   ┌───────┘
+             │ └─┐  └─╥─┘
+             │   │ ┌──╨──┐
+             └─┐ │ │ ┌─┐ │
+               └╥┘ │ └─┘ │
+                ╚══╡     ╞══════════╗
+                   └──╥──┘         ┌╨┐
+                    ┌─╨─┐         ┌┘ │
+                    │   │  Aircab ╡  │
+                    └─╥─┘         └──┘
+             To Lindblum Plateau
+
+
+```
 
 | Item | D4 | Found | Location |
 |------|:--:|:-----:|----------|
