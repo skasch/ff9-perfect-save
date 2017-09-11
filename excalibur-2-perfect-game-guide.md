@@ -283,7 +283,7 @@ I took a no-compromises approach to this game. So will you. That's why it is cal
 
 #### Sincere Effort: You don't give up
 
-This is no FAQ - this is a *challenge* guide and it earns that name. A perfect game at Lv 1 within 12 hours? *Bring it on*, you say. Successful candidates shall demonstrate an above-average ability in the art of Soft Reset as well as have patience stats through the roof.
+This is no FAQ &ndash; this is a *challenge* guide and it earns that name. A perfect game at Lv 1 within 12 hours? *Bring it on*, you say. Successful candidates shall demonstrate an above-average ability in the art of Soft Reset as well as have patience stats through the roof.
 
 #### Intelligent Direction: You're looking at it ;)
 
@@ -1045,6 +1045,7 @@ Alright, so let's get started!
 * Now go to the ticket booth and show the ticket master your ticket.
 * Then, enter the alley once again and choose the first answer to every question asked.
 * Speak to Tom behind the steeple to claim your reward for finding the cat, a Bomb Card.
+<br/>
 
 * Follow the Rat Boy into the steeple, search it and attempt to climb the ladder.
 * Pick up Kupo's letter for delivery and save your game.
