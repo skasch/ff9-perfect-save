@@ -4931,7 +4931,7 @@ Garnet's focus is clearly on Magic, especially with her wide selection of damagi
 
 ## Vivi
 
-Vivi is a simple character stat-wise. Obviously, his set-up will focus on Magic. Like Garnet, Vivi ends up with a little over 50 Strength, but his staves are neither long-range, nor can their power be boosted by element-raising equipment. They do have Add Status properties, though - but Strength doesn't come in handy for that.
+Vivi is a simple character stat-wise. Obviously, his set-up will focus on Magic. Like Garnet, Vivi ends up with a little over 50 Strength, but his staves are neither long-range, nor can their power be boosted by element-raising equipment. They do have Add Status properties, though &ndash; but Strength doesn't come in handy for that.
 
 **Path A/B/C/Lv 1**
 
