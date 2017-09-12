@@ -3062,11 +3062,11 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 </tr>
 </table>
 
-* You will eventually gain control of Vivi outside Alexandria pub. Go right and down the street until you spot Hippaul and his mother near the bottom. Talk to his mother to initiate a mini-game. You must now raise Hippaul to Lv 80 to receive the Athlete Queen.
+* You will eventually gain control of Vivi outside the Alexandria pub. Go right and down the street until you spot Hippaul and his mother near the bottom. Talk to his mother to initiate a mini-game. You must now raise Hippaul to Lv 80 to receive the Athlete Queen.
 
 > #### Racing Hippaul for the Athlete Queen
 > 
-> * Winning a race 1 second (or more) ahead of Hippaul will raise his Lv to the nearest multiple of 5. You should easily be able to reach Lv 40 within 8 races.
+> * Winning a race 1 second (or more) ahead of Hippaul will raise his Lv to the next multiple of 5. You should easily be able to reach Lv 40 within 8 races.
 > * Running to the steeple, saving and running back to Hippaul takes 1 minute, which is equivalent to 3 races. Therefore, you actually save about 20 seconds by saving between consecutive 5-Lv races instead of gaining 1 Lv at a time.
 > * Once you reach Lv 40, save the game, and then try your best to get to Lv 60 within another 4 races, saving between each attempt. It **is** possible, albeit difficult.
 > * Do the last 20 races one Lv at a time, preferably without any more saving in between.
@@ -3079,9 +3079,10 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 >     - Take extended breaks between saves to allow your hands to rest.
 >     - Turn off the volume &ndash; the music's rhythm can be distracting.
 >     - Try changing the button configuration if you think it'll help.
->  
+> <br/>
+> 
 > * If you don't save at all, get to Lv 60 in 12 races, and do the last 20 flawlessly, then it takes 9:40 before you're back outside the pub.
-> * If you're a human, then Lv 60 is as far as you can hop to get before you have to do the races 1 Lv at a time. If you're an inventor, then it's possible to build contraptions that let you reach Lv 80 in just 16 races. And no, turbo controllers don't work.
+> * If you're a human, then Lv 60 is as far as you can hope to get before you have to do the races 1 Lv at a time. If you're an inventor, then it's possible to build contraptions that let you reach Lv 80 in just 16 races. And no, turbo controllers don't work.
 > * The target times assume you **do** get the Athlete Queen.
 > 
 > **Time**: +9:40
@@ -3182,8 +3183,8 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 <br/>
 
 * Knock out Steiner in the first battle which follows, and then proceed to clear the way with Beatrix's Life spell. Climhazzard will not be powerful enough to defeat 2 Mistodon, so don't bother.
-* After the battle outside, the pub, take a moment to remove your equipment from Beatrix and cast Cura to heal up; this is your last chance to access the menu.
-* In the last screen, you will face 3 single Mistodon, and then a pair. Don't forget to use an Elixir on Beatrix before she defeats the third and last single Mistodon, and use Full-Life from that point onwards for higher accuracy (Life can sometimes miss due to Mistodon's Magi Evade).
+* After the battle outside the pub, take a moment to remove your equipment from Beatrix and cast Cura to heal up; this is your last chance to access the menu.
+* In the last screen, you will face 3 single Mistodon, and then a pair. Don't forget to use an Elixir on Beatrix before she defeats the third and last single Mistodon, and use Full-Life from that point onwards for higher accuracy (Life can sometimes miss due to Mistodon's Magic Evade).
 <br/>
 
 * As Garnet, make your way to the top of the castle to trigger more scenes.
@@ -3304,7 +3305,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 
 **Target time**: 07:40:46
 
-* Reset, enter Chocobo's Lagoon, dig up a Chocograph, and save on the beach outside. Be sure to save over a different file and check which Chocograph you received after you've already saved; you need either Dawn Lagoon or Disk Plains.
+* Reset, enter Chocobo's Lagoon, dig up a Chocograph, and save on the beach outside. Be sure to save over a different file and check which Chocograph you received after you've already saved; you need either Dawn Lagoon or Dusk Plains.
 * Play another game of Hot&Cold for the other Chocograph. Back outside, open the Chocograph menu to check whether you got the right one, and take the opportunity to equip Dawn Lagoon.
 
 > #### Path C & Combined
@@ -3342,7 +3343,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 </table>
 
 * Challenge Catoblepas with Quina and poke him with the Needle Fork. Reset until successful.
-* Unequip all of Quina's gear and hive him/her a normal Fork, auto-arrange your inventory, and get ready for more business.
+* Unequip all of Quina's gear and give him/her a normal Fork, auto-arrange your inventory, and get ready for more business.
 * Buy a Coral Sword, then proceed to liquidate your inventory as follows:
 
 | Items sold | Quantity | Gil |
@@ -3351,7 +3352,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 | Remedy<br/>Eye Drops<br/>Echo Screen<br/>Soft<br/>Magic Tag<br/>Annoyntment<br/>Phoenix Pinion<br/>Tent<br/>Explodia<br/>Ice Brand<br/>Multina Racket<br/>Healing Rod<br/>Golem's Flute<br/>Ice Staff<br/>Needle Fork<br/>Leather Wrist<br/>Mythril Armlet<br/>Chimera Armlet<br/>Feather Hat<br/>Headgear<br/>Magus Hat<br/>Mage's Hat<br/>Ritual Hat<br/>Bronze Helm<br/>Cotton Robe<br/>Magician Robe<br/>Mythril Armor<br/>Desert Boots<br/>Germinas Boots<br/>Madain's Ring<br/>Gold Choker<br/>Cachusha<br/>Angel Earrings | 2<br/>2<br/>2<br/>1<br/>3<br/>4<br/>7<br/>4<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>2<br/>1<br/>1<br/>1<br/>2<br/>1<br/>1<br/>99<br/>1<br/>1<br/>99<br/>1<br/>1<br/>1<br/>1<br/>1 | 300<br/>50<br/>50<br/>50<br/>150<br/>300<br/>7,000<br/>1,600<br/>1,400<br/>1,890<br/>375<br/>885<br/>1,350<br/>490<br/>1,550<br/>100<br/>250<br/>1,200<br/>100<br/>165<br/>200<br/>600<br/>500<br/>165<br/>198,000<br/>4,000<br/>915<br/>74,250<br/>2,000<br/>3,750<br/>2,000<br/>1,500<br/>10,000 |
 | **Gil after** | | 391,775 |
 
-* Save your game once you've finished with this.
+* Save your game once you're finished with this.
 
 **Target time**: 07:49:22
 
@@ -3365,9 +3366,9 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Since you're already bidding here, you may as well pick up the Thief Gloves as well &ndash; they will come in handy for upcoming Steals, and you can actually turn a profit by selling it later. This item is listed only in the fourth slot, and only after you've bought the Dark Matter.
 > * Keep track of your budget! You should not leave Treno with less than 176,000 Gil, so subtract this from your current Gil total to get your auction allowance!
 > * You can spend a bit more money if you make up for it by Stealing some extra items from upcoming bosses. You can get the Power Vest from Ark, a Demon's Vest and Golden Hairpin from Meltigemini, and Mythril Claws from Taharka. But keep in mind this makes those battles harder to get right.
-> * Alternatively, you can simply do an extra Cotton Robe trick &ndash; if you have the extra time. If so, then buy 99 Wrist from the Dali shop when you're looting the gates in the area, and then drop by the Black Mage Village once you have the Hilda Garde 3 to get Steepled Hat and make the Cotton Robes.
+> * Alternatively, you can simply do an extra Cotton Robe trick &ndash; if you have the extra time. If so, then buy 99 Wrist from the Dali shop when you're looting the gates in the area, and then drop by the Black Mage Village once you have the Hilda Garde 3 to get 99 Steepled Hat and make the 99 Cotton Robe.
 > * Either way, look ahead to make sure that you'll have enough Gil when you reach Oeilvert and Esto Gaza, otherwise you'll have problems.
-> * The table below provides an overview of the items up for auction; use the price ranges and average as a guideline for pushing the first two auctions into the final stages as quickly as possible. If you already bought the key items on Disc 2, then avoid them now because you can't sell them a second tome. Reset if the Promist Ring isn't listed.
+> * The table below provides an overview of the items up for auction; use the price ranges and average as a guideline for pushing the first two auctions into the final stages as quickly as possible. If you already bought the key items on Disc 2, then avoid them now because you can't sell them a second time. Reset if the Promist Ring isn't listed.
 > 
 > | Round | Item | Price range | Average | Selling Value |
 > |-------|------|:-----------:|:-------:|:-------------:|
@@ -3379,7 +3380,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Make sure you don't buy the Mini-Cid. Its price range is very narrow, so it's easy to finish at least this first item quickly every time by bidding around 2,000 to 2,400 Gil!
 > * As for the Promist Ring, you can either try to get them at the lowest prices you can in order to save Gil and/or create a budget buffer so that you can buy later copies at higher prices; or, you can bid your target price right at the start and hope for a swift finish of the auction.
 > * Try to purchase a Promist Ring and the Dark Matter during the first auction. Equip the ring and save. Return and buy another Promist Ring as well as the Thief Gloves, equip the ring, and save again.
-> * With those items out of the way, all that's left is to win 3 more Promist Ring, at which point they will stop appearing
+> * With those items out of the way, all that's left is to win 3 more Promist Ring, at which point they will stop appearing.
 > * Then, return to the Blue Narciss. Put Eiko in your party, equip her with the Promist Ring in your inventory, and then reorganize your party again so that you take Steiner, Freya and Amarant.
 > * Play a game of Hot&Cold for the Forbidden Forest Chocograph before returning to Treno. If playing **Path C** or **Combined**, see the box below.
 > * Win the last 4 Promist Ring &ndash; and that's it!
@@ -3394,7 +3395,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > 
 > * In addition to the Forbidden Forest Chocograph, you also need to find the Green Plains Chocograph, 2 Chocograph Pieces, and as many Dead Pepper as you can.
 > * You'll need exactly 3 Dead Pepper for Pandemonium, and they're also needed to enter Chocobo's Air Garden.
-> * As usual, do your best to complete this on only 2 games, and don't save after the second; head straight back to Treno instead and save with Mogrich before you continue buying at the auction.
+> * As usual, do your best to complete this in only 2 games, and don't save after the second; head straight back to Treno instead and save with Mogrich before you continue buying at the auction.
 > * The extra time here is for the second game.
 > 
 > **Time**: +2:00
@@ -3402,7 +3403,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 * Say goodbye to the Auction House and head over to South Gate.
 * Open the chest which you couldn't get at the start of Disc 2 for an Elixir Card, then cross the mountain to reach the South Gate by the river; open the 3 chests there for an Elixir, another Elixir, and 3,206 Gil.
 * Next up is North Gate: pick up the Potion and Eye Drops from the Alexandrian side, and then go over to the other side to pick up a Hi-Potion and a Tent.
-* Dig up the Forbidden Forest Chocograph on the way there to get 10 Wing Edge and a High Mage Staff
+* Dig up the Forbidden Forest Chocograph on the way there to get 10 Wing Edge and a High Mage Staff.
 
 > #### Moguta's Extension
 > 
@@ -3545,10 +3546,10 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 
 **Take a moment to relish your 10th Promist Ring! :D**
 
-* In the next room, make the blue walkway appear by running th the ends of both sides of the screen (to make the statues look away from the center). Run to the right first, and then to the left, so that you can briefly exit and re-enter to reset the random encounter rate.
+* In the next room, make the blue walkway appear by running to the ends of both sides of the screen (to make the statues look away from the center). Run to the right first, and then to the left, so that you can briefly exit and re-enter to reset the random encounter rate.
 * Follow the blue walkway to find another candelabra; light it.
 * Return and pick up the Fairy Earrings from the chest on the right side of the landing.
-* Place Freya in the front row and equip your party as follow:
+* Place Freya in the front row and equip your party as follows:
 
 | Vivi | Freya | Quina | Garnet |
 |------|-------|-------|--------|
@@ -3564,7 +3565,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 * Light the bottom-left torch, then return to the other side and light the torches on either side of the central stairway.
 * Next, light the remaining torches on the right side and then the middle one to activate the next Bloodstone; extract the Anklet and head through the far right doorway.
 * Light the candle in the following hallway and extract the Shield Armor from the activated Bloodstone.
-* Go onward and up the stairs to find a candelabra; light t in order to illuminate the stained glass on the wall.
+* Go onward and up the stairs to find a candelabra; light it in order to illuminate the stained glass on the wall.
 * Continue onward to enter a library.
 <br/>
 
@@ -3631,7 +3632,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 * Follow the same instructions as before if you still need to raise Zidane's Trance gauge.
 <br/>
 
-* You will get another opportunity to arrange your party before disembarking on the Lost Continent, but don't make any changes.
+* You will get another opportunity to arrange your party before disembarking on the Lost Continent, but don't make any change.
 * Run a bit towards Esto Gaza, then call Moguo and finally save your game.
 
 **Target time**: 08:52:28 (+15:31) **Target Gil**: 134,283 **Encounters**: 2
@@ -3675,7 +3676,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * The remaining Red Dragon then has a 1 in 3 change of using Dive. This will always hit and knock out Freya thanks to the Cover ability, and Amarant can attack again for the win.
 > <br/>
 > 
-> * You can make up the missed AP gains by finding the Friendly Feather Circle near the Chocobo tracks and giving it a Moonstone.
+> * You can make up for the missed AP gains by finding the Friendly Feather Circle near the Chocobo tracks and giving it a Moonstone.
 
 * Enter Esto Gaza and watch the scenes.
 * Before going on to Mount Gulug, head right to find the equipment shop and make the following purchases:
@@ -3687,6 +3688,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 | **Gil after** | | 31,103 |
 
 * There are other missable items up for sale here, but you can buy them later once you have more Gil at your disposal.
+* Don't forget to grab the Wing Edge behind the equipment shop before heading back.
 <br/>
 
 * Equip your party as indicated below, then return to the lobby and go through the doorway in the back.
@@ -3857,7 +3859,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 > * Afterwards, swim north to the long peninsula on the Outer Continent and save your game in one of the forests there.
 > <br/>
 > 
-> * Load and reset until you have a shadow appears on Kuentis peninsula just a bit to the south, then use a Dead Pepper when positioned above the shadow to reach Chocobo's Air Garden.
+> * Load and reset until a shadow appears on Kuentis peninsula just a bit to the south, then use a Dead Pepper when positioned above the shadow to reach Chocobo's Air Garden.
 > * All you need to do here is find the Fairy Island Chocograph and be on your merry way!
 > * If you have the time to spare, then you may want to consider digging up the Forgotten Island Chocograph as well. This gets you a second Rebirth Ring, which can make the Pandemonium battles a bit easier. However, you'll have to play an extra game at the Air Garden, and dig up an extra Chocograph, so make sure you have the extra time. This is not included in the target times.
 > * Make sure you have 3 Dead Pepper in your inventory at the end! It's not absolutely necessary, but Pandemonium will be easier with them. Sell any extras if necessary.
@@ -3924,7 +3926,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 ### Ipsen's Castle &rarr; Blairsurpass Plains
 
 * Enter and choose whatever you like at the prompt &ndash; you can't prevent Amarant from leaving either way.
-* Take Steiner, Freya and Quina with you, and equip the party as follow:
+* Take Steiner, Freya and Quina with you, and equip the party as follows:
 
 | Zidane | Steiner | Freya | Quina |
 |--------|---------|-------|-------|
@@ -3982,7 +3984,7 @@ The 6 encounters include the Dracozombie for Zombification, and exclude the forc
 | Remedy<br/>Antidote<br/>Eye Drops<br/>Echo Screen<br/>Soft<br/>Annoyntment<br/>Vaccine<br/>Tent<br/>Rising Sun<br/>Wing Edge<br/>Cat's Claws<br/>Lamia's Flute<br/>Mythril Rod<br/>Oak Staff<br/>High Mage Staff<br/>Glass Armlet<br/>Thief Gloves<br/>Ritual Hat<br/>Red Hat<br/>Golden Hairpin<br/>Gold Helm<br/>Silk Shirt<br/>Adaman Vest<br/>Brigandine<br/>Gaia Gear<br/>Plate Mail<br/>Shield Armor<br/>Demon's Mail<br/>Feather Boots<br/>Anklet<br/>Extension | 1<br/>6<br/>5<br/>5<br/>3<br/>5<br/>2<br/>2<br/>1<br/>12<br/>1<br/>1<br/>1<br/>2<br/>1<br/>2<br/>1<br/>2<br/>1<br/>1<br/>1<br/>1<br/>2<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1<br/>1 | 150<br/>150<br/>125<br/>125<br/>150<br/>375<br/>100<br/>800<br/>250<br/>18,000<br/>2,000<br/>1,900<br/>280<br/>2,400<br/>3,000<br/>250<br/>25,000<br/>1,000<br/>1,500<br/>1,850<br/>900<br/>200<br/>1,600<br/>2,150<br/>4,350<br/>1,160<br/>2,150<br/>2,950<br/>3,000<br/>1,600<br/>5,000 | Rune Blade<br/>Obelisk<br/>Tiger Fangs<br/>Asura's Rod<br/>Hamelin<br/>Octagon Rod<br/>Diamond Armor | 2<br/>2<br/>2<br/>2<br/>2<br/>2<br/>3 | 17,800<br/>12,000<br/>27,000<br/>6,360<br/>11,400<br/>9,000<br/>26,400 |
 | **Gil after** | | 139,781 | **Gil after** | | 29,821 |
 
-* You don't need to buy the Zorlin Shape yet if you don't have the money &ndash; you'll have more soon and can buy the swords on Terra.
+* You don't need to buy the Zorlin Shape yet if you don't have the money &ndash; you'll have more soon and can buy them on Terra.
 * You can sell any other items which Zidane may have stolen from bosses and which were not specifically mentioned. Do a Ctrl+F search to make sure everything you sell will no longer be needed.
 <br/>
 
@@ -4201,7 +4203,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 
 * Walk to the left along the water to reach the left area of Bran Bal; enter the building on the left.
 * After the scenes, enter the doorway at the top of the area.
-* Go down the stairs and pick up the Elixir at the bottom of the screen, then speak with the girl nearby; follow her back up the stairs
+* Go down the stairs and pick up the Elixir at the bottom of the screen, then speak with the girl nearby; follow her back up the stairs.
 <br/>
 
 * As Eiko, pick up the Elixir in the back of the room.
@@ -4257,7 +4259,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 **Path A/B/Lv 1**
 
 * Have Zidane Defend and Quina use Limit Glove as soon as possible; you are almost guaranteed to be able to do this before the third attack.
-* Wait for Abadon's third attack, then have Quina knock him/herself out and Zidane attack to win the battle and absorb the EXP..
+* Wait for Abadon's third attack, then have Quina knock him/herself out and Zidane attack to win the battle and absorb the EXP.
 
 **Path C/Combined**
 
@@ -4329,7 +4331,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 </table>
 
 * You'll likely enter at least 1 battle before you reach the next save point.
-* Have everyone beside Zidane knock themselves out before you use Flee, then revive them after the battle.
+* Have everyone besides Zidane knock themselves out before you use Flee, then revive them after the battle.
 * Do **not** heal anyone at all during this process; the point of this is to get the entire party to critical HP!
 <br/>
 
@@ -4347,7 +4349,7 @@ If you got the second Rebirth Ring, then replace Zidane's Bandana with a Green B
 * Now take the leftmost pink teleporter; take the path which branches off to the right to reach a chest containing Battle Boots.
 * Go back and take the path to the next blue teleporter which will eventually bring you to Mozme's platform.
 
-Place everyone in the front row, make sure they're all at critical HP, and equip then as follows before moving on:
+Place everyone in the front row, make sure they're all at critical HP, and equip them as follows before moving on:
 
 | Zidane | Steiner | Freya | Amarant |
 |--------|---------|-------|---------|
@@ -4372,7 +4374,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 
 #### Battle: Garland (0 AP)
 
-* Just use Charge!, and physical attacks from Freya and Amarant to end this battle in 2 rounds. Keep Zidane on standby until Garland acts.
+* Just use Charge! and physical attacks from Freya and Amarant to end this battle in 2 rounds. Keep Zidane on standby until Garland acts.
 * Have Zidane distribute Phoenix Down to anyone who gets knocked out. If Zidane himself gets knocked out, have Amarant revive him instead.
 * Try to have someone throw Steiner an Elixir before the next battle.
 
@@ -4393,6 +4395,8 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 ## Disc 4 &ndash; Congratulations! You've finished Disc 3!
 
 ### Start of Disc 4 &rarr; Memoria Entrance
+
+* Choose Quina, Freya and Amarant when prompted to form a party.
 
 > #### The Nero Family side-quest (1/3)
 > 
@@ -4415,8 +4419,11 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 * You've basically won this battle if you get the chance to cast Night.
 * Make everyone who acts before Quina attack, then cast Night and wait for everyone's ATB gauges to refill.
 * Enter all your commands in rapid succession and make sure that you select Night as the last command and just before Nova wakes up from getting hit.
-* Freya (or Zidane if he's stronger) should be the first to attack when Nova Dragon is asleep to best advantage of the multiplier for attacking a sleeping target.
+* Freya (or Zidane if he's stronger) should be the first to attack when Nova Dragon is asleep to best take advantage of the multiplier for attacking a sleeping target.
 * Have Zidane act as medic when necessary.
+
+---
+
 * Run up the brick path and immediately use the blue glyph to exit Memoria, forming a party with Zidane, Steiner, Freya and Amarant.
 
 > #### The Nero Family side-quest (2/3)
