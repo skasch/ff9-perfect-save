@@ -4559,7 +4559,7 @@ Place everyone in the front row, make sure they're all at critical HP, and equip
 
 * Once you defeat Lich, approach the broken column on the right side of the chamber and examine it to find a note to Gilgamesh and the…
 
-<center>**Excalibur II! Congrats!**</center>
+<p align="center">**Excalibur II! Congrats!**</p>
 
 # Leftovers
 
