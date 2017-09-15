@@ -368,7 +368,7 @@ Characters table
 | Green Beret | **P** 7 (ZVGQEAI) | **B** 7 (Oeilvert) |
 | Judo Uniform | **P** 7 (ZVGQEAI) | **B** 7 (Esto Gaza) |
 | Gold Armor | **P** 3 (SFI) | **B** 3 (Esto Gaza) |
-| Zorlin Shape | **P** 2 (ZI)<br/>**S** 2 (Sargatanas)<br/>**S** 3 (Thief Gloves)<br/>**S** 2 (Masamune) | **B** 8 (Bran Bal)<br/>**U** 1 [Thief Gloves] (Treno Auction House) |
+| Zorlin Shape | **P** 2 (ZI)<br/>**S** 2 (Sargatanas)<br/>**S** 3 (Thief Gloves)<br/>**S** 2 (Masamune) | **B** 9 (Bran Bal) |
 | Flame Saber | **P** 2 (SI) | **B** 2 (Esto Gaza) |
 | Heavy Lance | **P** 2 (FI) | **B** 2 (Esto Gaza) |
 | Scissor Fangs | **P** 2 (AI) | **B** 2 (Esto Gaza) |
@@ -4609,7 +4609,7 @@ Fly to Popos Height above Gizamaluke's Grotto and fight Grand Dragon. Quina will
 
 Yan has a terrible reputation, but in the end, with the right strategy the battles come down to luck, and this will turn in your favor with every Lv you gain. Out of the hundreds of battles I fought, I think I only lost 2 or 3.
 
-One thing to note is that Virus doesn't cause you to lose EXP; the EXP the character would have gotten is redistributed among the others, so even if 3 characters have Virus, you're still getting optimal EXP unless the last character already has 9,999,999. As a matter of fact, characters with that much EXP will automatically give up their share of the EXP, so they don't even need Virus. Also, without Virus the can continue learning abilities.
+One thing to note is that Virus doesn't cause you to lose EXP; the EXP the character would have gotten is redistributed among the others, so even if 3 characters have Virus, you're still getting optimal EXP unless the last character already has 9,999,999. As a matter of fact, characters with that much EXP will automatically give up their share of the EXP, so they don't even need Virus. Also, without Virus they can continue learning abilities.
 
 **The strategy:**
 
@@ -4672,13 +4672,13 @@ The question is: what is the perfect arrow arrangement? There are 256 arrow comb
 | 8 | 1 |
 | **Total** | 256 |
 
-How you distribute these arrow combinations among your cards is up to you. You can give your strongest cards the most arrows, give them more cards the higher their card # ,use only the top 100 combinations to ensure that you have the maximum number of total arrows in your collection… it's really up to you.
+How you distribute these arrow combinations among your cards is up to you. You can give your strongest cards the most arrows, give them more arrows the higher their card # ,use only the top 100 combinations to ensure that you have the maximum number of total arrows in your collection… it's really up to you.
 
-Once you're satisfied with your arrow arrangement, you'll need to max out the statistics of your cards. In order to upgrade a card's rank, it must engage in a card battle and wil &ndash; whether it is the attacking or defending card does not matter, though. It is random whether your card's rank rises: the odds of upgrading from P/M to X are 4/256; from X to A it's 2/256. Since arrowless cards cannot engage in card battles, their rank cannot be upgraded. However it is possible to win X-rank cards from the CPU, and therefore possible to obtain an arrowless X-rank card this way.
+Once you're satisfied with your arrow arrangements, you'll need to max out the statistics of your cards. In order to upgrade a card's rank, it must engage in a card battle and win &ndash; whether it is the attacking or defending card does not matter, though. It is random whether your card's rank rises: the odds of upgrading from P/M to X are 4/256; from X to A it's 2/256. Since arrowless cards cannot engage in card battles, their rank cannot be upgraded. However it is possible to win X-rank cards from the CPU, and therefore possible to obtain an arrowless X-rank card this way.
 
-You get 1 point per X-rank card in your collection, and 2 points per A-rank car. That's how you get the remaining 200 Collector's points after getting 1,500 from having each card with a unique arrow arrangement.
+You get 1 point per X-rank card in your collection, and 2 points per A-rank card. That's how you get the remaining 200 Collector's points after getting 1,500 from having each card with a unique arrow arrangement.
 
-Finally, you will want to max out you card's attack and defense statistics. Each of your 5 playing cards gets 1 point to a random stat once you win the card game. This is added to a hidden total, and this hidden total determines the stats shown on the card. If the random point goes to a stat which is already maxed out, then it is wasted. This, combined with the very high caps on most cards, means you'll need a very long time to max out all of your cards.
+Finally, you will want to max out your cards' attack and defense statistics. Each of your 5 playing cards gets 1 point to a random stat once you win the card game. This is added to a hidden total, and this hidden total determines the stats shown on the card. If the random point goes to a stat which is already maxed out, then it is wasted. This, combined with the very high caps on most cards, means you'll need a very long time to max out all of your cards.
 
 The table below lists the maximum stats and default rank for each card:
 
@@ -4830,7 +4830,7 @@ Finally, the set-ups illustrated in this section are now **guaranteed** to be th
 
 ## Zidane
 
-Zidane is obviously a physical attacker, so all of his set-ups will focus on Strength. Speed or Magic are equally useless, but Magic is given priority because at least in theory, it is useful for paying for his Skills. You can also obtain more stat points in total by focusing on Magic than on Speed, and Zidane will still be by far the fastest character in the game.
+Zidane is obviously a physical attacker, so all of his set-ups will focus on Strength. Speed or Magic are equally useless, but Magic is given priority because at least in theory, it is useful for paying for his Skills. You can also obtain more stat points in total by focusing on Magic rather than on Speed, and Zidane will still be by far the fastest character in the game.
 
 **Path A**
 
@@ -5012,21 +5012,21 @@ Quina is an odd character, and he/she doesn't really use neither Strength nor Ma
 *Strength*:
 
 * HP is more important than MP and increases the potency of White Wind
-* More STR increases the damage cap of Quina's physical attack which is useful with the Counter ability for free damage.
-* MP can be made up for with Half MP, MP+10%, and/or Absorb MP, but no such boosts are available for Strength.
+* More STR increases the damage cap of Quina's physical attack which is useful with the Counter ability for free damage
+* MP can be made up for with Half MP, MP+10%, and/or Absorb MP, but no such boosts are available for Strength
 
 *Magic*:
 
-* Quina is above all a Blue *Mage* with Blue *Magic*.
+* Quina is above all a Blue *Mage* with Blue *Magic*
 * Party has 4 Strength-oriented characters and 4 Magic-oriented characters
-* Earth Shake is a powerful spell.
-* Quina can attain a higher maximum Magic than maximum Strength.
+* Earth Shake is a powerful spell
+* Quina can attain a higher maximum Magic than maximum Strength
 
 *Balanced*:
 
-* Best of both worlds.
-* Probably what was intended by the developers.
-* No need to make tough decisions.
+* Best of both worlds
+* Probably what was intended by the developers
+* No need to make tough decisions
 
 **Path A/B/Lv1 &ndash; STR**
 
@@ -5130,9 +5130,9 @@ Amarant is similar to Zidane, except that he has more Level Ups available at the
 
 # Treasure locations
 
-The following is a list of the locations of all treasures in FFIX, in case you can't find some of them. They are listed by the area in which they appear and then in categorical order; medicinal items are listed first, followed by equipment, gems, cards, key items and finally Gil. The areas are listed in the order in which you first visit them.
+The following is a list of the locations of all treasures in FFIX, in case you can't find some of them. They are listed by the area in which they appear and then in categorical order; medicinal items are listed first, followed by equipment, gems, cards, key items and finally Gil. The areas are listed in the order in which you can first visit them.
 
-An **F** indicates that this is a field icon treasure, a **C** means the item is found in a chest and an **R** means it is received as a reward or by other means. An **\*** indicates that this treasure **can** be picked up on Disc 4 after obtaining the Excalibur II. Finally, a **@** on the map indicates a save point (a moogle, most of the time). Some location names are taken directly from the **location** bar on the bottom of the menu screen, so check it when looking for a treasure.
+An **F** indicates that this is a field icon treasure, a **C** means the item is found in a chest and an **R** means it is received as a reward or by other means. A **\*** indicates that this treasure **can** be picked up on Disc 4 after obtaining the Excalibur II. Finally, a **@** on the map indicates a save point (a moogle, most of the time). Some location names are taken directly from the **location** bar on the bottom of the menu screen, so check it when looking for a treasure.
 
 ## Alexandria
 
@@ -5316,7 +5316,7 @@ The prizes received for jumping rope can also be gotten on Disc 1.
 | Ether | | **C** | 2 | In Vivi's room |
 | Ether | | **C** | 3 | Near the bottom of the Hallway outside Steiner's room |
 | Ether | | **C** | 4 | In Steiner's room |
-| Phoenix Down | | **F** | 5 | Near the bodies outside the wrechage |
+| Phoenix Down | | **F** | 5 | Near the bodies outside the wreckage |
 | Leather Hat | | **C** | 6 | In the Hallway with the exit of the Prima Vista |
 | Rubber Helm | | **F** | 7 | In the back of the Cargo Room |
 | Wrist | | **C** | 8 | In the Hallway; on the far left |
@@ -5385,7 +5385,7 @@ To Gunitas Basin
 
 ###### Notes
 
-A **&** indicates the location of an ice wall or pillar. Please note that you must take the Potion (2) before interacting with the pillar to get the Mage Masher (7).
+A **&** indicates the location of an ice wall or pillar. Please note that you must get the Potion (2) before interacting with the pillar to get the Mage Masher (7).
 
 | Item | D4 | Found | Map | Location |
 |------|:--:|:-----:|:---:|----------|
@@ -5590,7 +5590,7 @@ To Eunorus  ┌─┐ Lift to
 | Mimic Card | | **C** | In the Industrial District Residence |
 | Wyerd Card | | **C** | In the back of the Serpent's Gate trolley station |
 | Mini-Burmecia | | **F** | In the Tantalus Playhouse; on the bed |
-| Autograph | | **R** | Given to you by Lowell in Artist Michael's Studio
+| Autograph | | **R** | Given to you by Lowell in Artist Michael's Studio |
 | Moogle Suit | | **F** | In Artist Michael's Studio; on the right |
 | 68 Gil | | **C** | In the Tantalus Playhouse |
 | 97 Gil | | **C** | In the Tantalus Playhouse |
@@ -5646,7 +5646,8 @@ The Ore found on Disc 2 in Artist Michael's Studio is **not** the same one which
 | Elixir | **\*** | **R** | Given to you by Quale for catching 15 frogs |
 | Silver Fork | **\*** | **R** | Given to you by Quale for catching 23 frogs |
 | Bistro Fork | **\*** | **R** | Given to you by Quale for catching 33 frogs |
-| Silk Robe | **\*** | **R** | Given to you by Quale for catching 45 frogs |
+| Gastro Fork | **\*** | **R** | Given to you by Quale for catching 99 frogs |
+| Silk Robe | **\*** | **R** | Given to you by Quale for catching 9 frogs |
 | Battle Boots | **\*** | **R** | Given to you by Quale for catching 45 frogs |
 | Ore | **\*** | **R** | Given to you by Quale for catching 2 frogs |
 
@@ -5816,7 +5817,7 @@ There are some fake chests in Burmecia. Getting near one throws you into a battl
 
 | Item | D4 | Found | Location |
 |------|:--:|:-----:|----------|
-| Ether | | **F** | IN the inn; on a nightstand on the upper floor |
+| Ether | | **F** | In the inn; on a nightstand on the upper floor |
 | Ether | | **F** | On the balcony of the Cathedral |
 | Ether | | **R** | Receive this from the survivors of the attack |
 | Elixir | | **R** | Receive this from the survivors of the attack |
@@ -6056,18 +6057,18 @@ You can get only 1 of the 2 cards.
 |------|:--:|:-----:|----------|
 | Protect Ring | **\*** | **R** | Given to you by Artemicion for restoring Mognet |
 
-## Chocobo's Paradise
-
-| Item | D4 | Found | Location |
-|------|:--:|:-----:|----------|
-| Fat Chocobo Card | **\*** | **R** | From Fat Chocobo for digging up all Chocographs |
-
 ## Chocobo's Air Garden
 
 | Item | D4 | Found | Location |
 |------|:--:|:-----:|----------|
 | Ozma Card | **\*** | **R** | Awarded for defeating Ozma |
 | Strategy Guide | **\*** | **R** | Awarded for defeating Ozma |
+
+## Chocobo's Paradise
+
+| Item | D4 | Found | Location |
+|------|:--:|:-----:|----------|
+| Fat Chocobo Card | **\*** | **R** | From Fat Chocobo for digging up all Chocographs |
 
 ## Memoria
 
@@ -6096,7 +6097,7 @@ Short answer: Yes. Long answer: Not really.
 
 The problem with the PAL version is that the game runs at 50Hz (i.e. a bit slower than the 60Hz NTSC version), but the clock runs at the same speed as in NTSC. In effect, this means that a PAL player will take approximately 12 minutes more for every hour an NTSC player would need. On a scale of 12 hours, that becomes almost 2 and a half hours which a PAL gamer needs to make up somewhere, which is astronomical for this challenge. In the end, a PAL player would need to complete the challenge within around 10 hours instead of 12.
 
-For a very long time, it was considered impossible. However, a user named 2jankku has completed a PAL run and gotten the Excalibur II, with just under 3 minutes to spare.
+For a very long time, it was considered impossible. However, a user named Zjankku has completed a PAL run and gotten the Excalibur II, with just under 3 minutes to spare.
 
 So what's the catch?
 
@@ -6137,7 +6138,7 @@ With these new strategies and the large buffer times they allow for most stat pa
 
 So before you start complaining, be happy you're not one of the playtesters!
 
-All in all, there are a lot of factors that play into this, like previous experience with speed runs, with the game itself, and of course luck. I think that with the newest strategies and the considerable buffers, players should be able to reach the Excalibur I within 100-150 real life hours, provided they properly take advantage of the extra time available.
+All in all, there are a lot of factors that play into this, like previous experience with speed runs, with the game itself, and of course luck. I think that with the newest strategies and the considerable buffers, players should be able to reach the Excalibur II within 100-150 real life hours, provided they properly take advantage of the extra time available.
 
 ## Is there any way to reduce the number of random encounters?
 
@@ -6166,7 +6167,7 @@ Furthermore, Eiko will not have *perfect* stats if you raise him to Lv 99, she'l
 
 ## I can't keep up with the target times. What am I doing wrong?
 
-If you're not playing on a PS2 with the Fast Disc Speed setting turned on, then that's probably the main factor. Other than that, make sure your menu operations are lightning fast, and that your battles end quickly. If a key character gets knocked out and you have to spend time reviving him/her and waiting for their ATB gauge to refill and them to act, then you've probably already lost 30 seconds, if not more. I segments without any battles, your time should not be off by more than around 15 seconds, because there are no random factors which could affect it other than menu operations, dialogue skipping, and simply running from one area to another.
+If you're not playing on a PS2 with the Fast Disc Speed setting turned on, then that's probably the main factor. Other than that, make sure your menu operations are lightning fast, and that your battles end quickly. If a key character gets knocked out and you have to spend time reviving him/her and waiting for their ATB gauge to refill and them to act, then you've probably already lost 30 seconds, if not more. In segments without any battles, your time should not be off by more than around 15 seconds, because there are no random factors which could affect it other than menu operations, dialogue skipping, and simply running from one area to another.
 
 # Credits
 
@@ -6174,7 +6175,7 @@ Thanks go out to everyone who contributed to the making of this challenge and th
 
 Whether it was through proofreading, commenting, testing or participating in one of the **countless** message board discussions, you've all done something to make this guide what it is today. There is no way I could have managed this all by myself.
 
-**So let's the credits roll! :D**
+**So let the credits roll! :D**
 
 (in alphabetic order)
 
